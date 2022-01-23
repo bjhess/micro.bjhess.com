@@ -1,0 +1,649 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "I am BARRY HESS",
+	"icon": "https://micro.blog/bjhess/avatar.jpg",
+	"home_page_url": "https://micro.bjhess.com/",
+	"feed_url": "https://micro.bjhess.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://bjhess.micro.blog/2022/01/21/living-by-what.html",
+				
+				"content_html": "<blockquote>\n<p>Living by what yet get, life by what you give.</p>\n\n<p>&ndash; <cite>Winston Churchill</cite></p>\n</blockquote>\n",
+				"content_text": "> Living by what yet get, life by what you give.\n>\n> -- <cite>Winston Churchill</cite>\n",
+				"date_published": "2022-01-21T16:58:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/21/living-by-what.html",
+				"tags": ["Ephemera","Quoting"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/20/unsolicited-advice-to.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://www.reddit.com/r/Poetry/comments/s8kwze/poem_unsolicited_advice_to_minnesota_children_by/\"><strong>Unsolicited Advice to Minnesota Children</strong></a> by Neil Hilborn</p>\n\n<p>I shouldn&rsquo;t quote the whole thing because that would be inappropriate, so I&rsquo;ll do something worse and <em>excerpt</em> a <em>poem</em>:</p>\n\n<blockquote>\n<p>and you ingrate children of the snow<br />\nspend all your time in &ldquo;classes&rdquo;<br />\nlearning about &ldquo;things&rdquo; that will teach you<br />\nnothing about ice skating on the bones<br />\nof your enemies or lighting moose<br />\non fire or felling fir trees</p>\n</blockquote>\n\n<p>Anyway, I love it!</p>\n",
+				"content_text": "🔗 [**Unsolicited Advice to Minnesota Children**](https://www.reddit.com/r/Poetry/comments/s8kwze/poem_unsolicited_advice_to_minnesota_children_by/) by Neil Hilborn\n\nI shouldn't quote the whole thing because that would be inappropriate, so I'll do something worse and _excerpt_ a _poem_:\n\n> and you ingrate children of the snow  \n> spend all your time in \"classes\"  \n> learning about \"things\" that will teach you  \n> nothing about ice skating on the bones  \n> of your enemies or lighting moose  \n> on fire or felling fir trees\n\nAnyway, I love it!\n",
+				"date_published": "2022-01-20T20:37:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/20/unsolicited-advice-to.html",
+				"tags": ["Ephemera","Linking","Quoting"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/20/bolt-my-youngest.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/13053-bolt\"><strong>Bolt</strong></a> (2008)</p>\n\n<p>My youngest had never seen this one, so we watched it tonight while the other kids were busy with a school activity. It&rsquo;s a cute little adventure.</p>\n\n<p><img src=\"uploads/2022/05788c9c98.jpg\" width=\"600\" height=\"343\" alt=\"\" /></p>\n",
+				"content_text": "🍿 [**Bolt**](https://www.themoviedb.org/movie/13053-bolt) (2008)\r\n\r\nMy youngest had never seen this one, so we watched it tonight while the other kids were busy with a school activity. It's a cute little adventure.\n\n<img src=\"uploads/2022/05788c9c98.jpg\" width=\"600\" height=\"343\" alt=\"\" />\n",
+				"date_published": "2022-01-20T20:24:23-06:00",
+				"url": "https://micro.bjhess.com/2022/01/20/bolt-my-youngest.html",
+				"tags": ["Ephemera","Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/20/activesupport-image-storage.html",
+				"title": "ActiveSupport Image Storage and Processing at Render.com",
+				"content_html": "<p>I’m standing up a prototype app using Rails and <a href=\"https://render.com\">Render</a>. It wasn’t too hard to figure out how to get things going - Render’s docs have been pretty good! But I figured it is worth jotting down a few pointers about what I had to do right now while using a Render <a href=\"https://render.com/docs/native-environments\">native environment</a> and Rails 7.0.1.</p>\n\n<ul>\n<li>The Rails guide on <a href=\"https://guides.rubyonrails.org/active_storage_overview.html\">Active Storage</a> is generally great.</li>\n<li>You will be using <a href=\"https://render-web.onrender.com/docs/disks\">Render Disks</a> for storage, which means you can no longer stay on the free plan.</li>\n<li>Of the available image processing options, Render’s native environments only include <a href=\"https://imagemagick.org\">imagemagick</a> out of the box, so you will have to use MiniMagick for your processor.\n\n<ul>\n<li>This means <code>brew install imagemagick</code></li>\n<li>Rails is transitioning to preferring <a href=\"https://www.rubydoc.info/gems/ruby-vips/Vips/Image\">Vips</a>. While it <a href=\"https://github.com/rails/rails/issues/44211#issuecomment-1017743763\">is not documented yet</a>, you will need <code>config.active_storage.variant_processor = :mini_magick</code> in <code>application.rb</code> to get things working.</li>\n</ul></li>\n<li>When setting up your <a href=\"https://render-web.onrender.com/docs/disks\">Disk</a>, note your mount path. I used <code>/storage</code>.</li>\n<li>Your <code>storage.yml</code> for production should look something like this:<br /></li>\n</ul>\n\n<pre>\nproduction_local:\n  service: Disk\n  root: '/storage'\n</pre>\n\n<ul>\n<li><code>config/environments/production.rb</code> needs:<br /></li>\n</ul>\n\n<pre>\nconfig.active_storage.service = :production_local\n</pre>\n",
+				"content_text": "I’m standing up a prototype app using Rails and [Render](https://render.com). It wasn’t too hard to figure out how to get things going - Render’s docs have been pretty good! But I figured it is worth jotting down a few pointers about what I had to do right now while using a Render [native environment](https://render.com/docs/native-environments) and Rails 7.0.1.\n\n* The Rails guide on [Active Storage](https://guides.rubyonrails.org/active_storage_overview.html) is generally great.\n* You will be using [Render Disks](https://render-web.onrender.com/docs/disks) for storage, which means you can no longer stay on the free plan.\n* Of the available image processing options, Render’s native environments only include [imagemagick](https://imagemagick.org) out of the box, so you will have to use MiniMagick for your processor.\n    * This means `brew install imagemagick` \n    * Rails is transitioning to preferring [Vips](https://www.rubydoc.info/gems/ruby-vips/Vips/Image). While it [is not documented yet](https://github.com/rails/rails/issues/44211#issuecomment-1017743763), you will need `config.active_storage.variant_processor = :mini_magick` in `application.rb` to get things working.\n* When setting up your [Disk](https://render-web.onrender.com/docs/disks), note your mount path. I used `/storage`.\n* Your `storage.yml` for production should look something like this:  \n \n<pre>\nproduction_local:\n  service: Disk\n  root: '/storage'\n</pre>\n\n* `config/environments/production.rb` needs:  \n\n<pre>\nconfig.active_storage.service = :production_local\n</pre>\n",
+				"date_published": "2022-01-20T14:25:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/20/activesupport-image-storage.html",
+				"tags": ["Ephemera","Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/19/where-the-deer.html",
+				
+				"content_html": "<p>📚 <a href=\"https://bookshop.org/books/where-the-deer-and-the-antelope-play-the-pastoral-observations-of-one-ignorant-american-who-loves-to-walk-outside/9781101984697\"><strong>Where the Deer and the Antelope Play</strong></a> (2021)</p>\n\n<p>I like how Nick Offerman writes. It inspires me to be more playful with my scribbles. Maybe I can be a little janky, leave some words out, and use a fancy phrase or five for fun. There&rsquo;s definitely a schtick to it and he can spread it too thick at times. One of the themes in the book is &ldquo;nuance,&rdquo; which makes it striking when Offerman paints 40% of the American population with a pretty obese brush. The dual focus of describing our beautiful land right next to lamenting our ugly politics doesn&rsquo;t really do a lot of favors to either discussion.</p>\n\n<p><img src=\"uploads/2022/6d71ac0f22.jpg\" width=\"265\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "📚 [**Where the Deer and the Antelope Play**](https://bookshop.org/books/where-the-deer-and-the-antelope-play-the-pastoral-observations-of-one-ignorant-american-who-loves-to-walk-outside/9781101984697) (2021)\r\n\r\nI like how Nick Offerman writes. It inspires me to be more playful with my scribbles. Maybe I can be a little janky, leave some words out, and use a fancy phrase or five for fun. There's definitely a schtick to it and he can spread it too thick at times. One of the themes in the book is \"nuance,\" which makes it striking when Offerman paints 40% of the American population with a pretty obese brush. The dual focus of describing our beautiful land right next to lamenting our ugly politics doesn't really do a lot of favors to either discussion. \n\n<img src=\"uploads/2022/6d71ac0f22.jpg\" width=\"265\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2022-01-19T13:30:03-06:00",
+				"url": "https://micro.bjhess.com/2022/01/19/where-the-deer.html",
+				"tags": ["Ephemera","Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/19/hello-old-friend.html",
+				
+				"content_html": "<p>Hello, <a href=\"https://guides.rubyonrails.org/getting_started.html\">Rails</a>, old friend.</p>\n",
+				"content_text": "Hello, [Rails](https://guides.rubyonrails.org/getting_started.html), old friend.\n",
+				"date_published": "2022-01-19T10:04:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/19/hello-old-friend.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/18/an-app-can.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://www.robinsloan.com/notes/home-cooked-app/\"><strong>An app can be a home-cooked meal</strong></a></p>\n\n<blockquote>\n<p>I am the programming equivalent of a home cook.</p>\n</blockquote>\n\n<p>What an informative story about using programming to solve a problem for one&rsquo;s family. Also, I do kind of want the app!</p>\n",
+				"content_text": "🔗 [**An app can be a home-cooked meal**](https://www.robinsloan.com/notes/home-cooked-app/)\n\n> I am the programming equivalent of a home cook.\n\nWhat an informative story about using programming to solve a problem for one's family. Also, I do kind of want the app!\n",
+				"date_published": "2022-01-18T19:48:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/18/an-app-can.html",
+				"tags": ["Ephemera","Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/18/writing-is-a.html",
+				"title": "Writing Is a Muscle",
+				"content_html": "<p>As I put together this new blog, I am going through old links and inspirations. I have collected a fair pile of inspirations of the design, content, and attitude sorts. Though it shouldn’t be surprising, I’m still kind taken back about how vital the attitude bits have been to getting me moving. Rereading these things is also a compounding sort of positive pressure in that it makes me want to document the inspirations. I have started preparing some of this stuff for <a href=\"/commonplace/\">Commonplace</a>. Guess what putting things into Commonplace makes me want to do: think about and write more things. Yay!</p>\n\n<p>At some point along the way I ran into Matt Webb’s <a href=\"https://interconnected.org/home/2020/09/10/streak\">15 rules for blogging, and my current streak</a>. I skimmed it a bit back then, but wrote it down for later discovery. It’s a very nice set of rules. I think many folks could take away some attitudes that would help them get to writing more. In fact his final rule, “Writing is a muscle,” is a call to write more.</p>\n\n<p>This whole experience in finding and reminding myself of a past discovery has me shedding my hang-ups with the <a href=\"/ephemera/\">Ephemera</a> I’m writing to this blog. As Matt says, writing is a muscle. While I don’t want to dive into the social of Twitter or its ilk, that doesn’t mean jotting off short bursts of words isn’t a valuable exercise. Maybe I should be more <a href=\"https://craigmod.com/ridgeline/135/\">Craig Mod</a> and temper my “pathology [of] keeping around so much digital cruft,” but right now I find the working of the muscles useful. If I change my mind, there is nothing to stop me from auto-deleting week-old digital cruft as Craig does.</p>\n",
+				"content_text": "As I put together this new blog, I am going through old links and inspirations. I have collected a fair pile of inspirations of the design, content, and attitude sorts. Though it shouldn’t be surprising, I’m still kind taken back about how vital the attitude bits have been to getting me moving. Rereading these things is also a compounding sort of positive pressure in that it makes me want to document the inspirations. I have started preparing some of this stuff for [Commonplace](/commonplace/). Guess what putting things into Commonplace makes me want to do: think about and write more things. Yay!\n\nAt some point along the way I ran into Matt Webb’s [15 rules for blogging, and my current streak](https://interconnected.org/home/2020/09/10/streak). I skimmed it a bit back then, but wrote it down for later discovery. It’s a very nice set of rules. I think many folks could take away some attitudes that would help them get to writing more. In fact his final rule, “Writing is a muscle,” is a call to write more.\n\nThis whole experience in finding and reminding myself of a past discovery has me shedding my hang-ups with the [Ephemera](/ephemera/) I’m writing to this blog. As Matt says, writing is a muscle. While I don’t want to dive into the social of Twitter or its ilk, that doesn’t mean jotting off short bursts of words isn’t a valuable exercise. Maybe I should be more [Craig Mod](https://craigmod.com/ridgeline/135/) and temper my “pathology [of] keeping around so much digital cruft,” but right now I find the working of the muscles useful. If I change my mind, there is nothing to stop me from auto-deleting week-old digital cruft as Craig does.\n",
+				"date_published": "2022-01-18T12:09:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/18/writing-is-a.html",
+				"tags": ["Blog"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/18/dune-i-never.html",
+				
+				"content_html": "<p>📚 <a href=\"https://bookshop.org/books/dune-9780441013593/9780441013593\"><strong>Dune</strong></a> (1965)</p>\n\n<p>I never read <em>Dune</em> as a kid. I tried to read <em>Dune</em> just out of college, but it didn&rsquo;t catch. Yes, I&rsquo;m one who read <em>Dune</em> (1984 movie tie-in edition) after seeing the movie (2021), and for me this worked. The movie, along with a conversation with a friend after the movie, gave me enough background to enjoy the ride.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/72f121a521.jpg\" width=\"182\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "📚 [**Dune**](https://bookshop.org/books/dune-9780441013593/9780441013593) (1965)\n\nI never read _Dune_ as a kid. I tried to read _Dune_ just out of college, but it didn't catch. Yes, I'm one who read _Dune_ (1984 movie tie-in edition) after seeing the movie (2021), and for me this worked. The movie, along with a conversation with a friend after the movie, gave me enough background to enjoy the ride.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/72f121a521.jpg\" width=\"182\" height=\"300\" alt=\"\" />\n",
+				"date_published": "2022-01-18T09:55:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/18/dune-i-never.html",
+				"tags": ["Ephemera","Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/17/dilly-bean-stew.html",
+				
+				"content_html": "<p>🥘 <a href=\"https://anewsletter.alisoneroman.com/p/dilly-bean-stew-with-cabbage-and-frizzled-onions\"><strong>Dilly Bean Stew with Cabbage and Frizzled Onions</strong></a></p>\n\n<p>So much flavor, so few ingredients! Also, homemade bread.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/46c2b9c3d8.jpg\" /></p>\n",
+				"content_text": "🥘 [**Dilly Bean Stew with Cabbage and Frizzled Onions**](https://anewsletter.alisoneroman.com/p/dilly-bean-stew-with-cabbage-and-frizzled-onions)\n\nSo much flavor, so few ingredients! Also, homemade bread.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/46c2b9c3d8.jpg\" />\n",
+				"date_published": "2022-01-17T22:49:22-06:00",
+				"url": "https://micro.bjhess.com/2022/01/17/dilly-bean-stew.html",
+				"tags": ["Ephemera","Kitchening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/17/our-greatest-responsibility.html",
+				
+				"content_html": "<blockquote>\n<p>Our greatest responsibility is to be good ancestors.</p>\n\n<p>&ndash; <cite>Jonas Salk</cite></p>\n</blockquote>\n",
+				"content_text": "> Our greatest responsibility is to be good ancestors.\n>\n> -- <cite>Jonas Salk</cite>\n",
+				"date_published": "2022-01-17T15:29:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/17/our-greatest-responsibility.html",
+				"tags": ["Ephemera","Quoting"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/17/homie-did-not.html",
+				
+				"content_html": "<p>📚 <a href=\"https://bookshop.org/books/homie-poems/9781644450109\"><strong>Homie</strong></a> (2020)</p>\n\n<p>Did not hit me as hard as <a href=\"https://bookshop.org/books/don-t-call-us-dead-poems/9781555977856\">Don&rsquo;t Call Us Dead</a>. As with all Danez Smith, watching them read the poems is the best way to take them in.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/0cceb3065f.jpg\" width=\"217\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "📚 [**Homie**](https://bookshop.org/books/homie-poems/9781644450109) (2020)\n\nDid not hit me as hard as [Don't Call Us Dead](https://bookshop.org/books/don-t-call-us-dead-poems/9781555977856). As with all Danez Smith, watching them read the poems is the best way to take them in.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/0cceb3065f.jpg\" width=\"217\" height=\"300\" alt=\"\" />\n",
+				"date_published": "2022-01-17T08:31:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/17/homie-did-not.html",
+				"tags": ["Ephemera","Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/15/raya-and-the.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/527774-raya-and-the-last-dragon\"><strong>Raya and the Last Dragon</strong></a> (2021)</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/ccc84eea89.jpg\" width=\"600\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "🍿 [**Raya and the Last Dragon**](https://www.themoviedb.org/movie/527774-raya-and-the-last-dragon) (2021)\n\n<img src=\"https://micro.bjhess.com/uploads/2022/ccc84eea89.jpg\" width=\"600\" height=\"300\" alt=\"\" />\n",
+				"date_published": "2022-01-15T19:50:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/15/raya-and-the.html",
+				"tags": ["Ephemera","Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/15/the-bird-and.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/547395-the-bird-the-whale\"><strong>The Bird and the Whale</strong></a> (2018)</p>\n\n<p>Quite a pretty short movie, animated from thousands of paintings.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/5550b05565.png\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "🍿 [**The Bird and the Whale**](https://www.themoviedb.org/movie/547395-the-bird-the-whale) (2018)\n\nQuite a pretty short movie, animated from thousands of paintings.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/5550b05565.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-01-15T19:49:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/15/the-bird-and.html",
+				"tags": ["Ephemera","Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/15/beginners-mind-microblog.html",
+				"title": "Beginner's Mind Micro.blog",
+				"content_html": "<p>In committing myself to write here at Micro.blog, I <a href=\"https://micro.bjhess.com/2022/01/14/microblogging.html\">had a few hangups</a>. One unspoken in that post is the challenge of learning of a new platform. Particularly I just couldn’t write on this platform without making the look and feel of it my own. Yes, during last night’s long night I have already succeeded in failing my goal to resist customizing my Micro.blog. I enjoy tending my online garden too much.</p>\n\n<p>It seems useful to share the experience of trying to accomplish tasks when one doesn’t know anything about how to do it. (This is <a href=\"https://en.wikipedia.org/wiki/Shoshin\">beginner’s mind</a> adjacent, but I don’t think what I’m writing about here represents any sort of a zen-level state of being.) I figured I would write out some of the experience of standing things up on the service.</p>\n\n<p>To be very clear up front, I have quite enjoyed building up my Micro.blog knowledge. The community is incredibly supportive. I think the platform walks a pretty good line between being an accessible way to have an online presence across micro and traditional blog posts while also providing near infinite flexibility to those who really want to dig into things. Much credit must go to <a href=\"https://micro.blog/manton\">@manton</a> and team! Back to the brain dump…</p>\n\n<p>It rapidly became clear that I wasn’t going to allow myself to just roll with a theme as is, so the first step was finding a theme that I felt had the bones of what I was looking for. I wanted something that could be customized purely with CSS rather than going to <a href=\"https://help.micro.blog/t/custom-themes/59\">custom themes</a>. I suspect I will not be able to avoid custom themes forever, but at the moment <a href=\"https://gohugo.io\">Hugo</a> is a mind-bend and I’m trying to honor <em>some</em> of the limits I set for myself.</p>\n\n<p>I clicked through each theme, waiting for my pages to rebuild, and eventually selected the <a href=\"https://github.com/microdotblog/theme-arabica\">Arabica theme</a>. This process would have benefitted from a more real-time-ish theme chooser, but it wasn’t <em>too</em> time consuming overall.</p>\n\n<p>Before committing to Micro.blog, I was experimenting with <a href=\"https://en.wikipedia.org/wiki/Mastodon_(software)\">Mastodon</a> and wondering if Micro.blog could just be a sort of feed aggregator. Micro.blog <a href=\"https://www.manton.org/2018/11/14/activitypub-for-your.html\">supports ActivityPub</a> for custom domains, but to my memory there was a big warning that this is A One Time Setting You Cannot Change Are You Sure?™ I chose micro.bjhess.com as my domain as it made good sense at the time.</p>\n\n<p>Fast forward to today. My Micro.blog account is really meant to be a blog. I’d rather it sit at blog.bjhess.com. The current micro.bjhess.com feels a <em>bit</em> like a “proprietary” landing spot. Though I can read about <a href=\"https://help.micro.blog/t/custom-domains/53/19\">changing domains</a>, I don’t readily see a place that I can do it in my account. Now, rather than a year from now, would be the time to deal with 48 hours of weirdness in my site. I’ll have to dig around more to see if it’s possible. If it’s not possible, no big deal.</p>\n\n<p>My goal was to structure the site with a <strong>Blog</strong>, a place for micro posts that I’m calling <strong>Ephemera</strong>, and an area to collect things I like that I’m calling <strong>Commonplace</strong>. It wasn’t incredibly obvious to me how I was going to do this. Categories seemed like a part of the solution, and I <a href=\"https://help.micro.blog/t/using-categories/68\">found they do their job</a>. Incidentally, <a href=\"https://help.micro.blog/t/using-categories/68\">category auto filtering</a> is pretty genius!</p>\n\n<p>(For a few hours I really struggled to find information on how to best used the service. Eventually I realized that searching <a href=\"https://help.micro.blog\">help.micro.blog</a> for answers worked pretty well. I’m so conditioned to web search “[problem] [example.com]”. It’s a hard habit to break.)</p>\n\n<p>As I thought more about the <strong>Commonplace</strong> section, I decided that should just be a manually-managed page that links out to subcategories (quotes, poetry, and so on). It was not obvious to me how to do this, but <a href=\"https://help.micro.blog/t/custom-category-pages/796/2\">some friendly help</a> taught me that I could just make additional pages and change their URL scheme to look like <code>/categories/quotes</code>. Pretty easy in the end.</p>\n\n<p>CSS styling has been incredibly simple and fast to implement. I’ve mostly adjusted the fonts, colors, and link interactions. As a developer by trade, I naturally wish I could be editing CSS on my machine. Not having source control gets me itchy all over as well, but that’s to be expected.</p>\n\n<p>There are some things that I still think I’d like to customize, but I wish I could do it without delving into custom themes:</p>\n\n<ul>\n<li>I might like my homepage to be something more “traditional web page” with an introduction to myself, what’s at the site, and so on.</li>\n<li>Or I might like my homepage to simply be my longer-form blog posts. For me this site is a blog, with micro posts and a commonplace book alongside it. This and the above point <a href=\"https://help.micro.blog/t/custom-home-page/62\">can be done through custom themes</a>.</li>\n<li>I would like to have some intro text on my categories pages, but this again appears to require custom themes. Having some sort of smartcode or magic keyword that can be used to plop in category listings could work well. This might be an extension of how <a href=\"https://help.micro.blog/t/using-categories/68\">categories are added to navigation</a>.</li>\n<li>I would like my primary feed to be the blog feed. Secondarily, I would like to have a link to the <a href=\"https://micro.bjhess.com/uploads/2022/0102806d25.gif\">firehose</a> for people who want it all. Custom themes!</li>\n<li>On your blog posts pages, it appears you can either have replies shown or relegate them to the Micro.blog timeline. I’d like a couple of other options here in a drop down: show link to reply on Micro.blog and show link to reply via email. I think there is a plugin for the latter, so maybe a plugin will pop up at some point for the former as well.</li>\n</ul>\n\n<p>Finally, I’m a bit concerned about the future Hugo upgrade process and how my customizations will play with it. At that point I will probably have to delve into <a href=\"https://www.manton.org/2019/09/04/microblog-test-blogs.html\">test blogs</a>. I’m thankful for their existence, but found them a little hard to approach in this initial site build up.</p>\n\n<p>Again, Micro.blog is quite a fascinating and fun piece of software. I feel very good about my choice to jump in and give it a try!</p>\n",
+				"content_text": "In committing myself to write here at Micro.blog, I [had a few hangups](https://micro.bjhess.com/2022/01/14/microblogging.html). One unspoken in that post is the challenge of learning of a new platform. Particularly I just couldn’t write on this platform without making the look and feel of it my own. Yes, during last night’s long night I have already succeeded in failing my goal to resist customizing my Micro.blog. I enjoy tending my online garden too much.\n\nIt seems useful to share the experience of trying to accomplish tasks when one doesn’t know anything about how to do it. (This is [beginner’s mind](https://en.wikipedia.org/wiki/Shoshin) adjacent, but I don’t think what I’m writing about here represents any sort of a zen-level state of being.) I figured I would write out some of the experience of standing things up on the service.\n\nTo be very clear up front, I have quite enjoyed building up my Micro.blog knowledge. The community is incredibly supportive. I think the platform walks a pretty good line between being an accessible way to have an online presence across micro and traditional blog posts while also providing near infinite flexibility to those who really want to dig into things. Much credit must go to [@manton](https://micro.blog/manton) and team! Back to the brain dump…\n\nIt rapidly became clear that I wasn’t going to allow myself to just roll with a theme as is, so the first step was finding a theme that I felt had the bones of what I was looking for. I wanted something that could be customized purely with CSS rather than going to [custom themes](https://help.micro.blog/t/custom-themes/59). I suspect I will not be able to avoid custom themes forever, but at the moment [Hugo](https://gohugo.io) is a mind-bend and I’m trying to honor _some_ of the limits I set for myself.\n\nI clicked through each theme, waiting for my pages to rebuild, and eventually selected the [Arabica theme](https://github.com/microdotblog/theme-arabica). This process would have benefitted from a more real-time-ish theme chooser, but it wasn’t _too_ time consuming overall.\n\nBefore committing to Micro.blog, I was experimenting with [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software)) and wondering if Micro.blog could just be a sort of feed aggregator. Micro.blog [supports ActivityPub](https://www.manton.org/2018/11/14/activitypub-for-your.html) for custom domains, but to my memory there was a big warning that this is A One Time Setting You Cannot Change Are You Sure?™ I chose micro.bjhess.com as my domain as it made good sense at the time. \n\nFast forward to today. My Micro.blog account is really meant to be a blog. I’d rather it sit at blog.bjhess.com. The current micro.bjhess.com feels a _bit_ like a “proprietary” landing spot. Though I can read about [changing domains](https://help.micro.blog/t/custom-domains/53/19), I don’t readily see a place that I can do it in my account. Now, rather than a year from now, would be the time to deal with 48 hours of weirdness in my site. I’ll have to dig around more to see if it’s possible. If it’s not possible, no big deal.\n\nMy goal was to structure the site with a **Blog**, a place for micro posts that I’m calling **Ephemera**, and an area to collect things I like that I’m calling **Commonplace**. It wasn’t incredibly obvious to me how I was going to do this. Categories seemed like a part of the solution, and I [found they do their job](https://help.micro.blog/t/using-categories/68). Incidentally, [category auto filtering](https://help.micro.blog/t/using-categories/68) is pretty genius!\n\n(For a few hours I really struggled to find information on how to best used the service. Eventually I realized that searching [help.micro.blog](https://help.micro.blog) for answers worked pretty well. I’m so conditioned to web search “[problem] [example.com]”. It’s a hard habit to break.)\n\nAs I thought more about the **Commonplace** section, I decided that should just be a manually-managed page that links out to subcategories (quotes, poetry, and so on). It was not obvious to me how to do this, but [some friendly help](https://help.micro.blog/t/custom-category-pages/796/2) taught me that I could just make additional pages and change their URL scheme to look like `/categories/quotes`. Pretty easy in the end.\n\nCSS styling has been incredibly simple and fast to implement. I’ve mostly adjusted the fonts, colors, and link interactions. As a developer by trade, I naturally wish I could be editing CSS on my machine. Not having source control gets me itchy all over as well, but that’s to be expected.\n\nThere are some things that I still think I’d like to customize, but I wish I could do it without delving into custom themes:\n\n* I might like my homepage to be something more “traditional web page” with an introduction to myself, what’s at the site, and so on.\n* Or I might like my homepage to simply be my longer-form blog posts. For me this site is a blog, with micro posts and a commonplace book alongside it. This and the above point [can be done through custom themes](https://help.micro.blog/t/custom-home-page/62).\n* I would like to have some intro text on my categories pages, but this again appears to require custom themes. Having some sort of smartcode or magic keyword that can be used to plop in category listings could work well. This might be an extension of how [categories are added to navigation](https://help.micro.blog/t/using-categories/68).\n* I would like my primary feed to be the blog feed. Secondarily, I would like to have a link to the [firehose](https://micro.bjhess.com/uploads/2022/0102806d25.gif) for people who want it all. Custom themes!\n* On your blog posts pages, it appears you can either have replies shown or relegate them to the Micro.blog timeline. I’d like a couple of other options here in a drop down: show link to reply on Micro.blog and show link to reply via email. I think there is a plugin for the latter, so maybe a plugin will pop up at some point for the former as well.\n\nFinally, I’m a bit concerned about the future Hugo upgrade process and how my customizations will play with it. At that point I will probably have to delve into [test blogs](https://www.manton.org/2019/09/04/microblog-test-blogs.html). I’m thankful for their existence, but found them a little hard to approach in this initial site build up.\n\nAgain, Micro.blog is quite a fascinating and fun piece of software. I feel very good about my choice to jump in and give it a try!\n",
+				"date_published": "2022-01-15T14:45:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/15/beginners-mind-microblog.html",
+				"tags": ["Blog","Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/15/i-know-that.html",
+				
+				"content_html": "<p>I know that Micro.blog is designed not to have any private &ldquo;things,&rdquo; but it strikes me that the Team plan with the ability to have a private blog would be a killer app for families trying to get off the Facebook/Insta/Snapchat train. Any alternatives out there for this? My wife&rsquo;s family used to use <a href=\"https://www.ancestry.com/cs/faq/myfamily-faq\">My Family</a>, but it got shuttered by Ancestry years ago.</p>\n",
+				"content_text": "I know that Micro.blog is designed not to have any private \"things,\" but it strikes me that the Team plan with the ability to have a private blog would be a killer app for families trying to get off the Facebook/Insta/Snapchat train. Any alternatives out there for this? My wife's family used to use [My Family](https://www.ancestry.com/cs/faq/myfamily-faq), but it got shuttered by Ancestry years ago.\n",
+				"date_published": "2022-01-15T14:14:24-06:00",
+				"url": "https://micro.bjhess.com/2022/01/15/i-know-that.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/14/god-damn-it.html",
+				
+				"content_html": "<blockquote>\n<p>God damn it, you’ve got to be kind.</p>\n\n<p>&ndash; <cite>Kurt Vonnegut</cite></p>\n</blockquote>\n",
+				"content_text": "> God damn it, you’ve got to be kind.\n>\n> -- <cite>Kurt Vonnegut</cite>\n",
+				"date_published": "2022-01-14T21:53:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/14/god-damn-it.html",
+				"tags": ["Ephemera","Quoting"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/15/men-in-black.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/41154-men-in-black-3\"><strong>Men in Black 3</strong></a> (2012)</p>\n\n<p>Watching all of these with the kids only to discover that I hadn&rsquo;t actually ever seen MIB3.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/61128acf8e.jpg\" width=\"600\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "🍿 [**Men in Black 3**](https://www.themoviedb.org/movie/41154-men-in-black-3) (2012)\n\nWatching all of these with the kids only to discover that I hadn't actually ever seen MIB3.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/61128acf8e.jpg\" width=\"600\" height=\"300\" alt=\"\" />\n",
+				"date_published": "2022-01-14T20:00:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/15/men-in-black.html",
+				"tags": ["Ephemera","Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/14/microblogging.html",
+				"title": "Micro.blogging",
+				"content_html": "<p>I have decided to give Micro.blog an honest try in 2022. This means I am moving my blogging presence off my <a href=\"http://bjhess.com\">own platform</a> to this one. You can dig back to my post archives <a href=\"http://bjhess.com/blog/archive\">at my site</a>.</p>\n\n<p>Inspired by <a href=\"https://micro.blog/pimoore\">@pimoore</a>&rsquo;s <a href=\"https://pimoore.ca/2021/09/30/the-macro-of.html\">The Macro of Micro.blog</a>, I am trying to get over my archivist desires to:</p>\n\n<ol>\n<li>Import all of my history to Micro.blog. It&rsquo;s a distraction from writing and the true archiving of thoughts and experiences.</li>\n<li>Concern myself with some future where Micro.blog gets bought, I want to move on, and all of my stuff needs exported/imported/moved. Hopefully it won&rsquo;t happen, and if it does I&rsquo;ll do something then.</li>\n<li>Resist my incessant need to “style” and customize my things. I can save that for other projects.</li>\n</ol>\n",
+				"content_text": "I have decided to give Micro.blog an honest try in 2022. This means I am moving my blogging presence off my [own platform](http://bjhess.com) to this one. You can dig back to my post archives [at my site](http://bjhess.com/blog/archive). \r\n\r\nInspired by [@pimoore](https://micro.blog/pimoore)'s [The Macro of Micro.blog](https://pimoore.ca/2021/09/30/the-macro-of.html), I am trying to get over my archivist desires to:\r\n\r\n1. Import all of my history to Micro.blog. It's a distraction from writing and the true archiving of thoughts and experiences.\r\n2. Concern myself with some future where Micro.blog gets bought, I want to move on, and all of my stuff needs exported/imported/moved. Hopefully it won't happen, and if it does I'll do something then.\r\n3. Resist my incessant need to “style” and customize my things. I can save that for other projects.\r\n",
+				"date_published": "2022-01-14T10:38:33-06:00",
+				"url": "https://micro.bjhess.com/2022/01/14/microblogging.html",
+				"tags": ["Blog"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/13/a-foolish-consistency.html",
+				
+				"content_html": "<blockquote>\n<p>A foolish consistency is the hobgoblin of little minds.</p>\n\n<p>&ndash; <cite>Ralph Waldo Emerson</cite></p>\n</blockquote>\n",
+				"content_text": "> A foolish consistency is the hobgoblin of little minds.\n> \n> -- <cite>Ralph Waldo Emerson</cite>\n",
+				"date_published": "2022-01-13T16:14:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/13/a-foolish-consistency.html",
+				"tags": ["Ephemera","Quoting"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/12/postcolonial-love-poem.html",
+				
+				"content_html": "<p><em>Postcolonial Love Poem</em> – I didn’t particularly understand anything I was reading. However, there was one bit I highlighted from “Snake-Light”:</p>\n\n<blockquote>\n<p>When a snake swallows its prey, a row of inner teeth help walk the jaw over the prey’s body—walking like reading.</p>\n\n<p>Walking over a word with the teeth of our mind.</p>\n\n<p>To write is to be eaten. To read, to be full.</p>\n</blockquote>\n\n<p>That’s vivid!</p>\n\n<p>📚 2022</p>\n",
+				"content_text": "_Postcolonial Love Poem_ – I didn’t particularly understand anything I was reading. However, there was one bit I highlighted from “Snake-Light”:\n\n> When a snake swallows its prey, a row of inner teeth help walk the jaw over the prey’s body—walking like reading.\n> \n> Walking over a word with the teeth of our mind.\n> \n> To write is to be eaten. To read, to be full.\n\nThat’s vivid!\n\n📚 2022\n",
+				"date_published": "2022-01-12T16:23:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/12/postcolonial-love-poem.html",
+				"tags": ["Ephemera","Reading","Quoting"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/11/has-anyone-out.html",
+				
+				"content_html": "<p>Has anyone out there given <a href=\"https://clay.earth\">clay.earth</a> a try? Thoughts?</p>\n\n<p>I tend to just keep an ongoing log of notes in a notes app, and I’m currently not in a “building relationships” phase of my journey, but also kind of feel like there’s no time like the present.</p>\n",
+				"content_text": "Has anyone out there given [clay.earth](https://clay.earth) a try? Thoughts? \n\nI tend to just keep an ongoing log of notes in a notes app, and I’m currently not in a “building relationships” phase of my journey, but also kind of feel like there’s no time like the present.\n",
+				"date_published": "2022-01-11T15:48:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/11/has-anyone-out.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/10/im-back-and.html",
+				
+				"content_html": "<p>I&rsquo;m back and I&rsquo;m backfilling some things here on micro.blog. I tried bringing in my <a href=\"http://bjhess.com/blog\">main blog</a> feed, but didn&rsquo;t love how that worked for me, so I&rsquo;m probably just manually going to post links to blog posts. This means the prior few posts were probably redundant. But now I&rsquo;m all caught up!</p>\n",
+				"content_text": "I'm back and I'm backfilling some things here on micro.blog. I tried bringing in my [main blog](http://bjhess.com/blog) feed, but didn't love how that worked for me, so I'm probably just manually going to post links to blog posts. This means the prior few posts were probably redundant. But now I'm all caught up!\n",
+				"date_published": "2022-01-10T11:46:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/10/im-back-and.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/10/why-i-enjoy.html",
+				"title": "Movie Art",
+				"content_html": "<p>I like to watch art movies. While I don’t only attend art house movie theaters, it’s definitely worthwhile to me to sprinkle some such movies into my regular viewing. I’m more than entertained with a lot of Hollywood properties, but it is a fact that most of those movies do not offer surprises that you’ve never seen on screen before.</p>\n\n<p>Some movies-as-art that I’ve watched in the past few months are <em>A Ghost Story</em>, <em>Annette</em>, and <em>The Power of the Dog</em>. The former two are certainly different from any movies I’ve ever watched before. The latter doesn’t feel all that unique on the surface, but offers a depth of experience that keeps giving long after the credits roll.</p>\n\n<p>A big hangup folks have with movie art is one I think we each have with at least some of the art out there: they don’t understand and the art makes them feel stupid. What is the most common response to something that makes you feel stupid? Call the thing the thing it makes you feel: Stupid!</p>\n\n<p>The lesson I try to take with me from my enjoyment of art movies is that I rarely understand the layers being presented while I watch the movie, and I rarely figure out the layers on my own after the movie is completed. The best I usually do is to have a sense that, hey, something was going on there and I bet this or that meant a thing. If I viewed the movie with someone else, we then get to discuss what just happened, trying to puzzle it out for ourselves. We eventually hit the Internet to read the thoughts of others, background on the movie, and so on.</p>\n\n<p>The meaning of movie art is not a thing I understand immediately, but a thing that provides a depth of experience factory farmed movies don’t quite satisfy. It’s like admitting that, yes, a Big Mac (or Filet o’ Fish) is tasty, but it doesn’t offer the same experience as a restaurant with an intentional menu of deep flavors. Sometimes I want that easy hit of dopamine, but I do enjoy mixing in meals with more layers of flavor. If I can’t quite describe what that flavor is, part of the fun is sorting it out with the people around me.</p>\n",
+				"content_text": "I like to watch art movies. While I don’t only attend art house movie theaters, it’s definitely worthwhile to me to sprinkle some such movies into my regular viewing. I’m more than entertained with a lot of Hollywood properties, but it is a fact that most of those movies do not offer surprises that you’ve never seen on screen before.\n\nSome movies-as-art that I’ve watched in the past few months are *A Ghost Story*, *Annette*, and *The Power of the Dog*. The former two are certainly different from any movies I’ve ever watched before. The latter doesn’t feel all that unique on the surface, but offers a depth of experience that keeps giving long after the credits roll.\n\nA big hangup folks have with movie art is one I think we each have with at least some of the art out there: they don’t understand and the art makes them feel stupid. What is the most common response to something that makes you feel stupid? Call the thing the thing it makes you feel: Stupid!\n\nThe lesson I try to take with me from my enjoyment of art movies is that I rarely understand the layers being presented while I watch the movie, and I rarely figure out the layers on my own after the movie is completed. The best I usually do is to have a sense that, hey, something was going on there and I bet this or that meant a thing. If I viewed the movie with someone else, we then get to discuss what just happened, trying to puzzle it out for ourselves. We eventually hit the Internet to read the thoughts of others, background on the movie, and so on.\n\nThe meaning of movie art is not a thing I understand immediately, but a thing that provides a depth of experience factory farmed movies don’t quite satisfy. It’s like admitting that, yes, a Big Mac (or Filet o’ Fish) is tasty, but it doesn’t offer the same experience as a restaurant with an intentional menu of deep flavors. Sometimes I want that easy hit of dopamine, but I do enjoy mixing in meals with more layers of flavor. If I can’t quite describe what that flavor is, part of the fun is sorting it out with the people around me.\n",
+				"date_published": "2022-01-10T11:42:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/10/why-i-enjoy.html",
+				"tags": ["Blog","Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/10/reading-poetry-to.html",
+				"title": "Discomfiture of Thought",
+				"content_html": "<p>A friend of mine has a genius habit that I could not help but copy. He starts every morning with five or ten minutes of poetry reading. It’s not that he loves poetry, though he’s learning to like it. It’s more that the written word of poetry is very different from prose and it disrupts the internal monologue going on in his head.</p>\n\n<p>What a great idea! It immediately clicked with me as something worth trying to develop a habit around. I’ve tried meditation and other things to train and calm my mind, but for whatever reason those habits have never had a strong impact on my daily moods. Reading poetry sounded to me like an activity, if not the same as meditation, of a quality that might take my mind in similar directions.</p>\n\n<p>For someone who doesn’t have a habit of reading poetry, I actually have a reasonable collection of poetry books. On top of exercising the word processing of my mind, this exercise would hit another sweet spot for me. It causes me stress to have books or other media on a shelf, unconsumed. I was pretty sure that reading some of the books collecting dust on my shelf would make me feel better as each book is completed.</p>\n\n<p>For the past month or so I’ve tried my best to keep up on this habit. I’m jumping between a few collections at the same time, but I did finally complete one: <a href=\"https://bookshop.org/books/postcolonial-love-poem-poems/9781644450147\"><em>Postcolonial Love Poem</em></a> by Natalie Diaz. This is not a recommendation in that I didn’t particularly understand anything I was reading. However, there was one bit I highlighted from “Snake-Light”:</p>\n\n<blockquote>\n<p>When a snake swallows its prey,\na row of inner teeth help walk the jaw\nover the prey’s body—walking like reading.</p>\n\n<p>Walking over a word with the teeth of our mind.</p>\n\n<p>To write is to be eaten. To read, to be full.</p>\n</blockquote>\n\n<p>That’s vivid!</p>\n",
+				"content_text": "A friend of mine has a genius habit that I could not help but copy. He starts every morning with five or ten minutes of poetry reading. It’s not that he loves poetry, though he’s learning to like it. It’s more that the written word of poetry is very different from prose and it disrupts the internal monologue going on in his head.\n\nWhat a great idea! It immediately clicked with me as something worth trying to develop a habit around. I’ve tried meditation and other things to train and calm my mind, but for whatever reason those habits have never had a strong impact on my daily moods. Reading poetry sounded to me like an activity, if not the same as meditation, of a quality that might take my mind in similar directions.\n\nFor someone who doesn’t have a habit of reading poetry, I actually have a reasonable collection of poetry books. On top of exercising the word processing of my mind, this exercise would hit another sweet spot for me. It causes me stress to have books or other media on a shelf, unconsumed. I was pretty sure that reading some of the books collecting dust on my shelf would make me feel better as each book is completed.\n\nFor the past month or so I’ve tried my best to keep up on this habit. I’m jumping between a few collections at the same time, but I did finally complete one: [_Postcolonial Love Poem_](https://bookshop.org/books/postcolonial-love-poem-poems/9781644450147) by Natalie Diaz. This is not a recommendation in that I didn’t particularly understand anything I was reading. However, there was one bit I highlighted from “Snake-Light”:\n\n> When a snake swallows its prey,\n> a row of inner teeth help walk the jaw\n> over the prey’s body—walking like reading.\n>  \n> Walking over a word with the teeth of our mind.\n>  \n> To write is to be eaten. To read, to be full.\n\nThat’s vivid!\n",
+				"date_published": "2022-01-10T11:41:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/10/reading-poetry-to.html",
+				"tags": ["Blog"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/10/i-made-a.html",
+				"title": "Announcing Owatonna Even/Odd Parking",
+				"content_html": "<p>In the town where I live, the middle of November begins what we call “even/odd parking season.” This is a time of year where, if you are parking on the street, you need to be aware of today’s date, tomorrow’s date, the house numbers on the street in which you are parking, and the city plowing rules as related to those numbers. Some folks find it pretty straightforward to do these mental gymnastics, but I just wanted a web page to tell me what to do.</p>\n\n<p>Enter <a href=\"https://www.owatonnaparking.com\">Owatonna Even/Odd Parking</a>. This page simplifies the winter parking rules of my city into a simple statement: Park on the even/odd side of the street. You can load it up at the website or install it as an app by <a href=\"https://natomasunified.org/kb/add-website-to-mobile-device-home-screen/\">adding it to your home screen</a>. Hope this helps a few of you out there who live near me!</p>\n",
+				"content_text": "In the town where I live, the middle of November begins what we call “even/odd parking season.” This is a time of year where, if you are parking on the street, you need to be aware of today’s date, tomorrow’s date, the house numbers on the street in which you are parking, and the city plowing rules as related to those numbers. Some folks find it pretty straightforward to do these mental gymnastics, but I just wanted a web page to tell me what to do.\n\nEnter [Owatonna Even/Odd Parking](https://www.owatonnaparking.com). This page simplifies the winter parking rules of my city into a simple statement: Park on the even/odd side of the street. You can load it up at the website or install it as an app by [adding it to your home screen](https://natomasunified.org/kb/add-website-to-mobile-device-home-screen/). Hope this helps a few of you out there who live near me!\n",
+				"date_published": "2022-01-10T11:40:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/10/i-made-a.html",
+				"tags": ["Blog","Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/11/that-moment-when.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/568124-encanto\"><strong>Encanto</strong></a> (2021)</p>\n\n<p>That moment when you realize these two are the same people. Love it! 🍿</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/7befd80955.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "🍿 [**Encanto**](https://www.themoviedb.org/movie/568124-encanto) (2021)\n\nThat moment when you realize these two are the same people. Love it! 🍿\n\n<img src=\"https://micro.bjhess.com/uploads/2022/7befd80955.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-01-07T20:17:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/11/that-moment-when.html",
+				"tags": ["Ephemera","Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/15/the-power-of.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/600583-the-power-of-the-dog\"><strong>The Power of the Dog</strong></a> (2021)</p>\n\n<p>An impressive piece of filmmaking. The visuals, mood, music, and performances make it a building masterpiece.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/3bb9b21d71.jpg\" width=\"600\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "🍿 [**The Power of the Dog**](https://www.themoviedb.org/movie/600583-the-power-of-the-dog) (2021)\n\nAn impressive piece of filmmaking. The visuals, mood, music, and performances make it a building masterpiece.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/3bb9b21d71.jpg\" width=\"600\" height=\"300\" alt=\"\" />\n",
+				"date_published": "2022-01-06T22:00:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/15/the-power-of.html",
+				"tags": ["Ephemera","Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/12/09/111239.html",
+				
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2022/4494b04b27.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2022/4494b04b27.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-09T11:12:00-06:00",
+				"url": "https://micro.bjhess.com/2021/12/09/111239.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/12/04/lasagna-night-it.html",
+				
+				"content_html": "<p>Lasagna night. It was good, but the goodness did not match the effort on this one.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/bf7e9726af.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Lasagna night. It was good, but the goodness did not match the effort on this one.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/bf7e9726af.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-04T18:12:00-06:00",
+				"url": "https://micro.bjhess.com/2021/12/04/lasagna-night-it.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/12/03/za-pizzanight.html",
+				
+				"content_html": "<p>Za:30 #pizzanight</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/58557c52e3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Za:30 #pizzanight\n\n<img src=\"https://micro.bjhess.com/uploads/2022/58557c52e3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-03T19:31:00-06:00",
+				"url": "https://micro.bjhess.com/2021/12/03/za-pizzanight.html",
+				"tags": ["Ephemera","Kitchening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/12/02/shop-projects.html",
+				
+				"content_html": "<p>Shop projects</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/67bc9de867.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Shop projects\n\n<img src=\"https://micro.bjhess.com/uploads/2022/67bc9de867.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-02T10:02:00-06:00",
+				"url": "https://micro.bjhess.com/2021/12/02/shop-projects.html",
+				"tags": ["Ephemera","Woodworking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/11/27/no-regrets.html",
+				
+				"content_html": "<p>No regrets</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/9f89273ef9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "No regrets\n\n<img src=\"https://micro.bjhess.com/uploads/2022/9f89273ef9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-27T12:04:00-06:00",
+				"url": "https://micro.bjhess.com/2021/11/27/no-regrets.html",
+				"tags": ["Ephemera","Kitchening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/11/25/je-ny-comprends.html",
+				
+				"content_html": "<p>Je nây comprends rien</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/9a4197c261.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Je nây comprends rien\n\n<img src=\"https://micro.bjhess.com/uploads/2022/9a4197c261.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-25T21:27:25-06:00",
+				"url": "https://micro.bjhess.com/2021/11/25/je-ny-comprends.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/11/21/projects-of-great.html",
+				
+				"content_html": "<p>Projects of great use!</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/33e877cc04.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Projects of great use!\n\n<img src=\"https://micro.bjhess.com/uploads/2022/33e877cc04.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-21T12:17:00-06:00",
+				"url": "https://micro.bjhess.com/2021/11/21/projects-of-great.html",
+				"tags": ["Ephemera","Woodworking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/11/18/omuraisu-my-favorite.html",
+				
+				"content_html": "<p>Omuraisu - my favorite use of leftover rice. I&rsquo;m not a ketchup and eggs person, but it&rsquo;s required for this one. Sorry you had to run to work, Jesse!</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/6edf635640.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Omuraisu - my favorite use of leftover rice. I'm not a ketchup and eggs person, but it's required for this one. Sorry you had to run to work, Jesse!\n\n<img src=\"https://micro.bjhess.com/uploads/2022/6edf635640.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-18T09:08:00-06:00",
+				"url": "https://micro.bjhess.com/2021/11/18/omuraisu-my-favorite.html",
+				"tags": ["Ephemera","Kitchening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/11/16/121547.html",
+				
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2022/762ddba997.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2022/762ddba997.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-16T12:15:00-06:00",
+				"url": "https://micro.bjhess.com/2021/11/16/121547.html",
+				"tags": ["Ephemera","Kitchening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/11/14/owatonnaparkingcom.html",
+				
+				"content_html": "<p><a href=\"owatonnaparking.com\">owatonnaparking.com</a></p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/1c1353270c.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "[owatonnaparking.com](owatonnaparking.com)\n\n<img src=\"https://micro.bjhess.com/uploads/2022/1c1353270c.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-14T12:03:00-06:00",
+				"url": "https://micro.bjhess.com/2021/11/14/owatonnaparkingcom.html",
+				"tags": ["Ephemera","Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/11/12/chicken-fesenjan-with.html",
+				
+				"content_html": "<p>Chicken fesenjan with saffron rice. #richandsilky</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/bb29d2171f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Chicken fesenjan with saffron rice. #richandsilky\n\n<img src=\"https://micro.bjhess.com/uploads/2022/bb29d2171f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-12T18:42:00-06:00",
+				"url": "https://micro.bjhess.com/2021/11/12/chicken-fesenjan-with.html",
+				"tags": ["Ephemera","Kitchening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/10/29/pizza-night-tonight.html",
+				
+				"content_html": "<p>Pizza night tonight was in the Buffalo style. (Thin, cheese and sauce to the edges, 1lb of cheese per pizza.)</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/4a8499d048.jpg\" width=\"597\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Pizza night tonight was in the Buffalo style. (Thin, cheese and sauce to the edges, 1lb of cheese per pizza.)\n\n<img src=\"https://micro.bjhess.com/uploads/2022/4a8499d048.jpg\" width=\"597\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-29T23:02:00-06:00",
+				"url": "https://micro.bjhess.com/2021/10/29/pizza-night-tonight.html",
+				"tags": ["Ephemera","Kitchening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/10/25/not-great.html",
+				
+				"content_html": "<p>Not great.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/e10ac47678.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Not great.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/e10ac47678.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-25T07:54:58-06:00",
+				"url": "https://micro.bjhess.com/2021/10/25/not-great.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/10/23/dune-kylemaclachlan.html",
+				
+				"content_html": "<p>#Dune #KyleMacLachlan</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/c111db03c8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#Dune #KyleMacLachlan\n\n<img src=\"https://micro.bjhess.com/uploads/2022/c111db03c8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-23T22:28:00-06:00",
+				"url": "https://micro.bjhess.com/2021/10/23/dune-kylemaclachlan.html",
+				"tags": ["Ephemera","Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/10/21/is-this-heaven.html",
+				
+				"content_html": "<p>Is this heaven?</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/303a270bc0.jpg\" width=\"600\" height=\"598\" alt=\"\" /></p>\n",
+				"content_text": "Is this heaven?\n\n<img src=\"https://micro.bjhess.com/uploads/2022/303a270bc0.jpg\" width=\"600\" height=\"598\" alt=\"\" />\n",
+				"date_published": "2021-10-21T16:36:08-06:00",
+				"url": "https://micro.bjhess.com/2021/10/21/is-this-heaven.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/10/19/made-a-fence.html",
+				
+				"content_html": "<p>Made a fence rail thingy</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/5114abc401.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Made a fence rail thingy\n\n<img src=\"https://micro.bjhess.com/uploads/2022/5114abc401.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-19T16:39:00-06:00",
+				"url": "https://micro.bjhess.com/2021/10/19/made-a-fence.html",
+				"tags": ["Ephemera","Woodworking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/10/15/170906.html",
+				
+				"content_html": "<p>Before:</p>\n\n<p><img src=\"uploads/2022/914d75550f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n\n<p>After:</p>\n\n<p><img src=\"uploads/2022/d0bf93821f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Before:\n\n<img src=\"uploads/2022/914d75550f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\nAfter:\n\n<img src=\"uploads/2022/d0bf93821f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-15T17:09:00-06:00",
+				"url": "https://micro.bjhess.com/2021/10/15/170906.html",
+				"tags": ["Ephemera","Kitchening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/10/15/lawn-mower-repair.html",
+				
+				"content_html": "<p>Lawn mower repair.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/1c1e261e0b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Lawn mower repair.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/1c1e261e0b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-15T12:58:51-06:00",
+				"url": "https://micro.bjhess.com/2021/10/15/lawn-mower-repair.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/10/14/johnny.html",
+				
+				"content_html": "<p>#johnny</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/d5b17ab4f0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#johnny\n\n<img src=\"https://micro.bjhess.com/uploads/2022/d5b17ab4f0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-14T15:06:54-06:00",
+				"url": "https://micro.bjhess.com/2021/10/14/johnny.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/10/13/getting-the-dust.html",
+				
+				"content_html": "<p>Getting the dust bunnies out. 💻</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/0d4620e214.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Getting the dust bunnies out. 💻\n\n<img src=\"https://micro.bjhess.com/uploads/2022/0d4620e214.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-13T11:03:00-06:00",
+				"url": "https://micro.bjhess.com/2021/10/13/getting-the-dust.html",
+				"tags": ["Ephemera","Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/10/08/waiting.html",
+				
+				"content_html": "<p>#waiting</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/e1cb1877e0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#waiting\n\n<img src=\"https://micro.bjhess.com/uploads/2022/e1cb1877e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-08T12:28:12-06:00",
+				"url": "https://micro.bjhess.com/2021/10/08/waiting.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/07/30/its-been-a.html",
+				
+				"content_html": "<p>It&rsquo;s been a long time<br />\nWe shouldn&rsquo;t have left you<br />\nWithout a dope beat to step to\n🎵</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/01bdb652fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It's been a long time  \nWe shouldn't have left you  \nWithout a dope beat to step to\n🎵\n\n<img src=\"https://micro.bjhess.com/uploads/2022/01bdb652fc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-30T19:49:00-06:00",
+				"url": "https://micro.bjhess.com/2021/07/30/its-been-a.html",
+				"tags": ["Ephemera","Music"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/07/28/194737.html",
+				
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2022/cdec81022e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2022/cdec81022e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-28T19:47:00-06:00",
+				"url": "https://micro.bjhess.com/2021/07/28/194737.html",
+				"tags": ["Ephemera","Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/07/28/194635.html",
+				
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2022/6681cde3ac.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2022/6681cde3ac.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-28T19:46:00-06:00",
+				"url": "https://micro.bjhess.com/2021/07/28/194635.html",
+				"tags": ["Ephemera","Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/07/25/205205.html",
+				
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2022/45ddb0df80.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2022/45ddb0df80.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-25T20:52:00-06:00",
+				"url": "https://micro.bjhess.com/2021/07/25/205205.html",
+				"tags": ["Ephemera","Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/07/21/closed-on-our.html",
+				
+				"content_html": "<p>#closed on our new home!</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/5fb3340eb0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#closed on our new home!\n\n<img src=\"https://micro.bjhess.com/uploads/2022/5fb3340eb0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-21T14:01:00-06:00",
+				"url": "https://micro.bjhess.com/2021/07/21/closed-on-our.html",
+				"tags": ["Ephemera","Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/07/18/201913.html",
+				
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2022/b79335087c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2022/b79335087c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-18T20:19:00-06:00",
+				"url": "https://micro.bjhess.com/2021/07/18/201913.html",
+				"tags": ["Ephemera","Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/07/17/152804.html",
+				
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2022/5dbc9ea19a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2022/5dbc9ea19a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-17T15:28:00-06:00",
+				"url": "https://micro.bjhess.com/2021/07/17/152804.html",
+				"tags": ["Ephemera","Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/07/17/pilgrimage.html",
+				
+				"content_html": "<p>#pilgrimage</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/23266c6d74.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#pilgrimage\n\n<img src=\"https://micro.bjhess.com/uploads/2022/23266c6d74.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-17T12:40:00-06:00",
+				"url": "https://micro.bjhess.com/2021/07/17/pilgrimage.html",
+				"tags": ["Ephemera","Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/04/05/120823.html",
+				
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2022/c49bfb2306.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2022/c49bfb2306.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-04-05T12:08:23-06:00",
+				"url": "https://micro.bjhess.com/2021/04/05/120823.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2021/03/24/153935.html",
+				
+				"content_html": "<p><img src=\"uploads/2022/e2d382ee52.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/e2d382ee52.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-03-24T15:39:00-06:00",
+				"url": "https://micro.bjhess.com/2021/03/24/153935.html",
+				"tags": ["Ephemera","Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2020/11/27/day-two.html",
+				
+				"content_html": "<p><img src=\"uploads/2022/6070ea8453.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "<img src=\"uploads/2022/6070ea8453.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-11-27T17:52:00-06:00",
+				"url": "https://micro.bjhess.com/2020/11/27/day-two.html",
+				"tags": ["Ephemera","Kitchening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2020/11/16/this-were-pretty.html",
+				
+				"content_html": "<p>This were pretty good.</p>\n\n<p><img src=\"uploads/2022/d9afb4ce71.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This were pretty good.\n\n<img src=\"uploads/2022/d9afb4ce71.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-11-16T11:07:00-06:00",
+				"url": "https://micro.bjhess.com/2020/11/16/this-were-pretty.html",
+				"tags": ["Ephemera","Kitchening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2020/11/11/oh-jesse.html",
+				
+				"content_html": "<p>Oh, Jesse.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/a8c74811c0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Oh, Jesse.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/a8c74811c0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-11-11T13:39:33-06:00",
+				"url": "https://micro.bjhess.com/2020/11/11/oh-jesse.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2020/08/05/a-fun-ux.html",
+				
+				"content_html": "<p>A fun UX primer in LEGO. <a href=\"https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/\">www.designedbycave.co.uk/2020/LEGO&hellip;</a></p>\n",
+				"content_text": "A fun UX primer in LEGO. [www.designedbycave.co.uk/2020/LEGO...](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)\n",
+				"date_published": "2020-08-05T08:05:00-06:00",
+				"url": "https://micro.bjhess.com/2020/08/05/a-fun-ux.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2020/07/26/the-farm.html",
+				
+				"content_html": "<p>The farm.</p>\n\n<p><img src=\"https://bjhess.micro.blog/uploads/2020/f9da972a35.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The farm.\n\n<img src=\"https://bjhess.micro.blog/uploads/2020/f9da972a35.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-07-26T12:24:00-06:00",
+				"url": "https://micro.bjhess.com/2020/07/26/the-farm.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2020/07/20/kid-found-a.html",
+				
+				"content_html": "<p>Kid found a computer in the closet.</p>\n\n<p><img src=\"https://bjhess.micro.blog/uploads/2020/32a3e65565.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Kid found a computer in the closet.\n\n<img src=\"https://bjhess.micro.blog/uploads/2020/32a3e65565.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-07-20T19:17:00-06:00",
+				"url": "https://micro.bjhess.com/2020/07/20/kid-found-a.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2020/07/19/an-interesting-though.html",
+				
+				"content_html": "<p>An interesting, though sad, story about the <a href=\"https://www.washingtonpost.com/graphics/2020/world/coronavirus-africa-tourism-wildlife/\">COVID hit to Kenyan tourism and conservancies</a>.</p>\n",
+				"content_text": "An interesting, though sad, story about the [COVID hit to Kenyan tourism and conservancies](https://www.washingtonpost.com/graphics/2020/world/coronavirus-africa-tourism-wildlife/).\n",
+				"date_published": "2020-07-19T18:40:00-06:00",
+				"url": "https://micro.bjhess.com/2020/07/19/an-interesting-though.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2020/07/18/a-friend-turned.html",
+				
+				"content_html": "<p>A friend turned me on to Allen Stone. Seems a positive, bluesy voice who is worth digging into a little further.</p>\n\n<p>Here&rsquo;s his <a href=\"https://www.youtube.com/watch?v=uMEnML6sY5Q\">Tiny Desk Concert</a>.</p>\n",
+				"content_text": "A friend turned me on to Allen Stone. Seems a positive, bluesy voice who is worth digging into a little further.\n\nHere's his [Tiny Desk Concert](https://www.youtube.com/watch?v=uMEnML6sY5Q).\n",
+				"date_published": "2020-07-18T15:00:00-06:00",
+				"url": "https://micro.bjhess.com/2020/07/18/a-friend-turned.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2020/07/14/reading.html",
+				
+				"content_html": "<p>Reading.</p>\n\n<p><img src=\"https://bjhess.micro.blog/uploads/2020/3307397361.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Reading.\n\n<img src=\"https://bjhess.micro.blog/uploads/2020/3307397361.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-07-14T19:45:00-06:00",
+				"url": "https://micro.bjhess.com/2020/07/14/reading.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2020/07/13/looking-to-canada.html",
+				
+				"content_html": "<p>Looking to Canada.</p>\n\n<p><img src=\"https://bjhess.micro.blog/uploads/2020/02837d2b13.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Looking to Canada.\n\n<img src=\"https://bjhess.micro.blog/uploads/2020/02837d2b13.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2020-07-13T17:58:00-06:00",
+				"url": "https://micro.bjhess.com/2020/07/13/looking-to-canada.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2020/07/12/were-hiking-in.html",
+				
+				"content_html": "<p>We’re hiking in the north woods of Minnesota. Lake Agnes here.</p>\n\n<p><img src=\"https://bjhess.micro.blog/uploads/2020/6470e63816.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "We’re hiking in the north woods of Minnesota. Lake Agnes here.\n\n<img src=\"https://bjhess.micro.blog/uploads/2020/6470e63816.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-07-12T19:15:00-06:00",
+				"url": "https://micro.bjhess.com/2020/07/12/were-hiking-in.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/01/14/my-blog-archives.html",
+				
+				"content_html": "<p>My blog archives ≤ 2021 are found <a href=\"http://bjhess.com/blog/archive\">at my homepage</a>.</p>\n",
+				"content_text": "My blog archives ≤ 2021 are found [at my homepage](http://bjhess.com/blog/archive).\n",
+				"date_published": "2020-07-01T00:01:00-06:00",
+				"url": "https://micro.bjhess.com/2022/01/14/my-blog-archives.html",
+				"tags": ["Ephemera","Blog"]
+			}
+	]
+}
