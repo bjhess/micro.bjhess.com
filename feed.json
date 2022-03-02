@@ -7,6 +7,105 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/03/01/recomposed-by-max.html",
+				
+				"content_html": "<p>🎵 <a href=\"https://music.apple.com/us/album/recomposed-by-max-richter-vivaldi-the-four-seasons/1440744386\"><strong>Recomposed by Max Richter: Vivaldi, the Four Seasons</strong></a> (2014)</p>\n\n<p>Vivaldi had never been my thing. Then I was going through old emails and was reminded that a friend had told me, &ldquo;Yes, but this is different.&rdquo; It&rsquo;s so good.</p>\n\n<p><img src=\"uploads/2022/78cd45487a.jpg\" width=\"400\" height=\"400\" alt=\"richter vivaldi four seasons\" /></p>\n",
+				"content_text": "🎵 [**Recomposed by Max Richter: Vivaldi, the Four Seasons**](https://music.apple.com/us/album/recomposed-by-max-richter-vivaldi-the-four-seasons/1440744386) (2014)\n\nVivaldi had never been my thing. Then I was going through old emails and was reminded that a friend had told me, \"Yes, but this is different.\" It's so good.\n\n<img src=\"uploads/2022/78cd45487a.jpg\" width=\"400\" height=\"400\" alt=\"richter vivaldi four seasons\" />\n",
+				"date_published": "2022-03-02T09:33:00-06:00",
+				"url": "https://micro.bjhess.com/2022/03/01/recomposed-by-max.html",
+				"tags": ["Ephemera","Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/02/28/trying-phoenix-and.html",
+				"title": "Trying Phoenix and Elixir",
+				"content_html": "<p>Earlier this year I surprised myself and <a href=\"https://micro.bjhess.com/2022/02/04/google-programming-in.html\">got back into daily programming</a>. It’s been quite a trip and mostly fun. The part that has been the most frustrating is when I solve a problem one week only to have the same problem again next week, but I can’t quite remember how I solved it. I have tried to minimize that issue a bit by keeping <a href=\"https://micro.bjhess.com/2022/02/16/logtxt.html\">a log</a>.</p>\n\n<p>Just when I’ve started to get rolling, I am surprising myself again by picking up <a href=\"https://www.phoenixframework.org\">Phoenix</a> and <a href=\"https://elixir-lang.org\">Elixir</a> for my next project. About eighteen months ago, before this web-project bug hit me, I did try to book-learn myself some Phoenix. Without a project to work on, or even a desire to come up with a project, I fell off the practice rather quickly.</p>\n\n<p>I have never been a deep-diver of programming languages and frameworks. I don’t find the details of how things work to be that interesting on their own. I find the fact that these open source tools <em>exist</em> at all to be the amazing part, and it turns out I very much enjoy them to build things. The quickly-built things are what excite me.</p>\n\n<p>Fast forward to today. After standing up three prototypes with Ruby on Rails, I reminded myself of another thing that really makes me happy: fast websites. I’m building prototypes here, with hopes no higher than eventually serving a few thousand people on an app that catches on in its little niche. There is no practical reason for me to move from Rails. It’s certainly fast enough to handle the things I want to build. As experience is (re)gained, the workflow is quite nice. And while it’s hard to find things on Google, there is a lot of hard-won knowledge out there, including my own experiences with the framework, which are certainly buried somewhere in my brain.</p>\n\n<p>Elixir and the Phoenix framework promise better performance on the basic web things; probably by a factor of five or ten. On top of that, the authors were inspired by Ruby and Rails, so they have been able to largely keep the “developer happiness” goals of those inspirational technologies alive in their own developments.</p>\n\n<p>As I go through the book learning, it has been remarkably quick to stand up a simple application in Phoenix. Certainly I will be slowed down as I learn to embrace a new framework, a new mode of programming (functional declarative rather than object oriented), and a less-magical way of doing things. Okay, the latter might net out positive very quickly.</p>\n\n<p>I realize the performance of my applications might not be all that noticeable, especially if they include multimedia assets like photos and videos, but the promise of simply not worrying about scaling for a very long time is a good one. The promise of apps that are not resource-needy and that are cheap to run is great for someone building many prototypes each year. The promise of serving thousands of connections cheaply for live websocket interactions is quite exciting. The promise of tests that run blazingly fast makes me smile.</p>\n\n<p>So here I go. Maybe I’ll be even happier building apps over the next couple months. Or maybe I’ll fall back to Rails, my comfort zone. Either option will be a pretty great place to be.</p>\n",
+				"content_text": "Earlier this year I surprised myself and [got back into daily programming](https://micro.bjhess.com/2022/02/04/google-programming-in.html). It’s been quite a trip and mostly fun. The part that has been the most frustrating is when I solve a problem one week only to have the same problem again next week, but I can’t quite remember how I solved it. I have tried to minimize that issue a bit by keeping [a log](https://micro.bjhess.com/2022/02/16/logtxt.html).\n\nJust when I’ve started to get rolling, I am surprising myself again by picking up [Phoenix](https://www.phoenixframework.org) and [Elixir](https://elixir-lang.org) for my next project. About eighteen months ago, before this web-project bug hit me, I did try to book-learn myself some Phoenix. Without a project to work on, or even a desire to come up with a project, I fell off the practice rather quickly.\n\nI have never been a deep-diver of programming languages and frameworks. I don’t find the details of how things work to be that interesting on their own. I find the fact that these open source tools _exist_ at all to be the amazing part, and it turns out I very much enjoy them to build things. The quickly-built things are what excite me.\n\nFast forward to today. After standing up three prototypes with Ruby on Rails, I reminded myself of another thing that really makes me happy: fast websites. I’m building prototypes here, with hopes no higher than eventually serving a few thousand people on an app that catches on in its little niche. There is no practical reason for me to move from Rails. It’s certainly fast enough to handle the things I want to build. As experience is (re)gained, the workflow is quite nice. And while it’s hard to find things on Google, there is a lot of hard-won knowledge out there, including my own experiences with the framework, which are certainly buried somewhere in my brain.\n\nElixir and the Phoenix framework promise better performance on the basic web things; probably by a factor of five or ten. On top of that, the authors were inspired by Ruby and Rails, so they have been able to largely keep the “developer happiness” goals of those inspirational technologies alive in their own developments.\n\nAs I go through the book learning, it has been remarkably quick to stand up a simple application in Phoenix. Certainly I will be slowed down as I learn to embrace a new framework, a new mode of programming (functional declarative rather than object oriented), and a less-magical way of doing things. Okay, the latter might net out positive very quickly.\n\nI realize the performance of my applications might not be all that noticeable, especially if they include multimedia assets like photos and videos, but the promise of simply not worrying about scaling for a very long time is a good one. The promise of apps that are not resource-needy and that are cheap to run is great for someone building many prototypes each year. The promise of serving thousands of connections cheaply for live websocket interactions is quite exciting. The promise of tests that run blazingly fast makes me smile.\n\nSo here I go. Maybe I’ll be even happier building apps over the next couple months. Or maybe I’ll fall back to Rails, my comfort zone. Either option will be a pretty great place to be.\n",
+				"date_published": "2022-03-01T06:58:00-06:00",
+				"url": "https://micro.bjhess.com/2022/02/28/trying-phoenix-and.html",
+				"tags": ["Blog","Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/02/28/bo-burnham-inside.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/823754-inside-bo-burnham\"><strong>Bo Burnham: Inside</strong></a> (2021)</p>\n\n<p>I&rsquo;m on the &ldquo;mostly enjoyed Bo Burnham&rsquo;s <em>Inside</em>&rdquo; of history.</p>\n\n<p><img src=\"uploads/2022/bb72a72d13.png\" width=\"600\" height=\"334\" alt=\"\" /></p>\n",
+				"content_text": "🍿 [**Bo Burnham: Inside**](https://www.themoviedb.org/movie/823754-inside-bo-burnham) (2021)\n\nI'm on the \"mostly enjoyed Bo Burnham's _Inside_\" of history.\n\n<img src=\"uploads/2022/bb72a72d13.png\" width=\"600\" height=\"334\" alt=\"\" />\n",
+				"date_published": "2022-02-28T08:28:24-06:00",
+				"url": "https://micro.bjhess.com/2022/02/28/bo-burnham-inside.html",
+				"tags": ["Ephemera","Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/02/25/head-on-by.html",
+				
+				"content_html": "<p>📚 <a href=\"https://bookshop.org/books/head-on-a-novel-of-the-near-future/9780765388933\"><strong>Head On</strong></a> (2019) by John Scalzi</p>\n\n<p>I appreciate the things Scalzi is accomplishing in this universe. This one was just a little too procedural for me.</p>\n\n<p><img src=\"uploads/2022/20a740c157.jpg\" width=\"265\" height=\"400\" alt=\"Scalzi Head On\" /></p>\n",
+				"content_text": "📚 [**Head On**](https://bookshop.org/books/head-on-a-novel-of-the-near-future/9780765388933) (2019) by John Scalzi\n\nI appreciate the things Scalzi is accomplishing in this universe. This one was just a little too procedural for me.\n\n<img src=\"uploads/2022/20a740c157.jpg\" width=\"265\" height=\"400\" alt=\"Scalzi Head On\" />\n",
+				"date_published": "2022-02-26T07:45:00-06:00",
+				"url": "https://micro.bjhess.com/2022/02/25/head-on-by.html",
+				"tags": ["Ephemera","Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/02/25/candid-by-whitney.html",
+				
+				"content_html": "<p>🎵 <a href=\"https://whitneychicago.bandcamp.com/album/candid\"><strong>Candid</strong></a> (2020) by Whitney</p>\n\n<p>A lovely cover album for a Friday afternoon.</p>\n\n<iframe style=\"border: 0; width: 350px; height: 350px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=577098136/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/\" seamless><a href=\"https://whitneychicago.bandcamp.com/album/candid\">Candid by Whitney</a></iframe>\n",
+				"content_text": "🎵 [**Candid**](https://whitneychicago.bandcamp.com/album/candid) (2020) by Whitney\n\nA lovely cover album for a Friday afternoon.\n\n<iframe style=\"border: 0; width: 350px; height: 350px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=577098136/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/\" seamless><a href=\"https://whitneychicago.bandcamp.com/album/candid\">Candid by Whitney</a></iframe>\n",
+				"date_published": "2022-02-25T13:11:00-06:00",
+				"url": "https://micro.bjhess.com/2022/02/25/candid-by-whitney.html",
+				"tags": ["Ephemera","Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/02/25/magazines-at-your.html",
+				"title": "Magazines at Your Library",
+				"content_html": "<p>I’m a big fan of the <a href=\"https://libbyapp.com/library/mainlib\">Libby app</a>. It is fairly pretty, makes managing my want-to-read lists pretty easy, and does a bang-up job shuttling off checked-out books to my Kindle. It tries some unique user interfaces, and they don’t all succeed, but I appreciate the effort.</p>\n\n<p>(Aside, I remember the old OverDrive app being pretty terrible, so I will say “Hats Off!” to them because <a href=\"https://www.overdrive.com/apps/libby\">they made Libby</a>. Well done!)</p>\n\n<p>While reading up on what sorts of long-form journalism are actually worth anything these days, I discovered that my local library actually has free issues of many magazines for digital checkout. While I prefer reading on paper (or Kindle), a tablet isn’t too bad of a format in which to read magazines; especially as I’m just trying out if I really <em>want</em> to be reading long-form journalism again. If it becomes a thing I value, I’ll probably subscribe to the magazine(s) directly.</p>\n\n<p>Libby will also offer to subscribe you to the digital magazine, alerting you when the next issue hits the stands. I’ll leave it to you to discover what magazines are worthwhile.</p>\n",
+				"content_text": "I’m a big fan of the [Libby app](https://libbyapp.com/library/mainlib). It is fairly pretty, makes managing my want-to-read lists pretty easy, and does a bang-up job shuttling off checked-out books to my Kindle. It tries some unique user interfaces, and they don’t all succeed, but I appreciate the effort.\n\n(Aside, I remember the old OverDrive app being pretty terrible, so I will say “Hats Off!” to them because [they made Libby](https://www.overdrive.com/apps/libby). Well done!)\n\nWhile reading up on what sorts of long-form journalism are actually worth anything these days, I discovered that my local library actually has free issues of many magazines for digital checkout. While I prefer reading on paper (or Kindle), a tablet isn’t too bad of a format in which to read magazines; especially as I’m just trying out if I really _want_ to be reading long-form journalism again. If it becomes a thing I value, I’ll probably subscribe to the magazine(s) directly.\n\nLibby will also offer to subscribe you to the digital magazine, alerting you when the next issue hits the stands. I’ll leave it to you to discover what magazines are worthwhile.\n",
+				"date_published": "2022-02-25T08:57:42-06:00",
+				"url": "https://micro.bjhess.com/2022/02/25/magazines-at-your.html",
+				"tags": ["Blog","Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/02/24/ascender-ascender-is.html",
+				
+				"content_html": "<p>🦹 <a href=\"https://comicvine.gamespot.com/ascender-18-star-seed-part-four/4000-881041/\"><strong>Ascender</strong></a> (2021)</p>\n\n<p>Ascender is a fascinating series with beautiful watercolor art. I liked its predecessor, <a href=\"https://comicvine.gamespot.com/descender/4050-80426/\">Descender</a>, a bit more, but still very entertaining.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/5f1f0c662d.jpg\" width=\"195\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "🦹 [**Ascender**](https://comicvine.gamespot.com/ascender-18-star-seed-part-four/4000-881041/) (2021)\n\nAscender is a fascinating series with beautiful watercolor art. I liked its predecessor, [Descender](https://comicvine.gamespot.com/descender/4050-80426/), a bit more, but still very entertaining.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/5f1f0c662d.jpg\" width=\"195\" height=\"300\" alt=\"\" />\n",
+				"date_published": "2022-02-24T18:05:09-06:00",
+				"url": "https://micro.bjhess.com/2022/02/24/ascender-ascender-is.html",
+				"tags": ["Ephemera","Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/02/24/does-anyone-else.html",
+				
+				"content_html": "<p>Does anyone else have an iCal (macOS) that is completely buggy? For years mine has: given me multiple email alerts for a single event, continued to give me a notification even if the event is email-alert-only, and loses my email-alert settings on an event (failing to alert me).</p>\n",
+				"content_text": "Does anyone else have an iCal (macOS) that is completely buggy? For years mine has: given me multiple email alerts for a single event, continued to give me a notification even if the event is email-alert-only, and loses my email-alert settings on an event (failing to alert me).\n",
+				"date_published": "2022-02-24T08:42:28-06:00",
+				"url": "https://micro.bjhess.com/2022/02/24/does-anyone-else.html",
+				"tags": ["Ephemera"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/02/16/numbrdev.html",
+				"title": "Numbr",
+				"content_html": "<p>I find <a href=\"https://numbr.dev\">Numbr</a> to be a fascinating piece of software. It is totally understandable that someone would build a version of the <a href=\"https://soulver.app\">Soulver</a> calculator in the browser. Who wouldn’t want that?</p>\n\n<p>My fascination level doubled when I realized there was no backend to this software. The state of what has been typed on the screen is stored in the URL, compressed and base64 encoded. When you send a link of your document to someone else all of the information is stored in the URL, and thus they see what you see.</p>\n\n<p>This state-in-the-URL is handy for my financial <a href=\"https://micro.bjhess.com/2022/01/26/tab-groups-in.html\">tab group</a>. When I sit down to pay the bills (RE: pay the credit cards), Numbr is the first tab I see. I don’t need to dig through a service’s interface to find my document or spreadsheet. It has all the miscellaneous calculations I felt I needed the last time I worked with my finances. I can tweak and edit the document from there, building it upon itself.</p>\n\n<p>It’s a novel approach to building software. And it’s pretty.</p>\n",
+				"content_text": "I find [Numbr](https://numbr.dev) to be a fascinating piece of software. It is totally understandable that someone would build a version of the [Soulver](https://soulver.app) calculator in the browser. Who wouldn’t want that?\n\nMy fascination level doubled when I realized there was no backend to this software. The state of what has been typed on the screen is stored in the URL, compressed and base64 encoded. When you send a link of your document to someone else all of the information is stored in the URL, and thus they see what you see.\n\nThis state-in-the-URL is handy for my financial [tab group](https://micro.bjhess.com/2022/01/26/tab-groups-in.html). When I sit down to pay the bills (RE: pay the credit cards), Numbr is the first tab I see. I don’t need to dig through a service’s interface to find my document or spreadsheet. It has all the miscellaneous calculations I felt I needed the last time I worked with my finances. I can tweak and edit the document from there, building it upon itself.\n\nIt’s a novel approach to building software. And it’s pretty.\n",
+				"date_published": "2022-02-24T06:53:00-06:00",
+				"url": "https://micro.bjhess.com/2022/02/16/numbrdev.html",
+				"tags": ["Blog","Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/02/23/spectre-the-daniel.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/206647-spectre\"><strong>Spectre</strong></a> (2015)</p>\n\n<p>The Daniel Craig Bond movies are always good. Maybe it was lack of sleep or impending sickness, but I was nodding off a bit during this one, however.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/855490012d.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "🍿 [**Spectre**](https://www.themoviedb.org/movie/206647-spectre) (2015)\r\n\r\nThe Daniel Craig Bond movies are always good. Maybe it was lack of sleep or impending sickness, but I was nodding off a bit during this one, however.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/855490012d.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2022-02-23T14:42:01-06:00",
+				"url": "https://micro.bjhess.com/2022/02/23/spectre-the-daniel.html",
+				"tags": ["Ephemera","Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/02/22/the-story-of.html",
+				
+				"content_html": "<p>The story of Mark Wunderlich&rsquo;s poem <a href=\"https://www.cortlandreview.com/issue-86/mark-wunderlich/\"><em>Cuthbert</em></a> rolls along so well. I didn&rsquo;t realize until the last stanza that it was a rare poem that I&rsquo;ve read recently that actually has rhymes! I think it&rsquo;s pretty clever to include suprising rhymes in a poem about a lamb.</p>\n",
+				"content_text": "The story of Mark Wunderlich's poem [_Cuthbert_](https://www.cortlandreview.com/issue-86/mark-wunderlich/) rolls along so well. I didn't realize until the last stanza that it was a rare poem that I've read recently that actually has rhymes! I think it's pretty clever to include suprising rhymes in a poem about a lamb.\n",
+				"date_published": "2022-02-23T07:33:00-06:00",
+				"url": "https://micro.bjhess.com/2022/02/22/the-story-of.html",
+				"tags": ["Ephemera","Reading"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/02/22/for-the-fourth.html",
 				
 				"content_html": "<p>For the fourth webapp I’m setting up in 2022, I’m trying Elixir and Phoenix rather than my comfortable Ruby on Rails. This is certainly a mind-bend.</p>\n",
@@ -27,8 +126,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/02/20/rons-gone-wrong.html",
 				
-				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/482321-ron-s-gone-wrong\"><strong>Ron&rsquo;s Gone Wrong</strong></a> (2021)</p>\n\n<p>Pretty decent little family movie. It had a few interesting ideas for the kids to chew on, I think.</p>\n\n<p><img src=\"uploads/2022/3432a239dc.jpg\" width=\"600\" height=\"251\" alt=\"\" /></p>\n",
-				"content_text": "🍿 [**Ron's Gone Wrong**](https://www.themoviedb.org/movie/482321-ron-s-gone-wrong) (2021)\r\n\r\nPretty decent little family movie. It had a few interesting ideas for the kids to chew on, I think.\n\n<img src=\"uploads/2022/3432a239dc.jpg\" width=\"600\" height=\"251\" alt=\"\" />\n",
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/482321-ron-s-gone-wrong\"><strong>Ron&rsquo;s Gone Wrong</strong></a> (2021)</p>\n\n<p>Pretty decent little family movie. It had a few interesting ideas for the kids to chew on, I think.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/3432a239dc.jpg\" width=\"600\" height=\"251\" alt=\"\" /></p>\n",
+				"content_text": "🍿 [**Ron's Gone Wrong**](https://www.themoviedb.org/movie/482321-ron-s-gone-wrong) (2021)\r\n\r\nPretty decent little family movie. It had a few interesting ideas for the kids to chew on, I think.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/3432a239dc.jpg\" width=\"600\" height=\"251\" alt=\"\" />\n",
 				"date_published": "2022-02-20T20:43:21-06:00",
 				"url": "https://micro.bjhess.com/2022/02/20/rons-gone-wrong.html",
 				"tags": ["Ephemera","Watching"]
@@ -36,8 +135,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/02/20/last-night-in.html",
 				
-				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/576845-last-night-in-soho\"><strong>Last Night in Soho</strong></a> (2021)</p>\n\n<p>I love me some Edgar Wright, but I&rsquo;m still not sure what I think about this one. I did love the creativity of shots in the first half. And the music was 😙👌.</p>\n\n<p><img src=\"uploads/2022/23d636f0db.jpg\" width=\"600\" height=\"333\" alt=\"\" /></p>\n",
-				"content_text": "🍿 [**Last Night in Soho**](https://www.themoviedb.org/movie/576845-last-night-in-soho) (2021)\r\n\r\nI love me some Edgar Wright, but I'm still not sure what I think about this one. I did love the creativity of shots in the first half. And the music was 😙👌.\n\n<img src=\"uploads/2022/23d636f0db.jpg\" width=\"600\" height=\"333\" alt=\"\" />\n",
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/576845-last-night-in-soho\"><strong>Last Night in Soho</strong></a> (2021)</p>\n\n<p>I love me some Edgar Wright, but I&rsquo;m still not sure what I think about this one. I did love the creativity of shots in the first half. And the music was 😙👌.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/23d636f0db.jpg\" width=\"600\" height=\"333\" alt=\"\" /></p>\n",
+				"content_text": "🍿 [**Last Night in Soho**](https://www.themoviedb.org/movie/576845-last-night-in-soho) (2021)\r\n\r\nI love me some Edgar Wright, but I'm still not sure what I think about this one. I did love the creativity of shots in the first half. And the music was 😙👌.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/23d636f0db.jpg\" width=\"600\" height=\"333\" alt=\"\" />\n",
 				"date_published": "2022-02-20T11:51:42-06:00",
 				"url": "https://micro.bjhess.com/2022/02/20/last-night-in.html",
 				"tags": ["Ephemera","Watching"]
@@ -54,9 +153,9 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/02/18/an-evening-with.html",
 				
-				"content_html": "<p>🎵 <a href=\"https://music.apple.com/us/album/an-evening-with-silk-sonic/1589361543\"><strong>An Evening with Silk Sonic</strong></a> (2021) by Silk Sonic</p>\n\n<p>Bruno Mars, Anderson .Paak, and Silk Sonic – seems like a perfect start to a Friday.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/925aec2da5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "🎵 [**An Evening with Silk Sonic**](https://music.apple.com/us/album/an-evening-with-silk-sonic/1589361543) (2021) by Silk Sonic\r\n\r\nBruno Mars, Anderson .Paak, and Silk Sonic – seems like a perfect start to a Friday.\r\n\n\n<img src=\"https://micro.bjhess.com/uploads/2022/925aec2da5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-02-18T08:36:26-06:00",
+				"content_html": "<p>🎵 <a href=\"https://music.apple.com/us/album/an-evening-with-silk-sonic/1589361543\"><strong>An Evening with Silk Sonic</strong></a> (2021) by Silk Sonic</p>\n\n<p>Bruno Mars, Anderson .Paak, and Silk Sonic – seems like a perfect start to a Friday.</p>\n\n<p><img src=\"uploads/2022/925aec2da5.jpg\" width=\"400\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "🎵 [**An Evening with Silk Sonic**](https://music.apple.com/us/album/an-evening-with-silk-sonic/1589361543) (2021) by Silk Sonic\n\nBruno Mars, Anderson .Paak, and Silk Sonic – seems like a perfect start to a Friday.\n\n\n<img src=\"uploads/2022/925aec2da5.jpg\" width=\"400\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2022-02-18T08:36:00-06:00",
 				"url": "https://micro.bjhess.com/2022/02/18/an-evening-with.html",
 				"tags": ["Ephemera","Listening"]
 			},
@@ -90,8 +189,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/02/15/the-obelisk-gate.html",
 				
-				"content_html": "<p>📚 <a href=\"https://bookshop.org/books/the-obelisk-gate/9780316229265\"><strong>The Obelisk Gate</strong></a> (2016) by N. K. Jemisin</p>\n\n<p>I read this with audio. It&rsquo;s a book two that found my attention straying, but certainly did well in setting up an exciting conclusion (I hope).</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/83e2e5f701.png\" width=\"264\" height=\"400\" alt=\"\" /></p>\n",
-				"content_text": "📚 [**The Obelisk Gate**](https://bookshop.org/books/the-obelisk-gate/9780316229265) (2016) by N. K. Jemisin\n\nI read this with audio. It's a book two that found my attention straying, but certainly did well in setting up an exciting conclusion (I hope).\n\n<img src=\"https://micro.bjhess.com/uploads/2022/83e2e5f701.png\" width=\"264\" height=\"400\" alt=\"\" />\n",
+				"content_html": "<p>📚 <a href=\"https://bookshop.org/books/the-obelisk-gate/9780316229265\"><strong>The Obelisk Gate</strong></a> (2016) by N. K. Jemisin</p>\n\n<p>I read this with audio. It&rsquo;s a book two that found my attention straying, but certainly did well in setting up an exciting conclusion (I hope).</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/83e2e5f701.png\" width=\"198\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "📚 [**The Obelisk Gate**](https://bookshop.org/books/the-obelisk-gate/9780316229265) (2016) by N. K. Jemisin\n\nI read this with audio. It's a book two that found my attention straying, but certainly did well in setting up an exciting conclusion (I hope).\n\n<img src=\"https://micro.bjhess.com/uploads/2022/83e2e5f701.png\" width=\"198\" height=\"300\" alt=\"\" />\n",
 				"date_published": "2022-02-16T07:03:00-06:00",
 				"url": "https://micro.bjhess.com/2022/02/15/the-obelisk-gate.html",
 				"tags": ["Ephemera","Reading"]
@@ -99,8 +198,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/02/15/i-dont-live.html",
 				
-				"content_html": "<p>🎵 <a href=\"https://music.apple.com/us/album/i-dont-live-here-anymore/1576851901\"><strong>I Don&rsquo;t Live Here Anymore</strong></a> (2021) by The War on Drugs</p>\n\n<p><img src=\"uploads/2022/2f33bcc72f.png\" width=\"400\" height=\"400\" alt=\"\" /></p>\n",
-				"content_text": "🎵 [**I Don't Live Here Anymore**](https://music.apple.com/us/album/i-dont-live-here-anymore/1576851901) (2021) by The War on Drugs\n\n<img src=\"uploads/2022/2f33bcc72f.png\" width=\"400\" height=\"400\" alt=\"\" />\n",
+				"content_html": "<p>🎵 <a href=\"https://music.apple.com/us/album/i-dont-live-here-anymore/1576851901\"><strong>I Don&rsquo;t Live Here Anymore</strong></a> (2021) by The War on Drugs</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/2f33bcc72f.png\" width=\"400\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "🎵 [**I Don't Live Here Anymore**](https://music.apple.com/us/album/i-dont-live-here-anymore/1576851901) (2021) by The War on Drugs\n\n<img src=\"https://micro.bjhess.com/uploads/2022/2f33bcc72f.png\" width=\"400\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2022-02-15T12:05:00-06:00",
 				"url": "https://micro.bjhess.com/2022/02/15/i-dont-live.html",
 				"tags": ["Ephemera","Listening"]
