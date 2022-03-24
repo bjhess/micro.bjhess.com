@@ -24,6 +24,110 @@
 	
       <div class="h-entry">
 		
+			<h1><a href="https://micro.bjhess.com/2022/03/23/autogenerate-sitemapxml-with.html">Auto-generate sitemap.xml with Rails on Render.com</a></h1>
+		
+
+        <a href="https://micro.bjhess.com/2022/03/23/autogenerate-sitemapxml-with.html" class="u-url"><time class="dt-published" datetime="2022-03-23 11:26:47 -0500">Mar 23, 2022</time></a>
+
+        <div class="e-content">
+         	<p>With the launch of <a href="https://doevery.day">doevery.day</a>, I decided I should register a sitemap. The site is built with Rails 7 and running on <a href="https://render.com">Render</a>, so I set about finding an automated way to make this happen. Here’s what I came up with.</p>
+
+<p>First I installed the <a href="https://github.com/kjvarga/sitemap_generator">sitemap_generator</a> gem. This will handle the grunt work. The documentation does a good job <a href="https://github.com/kjvarga/sitemap_generator#adding-links">getting you going</a> and provides for most of the details you’ll need.</p>
+
+<p>From there you should make sure you have a <code>robots.txt</code> defined (<a href="https://www.robotstxt.org/robotstxt.html">docs</a>). Here’s ours:</p>
+
+<pre><code>User-agent: *
+Disallow:
+Sitemap: https://doevery.day/sitemap.xml.gz
+</code></pre>
+
+<p>Finally, you need to update your render build script (mine is found in <code>./bin/render-build.sh</code>. Add this to your script:</p>
+
+<pre><code>bundle exec rake sitemap:refresh
+</code></pre>
+
+<p>And that should do it! You will have a sitemap after your next deploy.</p>
+
+<p>(I’ll admit I did run this in my local environment to make sure my code worked. You should probably do that with the <code>rake sitemap:refresh:no_ping</code> command. I forgot. I hope I didn’t make Google and Bing angry!)</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://micro.bjhess.com/2022/03/21/so-my-friend.html" class="u-url"><time class="dt-published" datetime="2022-03-21 13:40:00 -0500">Mar 21, 2022</time></a>
+
+        <div class="e-content">
+         	<p>So my friend Shawn and I have put together a website to help us stay motivated to do the daily thing we like to do to keep ourselves happy. If you need to make sure you do one thing every day, this might be for you, too? Give it a try!</p>
+
+<p><a href="https://doevery.day">doevery.day</a></p>
+
+<p>🧶🍞📝</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://micro.bjhess.com/2022/03/20/from-dobby-gibsons.html" class="u-url"><time class="dt-published" datetime="2022-03-21 07:04:00 -0500">Mar 21, 2022</time></a>
+
+        <div class="e-content">
+         	<p>From Dobby Gibson&rsquo;s &ldquo;Ode to the Future&rdquo;, published in <a href="https://bookshop.org/books/little-glass-planet-poems/9781555978426"><em>Little Glass Planet</em></a>:</p>
+
+<blockquote>
+<p>so let&rsquo;s make America a set of problems<br />
+we can admit exists again, and still have the will<br />
+to solve</p>
+</blockquote>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://micro.bjhess.com/2022/03/20/sweet-tooth-as.html" class="u-url"><time class="dt-published" datetime="2022-03-20 12:13:54 -0500">Mar 20, 2022</time></a>
+
+        <div class="e-content">
+         	<p>📺 <a href="https://www.themoviedb.org/tv/103768-sweet-tooth"><strong>Sweet Tooth</strong></a> (2021)</p>
+
+<p>As a Jeff Lemire fan who has never read his <em>Sweet Tooth</em> comics (I know), this was a fun ride. It hit very different because of a pandemic that certainly wasn&rsquo;t known during shooting.</p>
+
+<p><img src="uploads/2022/37f72444c6.jpg" width="600" height="337" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://micro.bjhess.com/2022/03/15/nine-lives-by.html" class="u-url"><time class="dt-published" datetime="2022-03-17 10:33:00 -0500">Mar 17, 2022</time></a>
+
+        <div class="e-content">
+         	<p>🎵 <a href="https://kendramorris.bandcamp.com/album/nine-lives"><strong>Nine Lives</strong></a> (2022) by Kendra Morris</p>
+
+<p>Been a long time since Morris released an album and I&rsquo;m excited!</p>
+
+<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=2606368229/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://kendramorris.bandcamp.com/album/nine-lives">Nine Lives by Kendra Morris</a></iframe>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://micro.bjhess.com/2022/03/17/who-remembers-userscripts.html" class="u-url"><time class="dt-published" datetime="2022-03-17 10:28:30 -0500">Mar 17, 2022</time></a>
+
+        <div class="e-content">
+         	<p>Who remembers Userscripts? Here&rsquo;s a <a href="https://userscripts-mirror.org">mirror of the old site</a>. I wanted to add a shortcut to the search bar of a site I use and thought about Userscripts again. Is there a modern equivalent?</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
 
         <a href="https://micro.bjhess.com/2022/03/16/i-am-trying.html" class="u-url"><time class="dt-published" datetime="2022-03-16 09:44:00 -0500">Mar 16, 2022</time></a>
 
@@ -47,7 +151,7 @@
 
 <p>Kind of a fun modern take on <em>Clue</em>.</p>
 
-<p><img src="uploads/2022/622ece6c74.jpg" width="600" height="337" alt="" /></p>
+<p><img src="https://micro.bjhess.com/uploads/2022/622ece6c74.jpg" width="600" height="337" alt="" /></p>
 
         </div>
       </div>
@@ -62,7 +166,7 @@
 
 <p>What an outstanding film! Judi Dench is superb and Steve Coogan provides a great counterpoint. I&rsquo;ve loved Coogan for years, and was excited to see he produced and co-wrote. It is leaving Netflix in a week.</p>
 
-<p><img src="uploads/2022/d358b05a43.jpg" width="600" height="337" alt="Philomena" /></p>
+<p><img src="https://micro.bjhess.com/uploads/2022/d358b05a43.jpg" width="600" height="337" alt="Philomena" /></p>
 
         </div>
       </div>
@@ -77,9 +181,9 @@
 
 <p>I quite enjoyed the former and &hellip; worked my way through the latter.</p>
 
-<p><img src="uploads/2022/b09ccb0fb6.jpg" width="289" height="400" alt="god of nothingness mark wunderlich" /></p>
+<p><img src="https://micro.bjhess.com/uploads/2022/b09ccb0fb6.jpg" width="289" height="400" alt="god of nothingness mark wunderlich" /></p>
 
-<p><img src="uploads/2022/555a19cb01.jpg" width="311" height="400" alt="against heaven kemi alabi" /></p>
+<p><img src="https://micro.bjhess.com/uploads/2022/555a19cb01.jpg" width="311" height="400" alt="against heaven kemi alabi" /></p>
 
         </div>
       </div>
@@ -94,7 +198,7 @@
 
 <p>This is volume 6 in the <em>Criminal</em> series by Ed Brubaker and Sean Phillips. Though great, I can get burnt out on these crime stories. This one was amazing.</p>
 
-<p><img src="uploads/2022/a371e323d9.jpg" width="260" height="400" alt="" /></p>
+<p><img src="https://micro.bjhess.com/uploads/2022/a371e323d9.jpg" width="260" height="400" alt="" /></p>
 
         </div>
       </div>
@@ -109,7 +213,7 @@
 
 <p>We watch television shows pretty slowly. Season 2 dug deep into some issues. And the twist at the end didn&rsquo;t feel right to me, though watching over the course of months might have led to that confusion.</p>
 
-<p><img src="uploads/2022/39f3a360a6.jpg" width="600" height="337" alt="" /></p>
+<p><img src="https://micro.bjhess.com/uploads/2022/39f3a360a6.jpg" width="600" height="337" alt="" /></p>
 
         </div>
       </div>
@@ -205,7 +309,7 @@
 
 <p>Where it gets more interesting, I think, is when considering how valuable straight A’s are to the student’s growth and happiness. For most students, that amount of grade excellence would require a lot of hard work. Most societies around the world consider a strong work ethic to be a positive moral characteristic. (There is a lot of social engineering behind that fact, but this isn’t the time to delve into that topic.)</p>
 
-<p>It seems likely that a student with straight A’s has learned a lot of things. Learning things is a good practice in my estimation. I don’t believe that straight A’s mean a student learned the <em>most</em> things, though, nor do I think we can know if straight A’s mean they learned the right things. What if a student had to work incredibly hard at a math class that was particularly challenging to them? Odds are they did not learn that material much beyond getting by (if you can call an A getting by). Odds are they won’t retain that material. Odds are the time they took struggling with that one class took them away from a more natural, deeper learning they could have been doing in an area that in which they were more interested. Or perhaps the stress of that studying took them away from extracurricular or social activities that would have been better for their growth into adulthood?</p>
+<p>It seems likely that a student with straight A’s has learned a lot of things. Learning things is a good practice in my estimation. I don’t believe that straight A’s mean a student learned the <em>most</em> things, though, nor do I think we can know if straight A’s mean they learned the right things. What if a student had to work incredibly hard at a math class that was particularly challenging to them? Odds are they did not learn that material much beyond getting by (if you can call an A getting by). Odds are they won’t retain that material. Odds are the time they took struggling with that one class took them away from a more natural, deeper learning they could have been doing in an area in which they were more interested. Or perhaps the stress of that studying took them away from extracurricular or social activities that would have been better for their growth into adulthood?</p>
 
 <p>Along similar lines, students pushing towards these top grades may also be pushing happiness and contentment away during their pursuit. There is certainly an argument that dealing with imperfection in life, with situations that are not perfectly what you want, is a useful skill to learn. No matter how much we hope for an ideal environment, that’s just never going to be the case for any of us. Conversely, I think we would do our teens good to help them learn to seek fulfillment. It would be good for kids to discover how to discover what they excel at; to be given opportunities to go deep into those areas and learn to build skills around focusing on those topics.</p>
 
@@ -2188,7 +2292,7 @@ Without a dope beat to step to
         <a href="https://micro.bjhess.com/2022/01/14/my-blog-archives.html" class="u-url"><time class="dt-published" datetime="2020-07-01 01:01:00 -0500">Jul 1, 2020</time></a>
 
         <div class="e-content">
-         	<p>My blog archives ≤ 2021 are found <a href="http://bjhess.com/blog/archive">at my homepage</a>.</p>
+         	<p>My blog archives ≤ 2021 are found <a href="https://bjhess.com/blog/archive">at my homepage</a>.</p>
 
         </div>
       </div>
@@ -2804,8 +2908,8 @@ Without a dope beat to step to
     
     <div class="footer2 site-footer">
   <ul>
-    <li>© <a href="http://bjhess.com">bjhess.com</a></li>
-    <li><a href="http://bjhess.com/blog/archive">Ancient Archives</a></li>
+    <li>© <a href="https://bjhess.com">bjhess.com</a></li>
+    <li><a href="https://bjhess.com/blog/archive">Ancient Archives</a></li>
     <li><a href="https://github.com/bjhess/">Github</a></li>
     <li><a class="newsletter-feed" href="https://micro.bjhess.com/newsletter/">📧</a></li>
     <li><a class="subscribe-button icon-feed" href="/feed.xml"></a></li>
