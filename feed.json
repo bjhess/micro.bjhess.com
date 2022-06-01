@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/05/31/i-just-a.html",
+				
+				"content_html": "<p>I just a nighttime video call with a friend. Typically with evening hangs, especially virtual, I have a terrible time getting to sleep before midnight or 1 A.M. Let&rsquo;s see if I can break that streak tonight.</p>\n",
+				"content_text": "I just a nighttime video call with a friend. Typically with evening hangs, especially virtual, I have a terrible time getting to sleep before midnight or 1 A.M. Let's see if I can break that streak tonight.\n",
+				"date_published": "2022-05-31T22:23:47-05:00",
+				"url": "https://micro.bjhess.com/2022/05/31/i-just-a.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/05/29/i-surprised-myself.html",
+				
+				"content_html": "<p>I surprised myself and wrote one oblique sort of thing about how I&rsquo;m feeling in this America we happen to live in at the moment: <a href=\"https://bjhess.com/blog/2022/anti-leadership/\">Anti-Leadership</a>.</p>\n",
+				"content_text": "I surprised myself and wrote one oblique sort of thing about how I'm feeling in this America we happen to live in at the moment: [Anti-Leadership](https://bjhess.com/blog/2022/anti-leadership/).\n",
+				"date_published": "2022-05-29T23:00:32-05:00",
+				"url": "https://micro.bjhess.com/2022/05/29/i-surprised-myself.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/05/27/we-just-wrapped.html",
+				
+				"content_html": "<p>We just wrapped up <a href=\"https://goodenoughnews.substack.com\"><em>A Good Enough Newsletter</em></a> and it will go out this afternoon. This time there will be a contest with a fabulous prize. Woo!</p>\n",
+				"content_text": "We just wrapped up [_A Good Enough Newsletter_](https://goodenoughnews.substack.com) and it will go out this afternoon. This time there will be a contest with a fabulous prize. Woo!\n",
+				"date_published": "2022-05-27T11:41:37-05:00",
+				"url": "https://micro.bjhess.com/2022/05/27/we-just-wrapped.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/05/22/theres-a-new.html",
 				
 				"content_html": "<p>🎶 There&rsquo;s a <a href=\"https://classical.centerstagestore.com/pages/max-richter\">new release</a> of Max Richter&rsquo;s take on Vivaldi. (I talked about this <a href=\"https://micro.bjhess.com/2022/03/01/recomposed-by-max.html\">previously</a>.)</p>\n\n<p>I took the jump. /cc <a href=\"https://micro.blog/odd\">@odd</a> &amp; <a href=\"https://micro.blog/SimonWoods\">@SimonWoods</a></p>\n",
@@ -25,8 +49,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/05/21/holding-court-at.html",
 				
-				"content_html": "<p>Holding court at the bedroom window.</p>\n\n<p><img src=\"uploads/2022/e1fa4a7dc2.jpg\" width=\"600\" height=\"320\" alt=\"\" /></p>\n",
-				"content_text": "Holding court at the bedroom window.\n\n<img src=\"uploads/2022/e1fa4a7dc2.jpg\" width=\"600\" height=\"320\" alt=\"\" />\n",
+				"content_html": "<p>Holding court at the bedroom window.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/e1fa4a7dc2.jpg\" width=\"600\" height=\"320\" alt=\"\" /></p>\n",
+				"content_text": "Holding court at the bedroom window.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/e1fa4a7dc2.jpg\" width=\"600\" height=\"320\" alt=\"\" />\n",
 				"date_published": "2022-05-21T10:48:58-05:00",
 				"url": "https://micro.bjhess.com/2022/05/21/holding-court-at.html"
 			},
