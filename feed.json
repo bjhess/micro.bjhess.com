@@ -7,10 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/06/07/wrath-of-man.html",
+				
+				"content_html": "<p>🍿 <a href=\"https://www.themoviedb.org/movie/637649-wrath-of-man\"><strong>Wrath of Man</strong></a> (2021)</p>\n\n<p>It was pretty good…Guy Ritchie without the Guy Ritchie. Not sure why rogerebert.com gave it ⭐️⭐️⭐️⭐️/⭐️⭐️⭐️⭐️, but it was good!</p>\n\n<p><img src=\"uploads/2022/8e5d3f5ffc.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "🍿 [**Wrath of Man**](https://www.themoviedb.org/movie/637649-wrath-of-man) (2021)\r\n\r\nIt was pretty good…Guy Ritchie without the Guy Ritchie. Not sure why rogerebert.com gave it ⭐️⭐️⭐️⭐️/⭐️⭐️⭐️⭐️, but it was good!\r\n\r\n<img src=\"uploads/2022/8e5d3f5ffc.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-06-07T20:28:22-05:00",
+				"url": "https://micro.bjhess.com/2022/06/07/wrath-of-man.html",
+				"tags": ["Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/06/07/victor-wooten-is.html",
+				
+				"content_html": "<p>Victor Wooten is amazing and this is amazing. I should have taken about five pages of notes on this interview.</p>\n\n<div class=\"yt\">\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/UkAowtHSEMA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</div>\n\n<p>🔗🎵</p>\n",
+				"content_text": "Victor Wooten is amazing and this is amazing. I should have taken about five pages of notes on this interview.\r\n\r\n<div class=\"yt\">\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/UkAowtHSEMA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\r\n</div>\r\n\r\n🔗🎵\n",
+				"date_published": "2022-06-07T15:01:34-05:00",
+				"url": "https://micro.bjhess.com/2022/06/07/victor-wooten-is.html",
+				"tags": ["Listening","Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/06/06/did-they-fix.html",
+				
+				"content_html": "<p>Did they fix the Apple Music app? #wwdc</p>\n",
+				"content_text": "Did they fix the Apple Music app? #wwdc\n",
+				"date_published": "2022-06-06T16:11:23-05:00",
+				"url": "https://micro.bjhess.com/2022/06/06/did-they-fix.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/06/06/woke-up-today.html",
+				
+				"content_html": "<p>Woke up today to <a href=\"https://doevery.day/\">doevery.day</a> having an order of magnitude more sign ups than it has had before. Cool! I&rsquo;m curious what person-with-an-audience talked about it.</p>\n",
+				"content_text": "Woke up today to [doevery.day](https://doevery.day/) having an order of magnitude more sign ups than it has had before. Cool! I'm curious what person-with-an-audience talked about it.\n",
+				"date_published": "2022-06-06T10:22:38-05:00",
+				"url": "https://micro.bjhess.com/2022/06/06/woke-up-today.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/06/06/listening-to-vinyl.html",
+				
+				"content_html": "<p>Listening to vinyl again for the first time in a while. <a href=\"https://www.discogs.com/release/3957965-Shostakovich-Concertgebouw-Orchestra-Bernard-Haitink-Symphony-No-5\">Shostakovich – Symphony No. 5</a> is good for workin&rsquo;. 🎵</p>\n",
+				"content_text": "Listening to vinyl again for the first time in a while. [Shostakovich – Symphony No. 5](https://www.discogs.com/release/3957965-Shostakovich-Concertgebouw-Orchestra-Bernard-Haitink-Symphony-No-5) is good for workin'. 🎵\n",
+				"date_published": "2022-06-06T09:36:12-05:00",
+				"url": "https://micro.bjhess.com/2022/06/06/listening-to-vinyl.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/06/02/let-the-summer.html",
+				
+				"content_html": "<p>Let the summer of margaritas commence.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/e5cb6b773c.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Let the summer of margaritas commence.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/e5cb6b773c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-06-02T16:48:57-05:00",
+				"url": "https://micro.bjhess.com/2022/06/02/let-the-summer.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/06/02/finished-reading-dune.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593201732\">Dune Messiah</a> by Frank Herbert 📚</p>\n",
+				"content_text": "Finished reading: [Dune Messiah](https://micro.blog/books/9780593201732) by Frank Herbert 📚\n",
+				"date_published": "2022-06-02T09:59:07-05:00",
+				"url": "https://micro.bjhess.com/2022/06/02/finished-reading-dune.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/05/31/i-just-a.html",
 				
-				"content_html": "<p>I just a nighttime video call with a friend. Typically with evening hangs, especially virtual, I have a terrible time getting to sleep before midnight or 1 A.M. Let&rsquo;s see if I can break that streak tonight.</p>\n",
-				"content_text": "I just a nighttime video call with a friend. Typically with evening hangs, especially virtual, I have a terrible time getting to sleep before midnight or 1 A.M. Let's see if I can break that streak tonight.\n",
+				"content_html": "<p>I just had a nighttime video call with a friend. Typically with evening hangs, especially virtual, I have a terrible time getting to sleep before midnight or 1 A.M. Let&rsquo;s see if I can break that streak tonight.</p>\n",
+				"content_text": "I just had a nighttime video call with a friend. Typically with evening hangs, especially virtual, I have a terrible time getting to sleep before midnight or 1 A.M. Let's see if I can break that streak tonight.\n",
 				"date_published": "2022-05-31T22:23:47-05:00",
 				"url": "https://micro.bjhess.com/2022/05/31/i-just-a.html"
 			},
