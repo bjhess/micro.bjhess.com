@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/07/02/wet-theme-park.html",
+				
+				"content_html": "<p>Wet theme park conditions on this very trying “vacation” as a chaperone.</p>\n\n<p><img src=\"uploads/2022/cc9dbe22ae.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Wet theme park conditions on this very trying “vacation” as a chaperone.\n\n<img src=\"uploads/2022/cc9dbe22ae.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-02T15:25:53-05:00",
+				"url": "https://micro.bjhess.com/2022/07/02/wet-theme-park.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/06/29/this-is-not.html",
+				
+				"content_html": "<p>This is not a vacation.</p>\n\n<p><img src=\"uploads/2022/f6d585cfd6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is not a vacation.\n\n<img src=\"uploads/2022/f6d585cfd6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-06-29T20:40:45-05:00",
+				"url": "https://micro.bjhess.com/2022/06/29/this-is-not.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/06/24/our-silliest-good.html",
+				
+				"content_html": "<p>Our silliest <a href=\"https://goodenoughnews.substack.com/p/issue-4-evah\">Good Enough newsletter</a> yet. It doesn’t feel like a day to be silly, but maybe that’s okay.</p>\n",
+				"content_text": "Our silliest [Good Enough newsletter](https://goodenoughnews.substack.com/p/issue-4-evah) yet. It doesn’t feel like a day to be silly, but maybe that’s okay.\n",
+				"date_published": "2022-06-24T15:57:26-05:00",
+				"url": "https://micro.bjhess.com/2022/06/24/our-silliest-good.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/06/24/i-think-observations.html",
+				
+				"content_html": "<p>I think <a href=\"https://herman.bearblog.dev/years-of-journaling/\">Observations on 6 years of journaling</a> might have helped me to crack the code of this thing I need to do for myself, which is daily journaling. I&rsquo;ve never believed I could do it at night. Now I believe that&rsquo;s when I <em>need</em> to do it. 🤞that tool research doesn&rsquo;t bog me down.</p>\n",
+				"content_text": "I think [Observations on 6 years of journaling](https://herman.bearblog.dev/years-of-journaling/) might have helped me to crack the code of this thing I need to do for myself, which is daily journaling. I've never believed I could do it at night. Now I believe that's when I _need_ to do it. 🤞that tool research doesn't bog me down.\n",
+				"date_published": "2022-06-24T12:17:48-05:00",
+				"url": "https://micro.bjhess.com/2022/06/24/i-think-observations.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/06/23/oliver-burkemans-latest.html",
+				
+				"content_html": "<p>Oliver Burkeman&rsquo;s <a href=\"https://ckarchive.com/b/75u7h8hkk9g9e\">latest newsletter</a> includes this bit. I&rsquo;m happy to read someone agreeing with my estimation of the actual amount of expertise out there in the world. This is my personal way to handle feeling like an imposter:</p>\n\n<blockquote>\n<p>Imposter syndrome? Worse than you think – because you think the issue is that you don&rsquo;t yet have the qualifications to hold your own among your colleagues, when in fact the truth is that <a href=\"https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it\">everyone is winging it, all the time</a>, and that if you&rsquo;re ever going to make your unique contribution to the world, you&rsquo;re going to have to do it in a state of unreadiness.</p>\n</blockquote>\n",
+				"content_text": "Oliver Burkeman's [latest newsletter](https://ckarchive.com/b/75u7h8hkk9g9e) includes this bit. I'm happy to read someone agreeing with my estimation of the actual amount of expertise out there in the world. This is my personal way to handle feeling like an imposter:\r\n\r\n> Imposter syndrome? Worse than you think – because you think the issue is that you don't yet have the qualifications to hold your own among your colleagues, when in fact the truth is that [everyone is winging it, all the time](https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it), and that if you're ever going to make your unique contribution to the world, you're going to have to do it in a state of unreadiness.\n",
+				"date_published": "2022-06-23T15:41:24-05:00",
+				"url": "https://micro.bjhess.com/2022/06/23/oliver-burkemans-latest.html",
+				"tags": ["Linking","Quoting"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/06/21/news-flash-aaron.html",
 				
 				"content_html": "<p>News flash: Aaron Copland is pretty good. 🎵</p>\n",
