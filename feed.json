@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/07/18/i-feel-like.html",
+				
+				"content_html": "<p>I feel like my Netflix downloads are always set to expire mid-trip. Seems like there should be a renewal way around this, but I don’t know what it is.</p>\n",
+				"content_text": "I feel like my Netflix downloads are always set to expire mid-trip. Seems like there should be a renewal way around this, but I don’t know what it is.\n",
+				"date_published": "2022-07-18T10:39:30-05:00",
+				"url": "https://micro.bjhess.com/2022/07/18/i-feel-like.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/07/14/sculpture-what-does.html",
+				
+				"content_html": "<p>Sculpture, what does it mean?</p>\n\n<p><img src=\"uploads/2022/9fb9b4f536.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Sculpture, what does it mean?\n\n<img src=\"uploads/2022/9fb9b4f536.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-07-14T12:37:46-05:00",
+				"url": "https://micro.bjhess.com/2022/07/14/sculpture-what-does.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/07/13/a-good-night.html",
+				
+				"content_html": "<p>A good night. 🎵</p>\n\n<p><img src=\"uploads/2022/a03da7a4c4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "A good night. 🎵\n\n<img src=\"uploads/2022/a03da7a4c4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-07-13T00:49:30-05:00",
+				"url": "https://micro.bjhess.com/2022/07/13/a-good-night.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/07/11/good-enough-is.html",
+				
+				"content_html": "<p>Good Enough is taking a summer break, but we squeezed out <a href=\"https://goodenoughnews.substack.com/p/issue-5-promotes-regularity-\">one last newsletter</a> for all of our superfans.</p>\n",
+				"content_text": "Good Enough is taking a summer break, but we squeezed out [one last newsletter](https://goodenoughnews.substack.com/p/issue-5-promotes-regularity-) for all of our superfans.\n",
+				"date_published": "2022-07-11T13:02:06-05:00",
+				"url": "https://micro.bjhess.com/2022/07/11/good-enough-is.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/07/09/paradox-of-choice.html",
+				
+				"content_html": "<p>Paradox of choice over here as I try to plan our southern Utah itinerary. Heading out for 9 days toward the end of the month and there are just so many options, and some require gearing up. Off the table is Angels Landing, to which my wife said, &ldquo;I&rsquo;m not taking my kids on that.&rdquo;</p>\n",
+				"content_text": "Paradox of choice over here as I try to plan our southern Utah itinerary. Heading out for 9 days toward the end of the month and there are just so many options, and some require gearing up. Off the table is Angels Landing, to which my wife said, \"I'm not taking my kids on that.\"\n",
+				"date_published": "2022-07-09T15:46:32-05:00",
+				"url": "https://micro.bjhess.com/2022/07/09/paradox-of-choice.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/07/07/183155.html",
 				
 				"content_html": "<div class=\"yt\">\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JvIL5VPK0UY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</div>\n",
@@ -25,24 +66,24 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/07/05/our-roof-was.html",
 				
-				"content_html": "<p>Our roof was replaced last week while we were gone on a marching band trip. The roofers did not do an adequate job cleaning up. Unfortunately one of these ended up in my youngest&rsquo;s foot. So she got to make a surprise Fourth of July emergency room visit for a tetanus shot.</p>\n\n<p><img src=\"uploads/2022/3045a6fce5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Our roof was replaced last week while we were gone on a marching band trip. The roofers did not do an adequate job cleaning up. Unfortunately one of these ended up in my youngest's foot. So she got to make a surprise Fourth of July emergency room visit for a tetanus shot.\n\n<img src=\"uploads/2022/3045a6fce5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Our roof was replaced last week while we were gone on a marching band trip. The roofers did not do an adequate job cleaning up. Unfortunately one of these ended up in my youngest&rsquo;s foot. So she got to make a surprise Fourth of July emergency room visit for a tetanus shot.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/3045a6fce5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Our roof was replaced last week while we were gone on a marching band trip. The roofers did not do an adequate job cleaning up. Unfortunately one of these ended up in my youngest's foot. So she got to make a surprise Fourth of July emergency room visit for a tetanus shot.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/3045a6fce5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-05T15:12:23-05:00",
 				"url": "https://micro.bjhess.com/2022/07/05/our-roof-was.html"
 			},
 			{
 				"id": "http://bjhess.micro.blog/2022/07/04/it-was-a.html",
 				
-				"content_html": "<p>It was a trip with challenges, but the kids had a blast and they got experiences like this. Success!</p>\n\n<p><img src=\"uploads/2022/16579593a9.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "It was a trip with challenges, but the kids had a blast and they got experiences like this. Success!\n\n<img src=\"uploads/2022/16579593a9.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_html": "<p>It was a trip with challenges, but the kids had a blast and they got experiences like this. Success!</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/16579593a9.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "It was a trip with challenges, but the kids had a blast and they got experiences like this. Success!\n\n<img src=\"https://micro.bjhess.com/uploads/2022/16579593a9.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-07-04T00:02:02-05:00",
 				"url": "https://micro.bjhess.com/2022/07/04/it-was-a.html"
 			},
 			{
 				"id": "http://bjhess.micro.blog/2022/07/03/155451.html",
 				
-				"content_html": "<p><img src=\"uploads/2022/7df9312ff9.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2022/7df9312ff9.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2022/7df9312ff9.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2022/7df9312ff9.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-07-03T15:54:51-05:00",
 				"url": "https://micro.bjhess.com/2022/07/03/155451.html"
 			},
