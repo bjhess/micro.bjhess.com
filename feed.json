@@ -7,6 +7,56 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/08/16/found-myself-in.html",
+				
+				"content_html": "<p>Found myself in a strange place tonight.</p>\n\n<p><img src=\"uploads/2022/f48d42fa16.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Found myself in a strange place tonight.\n\n<img src=\"uploads/2022/f48d42fa16.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-16T20:53:55-05:00",
+				"url": "https://micro.bjhess.com/2022/08/16/found-myself-in.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/08/15/the-decemberists.html",
+				
+				"content_html": "<p><a href=\"https://www.setlist.fm/setlist/the-decemberists/2022/surly-brewing-festival-field-minneapolis-mn-43b3cb4b.html\">The Decemberists</a>. 🎵</p>\n\n<p><img src=\"uploads/2022/14fcb34e2a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/6e4919ba13.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/376447b90b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "[The Decemberists](https://www.setlist.fm/setlist/the-decemberists/2022/surly-brewing-festival-field-minneapolis-mn-43b3cb4b.html). 🎵\n\n<img src=\"uploads/2022/14fcb34e2a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/6e4919ba13.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/376447b90b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-15T23:31:03-05:00",
+				"url": "https://micro.bjhess.com/2022/08/15/the-decemberists.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/08/15/i-like-to.html",
+				
+				"content_html": "<p>I like to look at set lists leading up to a concert, usually making a playlist to listen to beforehand. Going to The Decemberists tonight and the set lists out there…I’ve personally never been to a show before where the set list was 50% different from show to show. Excited! 🎵</p>\n",
+				"content_text": "I like to look at set lists leading up to a concert, usually making a playlist to listen to beforehand. Going to The Decemberists tonight and the set lists out there…I’ve personally never been to a show before where the set list was 50% different from show to show. Excited! 🎵\n",
+				"date_published": "2022-08-15T14:22:25-05:00",
+				"url": "https://micro.bjhess.com/2022/08/15/i-like-to.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/08/14/095515.html",
+				
+				"content_html": "<p><img src=\"uploads/2022/8e8dfd61c8.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/8e8dfd61c8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-14T09:55:15-05:00",
+				"url": "https://micro.bjhess.com/2022/08/14/095515.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/08/14/095457.html",
+				
+				"content_html": "<p><img src=\"uploads/2022/1242c09fa6.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/1242c09fa6.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-14T09:54:57-05:00",
+				"url": "https://micro.bjhess.com/2022/08/14/095457.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/08/12/151916.html",
+				
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2022/a94cc234da.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2022/a94cc234da.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-12T15:19:16-05:00",
+				"url": "https://micro.bjhess.com/2022/08/12/151916.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/08/09/usa-folks-the.html",
 				
 				"content_html": "<p>USA folks, the new <a href=\"https://finance.yahoo.com/news/inflation-reduction-act-offers-home-164409614.html\">IRA Bill</a> seems to have some benefits to the homeowner. Particularly in the world of heat pump HVAC systems. My current HVAC system is 20 years old, so the clock is ticking. Wondering if anyone out there has done research into this?</p>\n",
@@ -64,7 +114,8 @@
 				"content_html": "<p>A concert.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/133802065a.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "A concert.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/133802065a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-30T21:59:59-05:00",
-				"url": "https://micro.bjhess.com/2022/07/30/a-concert.html"
+				"url": "https://micro.bjhess.com/2022/07/30/a-concert.html",
+				"tags": ["Listening"]
 			},
 			{
 				"id": "http://bjhess.micro.blog/2022/07/29/netflix-download-management.html",
@@ -80,7 +131,8 @@
 				"content_html": "<p>The final hiking day of our trip was Bryce Canyon. Gorgeous. Went down Wall Street and over to Queens Garden. The vertical out in elevation is no joke! We took in a few roadsides then finished with a short hike near Rainbow Point. We could see for 100 miles to the south! ❤️</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/c75663822a.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/88523033d1.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/cefe15a371.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/99993c63a9.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/b662a20d24.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/853b3a7d08.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/f997b3ed96.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/860fa6b40f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/1c75103e35.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
 				"content_text": "The final hiking day of our trip was Bryce Canyon. Gorgeous. Went down Wall Street and over to Queens Garden. The vertical out in elevation is no joke! We took in a few roadsides then finished with a short hike near Rainbow Point. We could see for 100 miles to the south! ❤️\n\n<img src=\"https://micro.bjhess.com/uploads/2022/c75663822a.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/88523033d1.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/cefe15a371.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/99993c63a9.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/b662a20d24.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/853b3a7d08.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/f997b3ed96.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/860fa6b40f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/1c75103e35.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-07-27T22:18:59-05:00",
-				"url": "https://micro.bjhess.com/2022/07/27/the-final-hiking.html"
+				"url": "https://micro.bjhess.com/2022/07/27/the-final-hiking.html",
+				"tags": ["Traveling"]
 			},
 			{
 				"id": "http://bjhess.micro.blog/2022/07/26/grand-canyon-north.html",
@@ -88,7 +140,8 @@
 				"content_html": "<p>Grand Canyon north rim today. I had no idea how beautifully forested this area was. Breathtaking at every turn. And the Cliff Springs hike that wasn’t too canyony - also great!</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/0b2c5b019e.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/a11d03ef03.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/5947ee3b11.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/77280b0085.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/9202898358.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/a77524e21b.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/d73d82e907.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/8f15cddb43.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Grand Canyon north rim today. I had no idea how beautifully forested this area was. Breathtaking at every turn. And the Cliff Springs hike that wasn’t too canyony - also great!\n\n<img src=\"https://micro.bjhess.com/uploads/2022/0b2c5b019e.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/a11d03ef03.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/5947ee3b11.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/77280b0085.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/9202898358.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/a77524e21b.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/d73d82e907.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/8f15cddb43.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-26T17:36:59-05:00",
-				"url": "https://micro.bjhess.com/2022/07/26/grand-canyon-north.html"
+				"url": "https://micro.bjhess.com/2022/07/26/grand-canyon-north.html",
+				"tags": ["Traveling"]
 			},
 			{
 				"id": "http://bjhess.micro.blog/2022/07/25/today-was-a.html",
@@ -96,7 +149,8 @@
 				"content_html": "<p>Today was a shorter day. Not as hot temperature-wise, but seems like they brought in some humidity? Toadstool Hoodoo, ✅ Horshoe Canyon off the bucket list, and a swung by Glen Canyon Dam (just 15 feet shorter than Hoover).</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/fb912e1d60.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/0d436a79b7.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/8b6e2cc609.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/ef57f6b126.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/06ee925a7f.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Today was a shorter day. Not as hot temperature-wise, but seems like they brought in some humidity? Toadstool Hoodoo, ✅ Horshoe Canyon off the bucket list, and a swung by Glen Canyon Dam (just 15 feet shorter than Hoover).\n\n<img src=\"https://micro.bjhess.com/uploads/2022/fb912e1d60.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/0d436a79b7.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/8b6e2cc609.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/ef57f6b126.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/06ee925a7f.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-25T15:39:46-05:00",
-				"url": "https://micro.bjhess.com/2022/07/25/today-was-a.html"
+				"url": "https://micro.bjhess.com/2022/07/25/today-was-a.html",
+				"tags": ["Traveling"]
 			},
 			{
 				"id": "http://bjhess.micro.blog/2022/07/23/subway-in-zion.html",
@@ -104,7 +158,8 @@
 				"content_html": "<p>Subway in Zion was an absolute butt-kicker. On the hike for over 10 hours, but totally worth it even with the 430-foot straight-up climb out in sunny 100 degrees. Kids did GREAT! (And these aren’t even pictures <em>in</em> the Subway 😀)</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/60590c9bf5.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/6b7ee8400a.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/43985c521a.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/c9a4e7f1aa.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/66583d2c53.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
 				"content_text": "Subway in Zion was an absolute butt-kicker. On the hike for over 10 hours, but totally worth it even with the 430-foot straight-up climb out in sunny 100 degrees. Kids did GREAT! (And these aren’t even pictures _in_ the Subway 😀)\n\n<img src=\"https://micro.bjhess.com/uploads/2022/60590c9bf5.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/6b7ee8400a.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/43985c521a.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/c9a4e7f1aa.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/66583d2c53.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-07-23T21:26:43-05:00",
-				"url": "https://micro.bjhess.com/2022/07/23/subway-in-zion.html"
+				"url": "https://micro.bjhess.com/2022/07/23/subway-in-zion.html",
+				"tags": ["Traveling"]
 			},
 			{
 				"id": "http://bjhess.micro.blog/2022/07/22/zion-with-a.html",
@@ -112,7 +167,8 @@
 				"content_html": "<p>Zion with a little bit of The Narrows.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/cd56b9699b.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/49bc7b89df.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/57e6831f0d.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/1268d13ed1.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/29b70628cd.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Zion with a little bit of The Narrows.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/cd56b9699b.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/49bc7b89df.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/57e6831f0d.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/1268d13ed1.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/29b70628cd.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-22T18:02:39-05:00",
-				"url": "https://micro.bjhess.com/2022/07/22/zion-with-a.html"
+				"url": "https://micro.bjhess.com/2022/07/22/zion-with-a.html",
+				"tags": ["Traveling"]
 			},
 			{
 				"id": "http://bjhess.micro.blog/2022/07/21/sand-dunes-and.html",
@@ -120,7 +176,8 @@
 				"content_html": "<p>Sand dunes and sand caves.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/5dbcf0bb6b.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/027f1697d8.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/7222b7f236.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/5c82376767.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Sand dunes and sand caves.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/5dbcf0bb6b.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/027f1697d8.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/7222b7f236.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/5c82376767.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-21T20:00:31-05:00",
-				"url": "https://micro.bjhess.com/2022/07/21/sand-dunes-and.html"
+				"url": "https://micro.bjhess.com/2022/07/21/sand-dunes-and.html",
+				"tags": ["Traveling"]
 			},
 			{
 				"id": "http://bjhess.micro.blog/2022/07/20/a-brief-history.html",
@@ -137,7 +194,8 @@
 				"content_html": "<p>Heading to southern Utah tomorrow for lots of hiking and views. I might decide to post lots of photos here. We’ll see what I decide, but sorry in advance. 😄</p>\n",
 				"content_text": "Heading to southern Utah tomorrow for lots of hiking and views. I might decide to post lots of photos here. We’ll see what I decide, but sorry in advance. 😄\n",
 				"date_published": "2022-07-19T13:05:34-05:00",
-				"url": "https://micro.bjhess.com/2022/07/19/heading-to-southern.html"
+				"url": "https://micro.bjhess.com/2022/07/19/heading-to-southern.html",
+				"tags": ["Traveling"]
 			},
 			{
 				"id": "http://bjhess.micro.blog/2022/07/18/i-feel-like.html",
