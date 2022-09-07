@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/09/07/shop-towels.html",
+				
+				"content_html": "<p>Shop towels.</p>\n\n<p><img src=\"uploads/2022/a9f9e9d455.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Shop towels.\n\n<img src=\"uploads/2022/a9f9e9d455.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-07T09:23:17-05:00",
+				"url": "https://micro.bjhess.com/2022/09/07/shop-towels.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/09/06/saw-some-art.html",
+				
+				"content_html": "<p>Saw some art today.</p>\n\n<p><img src=\"uploads/2022/fef97811f4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Saw some art today.\n\n<img src=\"uploads/2022/fef97811f4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-09-06T22:39:44-05:00",
+				"url": "https://micro.bjhess.com/2022/09/06/saw-some-art.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/08/30/did-you-know.html",
 				
 				"content_html": "<p>Did you know there is an MST3K text adventure game released in 1996? Though I don&rsquo;t think it was &ldquo;official,&rdquo; it was based on a badly-done text adventure game written by a 12 year old. MST3K: Detective can be played <a href=\"https://archive.org/details/agt_mst1agt\">at archive.org</a>. More deets <a href=\"https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MysteryScienceTheater3000PresentsDetective\">here</a>.</p>\n",
