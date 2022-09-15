@@ -7,18 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/09/15/if-im-listening.html",
+				
+				"content_html": "<p>If I&rsquo;m listening to an album that I&rsquo;m discovering for the first time, is it interesting to share that album here? Let&rsquo;s find out. Some high quality, laid-back nordic jazz incoming… <a href=\"https://songwhip.com/angelo-verploegen/thesweetestsound\"><em>The Sweetest Sound</em></a> by\nAngelo Verploegen, Ed Verhoeff, and Eric Van der Western. 🎵</p>\n",
+				"content_text": "If I'm listening to an album that I'm discovering for the first time, is it interesting to share that album here? Let's find out. Some high quality, laid-back nordic jazz incoming… [_The Sweetest Sound_](https://songwhip.com/angelo-verploegen/thesweetestsound) by\r\nAngelo Verploegen, Ed Verhoeff, and Eric Van der Western. 🎵\n",
+				"date_published": "2022-09-15T14:38:47-05:00",
+				"url": "https://micro.bjhess.com/2022/09/15/if-im-listening.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/09/13/two-of-my.html",
+				
+				"content_html": "<p>Two of my daughters wanted to get into vinyl. I love it! However, I have successfully steered them toward CDs as a start because they are more affordable, convenient, and portable (for that college life). Of course this means I am now getting back into CDs. 🤣</p>\n",
+				"content_text": "Two of my daughters wanted to get into vinyl. I love it! However, I have successfully steered them toward CDs as a start because they are more affordable, convenient, and portable (for that college life). Of course this means I am now getting back into CDs. 🤣\n",
+				"date_published": "2022-09-13T08:24:57-05:00",
+				"url": "https://micro.bjhess.com/2022/09/13/two-of-my.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/09/11/004125.html",
+				
+				"content_html": "<p><img src=\"uploads/2022/6dabee8a11.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/6dabee8a11.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-09-11T00:41:25-05:00",
+				"url": "https://micro.bjhess.com/2022/09/11/004125.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/09/10/heading-to-a.html",
+				
+				"content_html": "<p>Heading to a Shins concert tonight. Excited! 🎵</p>\n",
+				"content_text": "Heading to a Shins concert tonight. Excited! 🎵\n",
+				"date_published": "2022-09-10T15:23:48-05:00",
+				"url": "https://micro.bjhess.com/2022/09/10/heading-to-a.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/09/10/i-am-working.html",
+				
+				"content_html": "<p>I am working on upgrading my home stereo. Oh the rabbit holes I am going down. 🎵</p>\n",
+				"content_text": "I am working on upgrading my home stereo. Oh the rabbit holes I am going down. 🎵\n",
+				"date_published": "2022-09-10T00:17:52-05:00",
+				"url": "https://micro.bjhess.com/2022/09/10/i-am-working.html",
+				"tags": ["Listening"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/09/07/shop-towels.html",
 				
-				"content_html": "<p>Shop towels.</p>\n\n<p><img src=\"uploads/2022/a9f9e9d455.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Shop towels.\n\n<img src=\"uploads/2022/a9f9e9d455.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Shop towels.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/a9f9e9d455.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Shop towels.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/a9f9e9d455.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-07T09:23:17-05:00",
 				"url": "https://micro.bjhess.com/2022/09/07/shop-towels.html"
 			},
 			{
 				"id": "http://bjhess.micro.blog/2022/09/06/saw-some-art.html",
 				
-				"content_html": "<p>Saw some art today.</p>\n\n<p><img src=\"uploads/2022/fef97811f4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Saw some art today.\n\n<img src=\"uploads/2022/fef97811f4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Saw some art today.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/fef97811f4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Saw some art today.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/fef97811f4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-09-06T22:39:44-05:00",
 				"url": "https://micro.bjhess.com/2022/09/06/saw-some-art.html"
 			},
