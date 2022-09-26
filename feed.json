@@ -7,18 +7,43 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/09/26/this-week-has.html",
+				
+				"content_html": "<p>This week has me thinking hard about habits. Habit is the most powerful thing in the world in how it impacts one&rsquo;s day-to-day life. My mind has finally broken through to thinking about the history leading to <em>my</em> poor habits impacting my children. More to come in <a href=\"https://buttondown.email/bjhess\">my newsletter</a>.</p>\n",
+				"content_text": "This week has me thinking hard about habits. Habit is the most powerful thing in the world in how it impacts one's day-to-day life. My mind has finally broken through to thinking about the history leading to _my_ poor habits impacting my children. More to come in [my newsletter](https://buttondown.email/bjhess).\n",
+				"date_published": "2022-09-26T12:38:57-05:00",
+				"url": "https://micro.bjhess.com/2022/09/26/this-week-has.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/09/23/i-have-not.html",
+				
+				"content_html": "<p>I have not really sat and listened to many Bruce Springsteen albums. Winding down this Friday afternoon, I&rsquo;ve grabbed <a href=\"https://www.allmusic.com/album/tunnel-of-love-mw0000193300\"><em>Tunnel of Love</em></a> from a stack of recently-ordered used CDs. Good little album!</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/b5934e1ffa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I have not really sat and listened to many Bruce Springsteen albums. Winding down this Friday afternoon, I've grabbed [_Tunnel of Love_](https://www.allmusic.com/album/tunnel-of-love-mw0000193300) from a stack of recently-ordered used CDs. Good little album!\n\n<img src=\"https://micro.bjhess.com/uploads/2022/b5934e1ffa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-23T14:29:01-05:00",
+				"url": "https://micro.bjhess.com/2022/09/23/i-have-not.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/09/21/131009.html",
+				
+				"content_html": "<p>Oleta Adams first received international acclaim for <a href=\"https://thesmithcenter.com/explore/smith-center-blog/how-tears-for-fears-helped-launch-oleta-adams-global-career/\">her work with Tears for Fears</a>, lending needed emotion to their albums. <em>Circle of One</em> is her wonderful first solo album. Production in part by Roland Orzabal from Tears for Fears. (And <a href=\"https://www.youtube.com/watch?v=Q5O2NP8Tg10\">a bonus</a> for you.)</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/14818dcfab.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Oleta Adams first received international acclaim for [her work with Tears for Fears](https://thesmithcenter.com/explore/smith-center-blog/how-tears-for-fears-helped-launch-oleta-adams-global-career/), lending needed emotion to their albums. _Circle of One_ is her wonderful first solo album. Production in part by Roland Orzabal from Tears for Fears. (And [a bonus](https://www.youtube.com/watch?v=Q5O2NP8Tg10) for you.)\n\n<img src=\"https://micro.bjhess.com/uploads/2022/14818dcfab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-21T13:37:51-05:00",
+				"url": "https://micro.bjhess.com/2022/09/21/131009.html",
+				"tags": ["Listening"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/09/20/i-wonder-why.html",
 				
-				"content_html": "<p>I wonder why macOS replaced the nice photo quick preview with this tiny version?</p>\n\n<p><img src=\"uploads/2022/71781211ad.png\" width=\"600\" height=\"338\" alt=\"\" /></p>\n",
-				"content_text": "I wonder why macOS replaced the nice photo quick preview with this tiny version?\n\n<img src=\"uploads/2022/71781211ad.png\" width=\"600\" height=\"338\" alt=\"\" />\n",
+				"content_html": "<p>I wonder why macOS replaced the nice photo quick preview with this tiny version?</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/71781211ad.png\" width=\"600\" height=\"338\" alt=\"\" /></p>\n",
+				"content_text": "I wonder why macOS replaced the nice photo quick preview with this tiny version?\n\n<img src=\"https://micro.bjhess.com/uploads/2022/71781211ad.png\" width=\"600\" height=\"338\" alt=\"\" />\n",
 				"date_published": "2022-09-20T10:12:42-05:00",
 				"url": "https://micro.bjhess.com/2022/09/20/i-wonder-why.html"
 			},
 			{
 				"id": "http://bjhess.micro.blog/2022/09/19/socks-rocked-off.html",
 				
-				"content_html": "<p>Socks rocked off.</p>\n\n<p><img src=\"uploads/2022/db608fe06b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Socks rocked off.\n\n<img src=\"uploads/2022/db608fe06b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Socks rocked off.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/db608fe06b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Socks rocked off.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/db608fe06b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-09-19T23:35:38-05:00",
 				"url": "https://micro.bjhess.com/2022/09/19/socks-rocked-off.html",
 				"tags": ["Listening"]
@@ -225,8 +250,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/08/15/the-decemberists.html",
 				
-				"content_html": "<p><a href=\"https://www.setlist.fm/setlist/the-decemberists/2022/surly-brewing-festival-field-minneapolis-mn-43b3cb4b.html\">The Decemberists</a>. 🎵</p>\n\n<p><img src=\"uploads/2022/14fcb34e2a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/6e4919ba13.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/376447b90b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "[The Decemberists](https://www.setlist.fm/setlist/the-decemberists/2022/surly-brewing-festival-field-minneapolis-mn-43b3cb4b.html). 🎵\n\n<img src=\"uploads/2022/14fcb34e2a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/6e4919ba13.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/376447b90b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://www.setlist.fm/setlist/the-decemberists/2022/surly-brewing-festival-field-minneapolis-mn-43b3cb4b.html\">The Decemberists</a>. 🎵</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/14fcb34e2a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/6e4919ba13.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/376447b90b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "[The Decemberists](https://www.setlist.fm/setlist/the-decemberists/2022/surly-brewing-festival-field-minneapolis-mn-43b3cb4b.html). 🎵\n\n<img src=\"https://micro.bjhess.com/uploads/2022/14fcb34e2a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/6e4919ba13.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.bjhess.com/uploads/2022/376447b90b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-15T23:31:03-05:00",
 				"url": "https://micro.bjhess.com/2022/08/15/the-decemberists.html",
 				"tags": ["Listening"]
