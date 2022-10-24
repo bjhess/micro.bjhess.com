@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/10/24/gonna-try-to.html",
+				
+				"content_html": "<p>Gonna try to turn on the letterboxd-micro.blog connection now. Sorry in advance for any mistakes I make!</p>\n",
+				"content_text": "Gonna try to turn on the letterboxd-micro.blog connection now. Sorry in advance for any mistakes I make!\n",
+				"date_published": "2022-10-24T14:37:07-05:00",
+				"url": "https://micro.bjhess.com/2022/10/24/gonna-try-to.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/10/22/last-night-rachel.html",
+				
+				"content_html": "<p>Last night. Rachel Eckroth with my honey. 🎵</p>\n\n<p><img src=\"uploads/2022/9251cc5479.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Last night. Rachel Eckroth with my honey. 🎵\n\n<img src=\"uploads/2022/9251cc5479.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-10-22T14:02:01-05:00",
+				"url": "https://micro.bjhess.com/2022/10/22/last-night-rachel.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/10/20/its-been-well.html",
+				
+				"content_html": "<p>It’s been well over 18 months and I don’t think I’ll ever figure out this vehicle’s battery problems.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/d9db6a879c.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "It’s been well over 18 months and I don’t think I’ll ever figure out this vehicle’s battery problems.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/d9db6a879c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-10-20T12:54:55-05:00",
+				"url": "https://micro.bjhess.com/2022/10/20/its-been-well.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/10/20/based-on-tonights.html",
+				
+				"content_html": "<p>Based on tonight&rsquo;s online liquor order, this will be my first ever winter of cocktails. (Like <em>real</em> cocktails.)</p>\n",
+				"content_text": "Based on tonight's online liquor order, this will be my first ever winter of cocktails. (Like _real_ cocktails.)\n",
+				"date_published": "2022-10-20T00:43:53-05:00",
+				"url": "https://micro.bjhess.com/2022/10/20/based-on-tonights.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/10/18/flea-jazz-trumpet.html",
+				
+				"content_html": "<p>Did you know Flea has <a href=\"https://en.wikipedia.org/wiki/Flea_(musician)#Return_to_school,_Atoms_for_Peace,_and_Rocket_Juice_&amp;_the_Moon_(2008%E2%80%932011)\">studied jazz trumpet performance</a>?</p>\n\n<div class=\"yt\">\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Civ9sWm3NdI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</div>\n",
+				"content_text": "Did you know Flea has [studied jazz trumpet performance](https://en.wikipedia.org/wiki/Flea_(musician)#Return_to_school,_Atoms_for_Peace,_and_Rocket_Juice_&_the_Moon_(2008%E2%80%932011))?\n\n<div class=\"yt\">\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Civ9sWm3NdI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</div>\n",
+				"date_published": "2022-10-19T15:51:51-05:00",
+				"url": "https://micro.bjhess.com/2022/10/18/flea-jazz-trumpet.html",
+				"tags": ["Listening"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/10/17/i-feel-bad.html",
 				
 				"content_html": "<p>I feel bad, but I had no idea that They Might Be Giants&rsquo; &ldquo;Istanbul (Not Constantinople)&rdquo; … is a cover song.</p>\n\n<div class=\"yt\">\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/lG7xMTMdaLA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</div>\n",
@@ -18,8 +60,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/10/16/it-was-detroit.html",
 				
-				"content_html": "<p>It was Detroit style night. I like it too much.</p>\n\n<p><img src=\"uploads/2022/5beb220336.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/9a4654c6f7.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "It was Detroit style night. I like it too much.\n\n<img src=\"uploads/2022/5beb220336.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/9a4654c6f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>It was Detroit style night. I like it too much.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/5beb220336.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://micro.bjhess.com/uploads/2022/9a4654c6f7.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "It was Detroit style night. I like it too much.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/5beb220336.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://micro.bjhess.com/uploads/2022/9a4654c6f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-16T21:15:13-05:00",
 				"url": "https://micro.bjhess.com/2022/10/16/it-was-detroit.html",
 				"tags": ["Kitchening"]
@@ -27,8 +69,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/10/15/tmbg.html",
 				
-				"content_html": "<p>TMBG</p>\n\n<p><img src=\"uploads/2022/94d1ed179c.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "TMBG\n\n<img src=\"uploads/2022/94d1ed179c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>TMBG</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/94d1ed179c.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "TMBG\n\n<img src=\"https://micro.bjhess.com/uploads/2022/94d1ed179c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-15T21:09:47-05:00",
 				"url": "https://micro.bjhess.com/2022/10/15/tmbg.html",
 				"tags": ["Listening"]
@@ -44,8 +86,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/10/13/my-view-most.html",
 				
-				"content_html": "<p>My view most days and why I invest in home audio. With winter coming I only grow more thankful. The time is 3:30 PM here in Minnesota.</p>\n\n<p><img src=\"uploads/2022/99b7dc071c.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "My view most days and why I invest in home audio. With winter coming I only grow more thankful. The time is 3:30 PM here in Minnesota.\n\n<img src=\"uploads/2022/99b7dc071c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>My view most days and why I invest in home audio. With winter coming I only grow more thankful. The time is 3:30 PM here in Minnesota.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/99b7dc071c.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "My view most days and why I invest in home audio. With winter coming I only grow more thankful. The time is 3:30 PM here in Minnesota.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/99b7dc071c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-13T15:31:45-05:00",
 				"url": "https://micro.bjhess.com/2022/10/13/my-view-most.html"
 			},
