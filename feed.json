@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/11/03/i-need-to.html",
+				
+				"content_html": "<p>I need to fire up an email sending service for an app I&rsquo;m building. Mailgun is probably more dev friendly. SendGrid has email marketing if I need it down the road. They both track the heck out of you.</p>\n\n<p>Is there a reliable option out there with no tracking?</p>\n",
+				"content_text": "I need to fire up an email sending service for an app I'm building. Mailgun is probably more dev friendly. SendGrid has email marketing if I need it down the road. They both track the heck out of you.\r\n\r\nIs there a reliable option out there with no tracking?\n",
+				"date_published": "2022-11-03T13:13:16-05:00",
+				"url": "https://micro.bjhess.com/2022/11/03/i-need-to.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/11/03/amazon-prime-says.html",
+				
+				"content_html": "<p>Amazon Prime says:</p>\n\n<blockquote>\n<p>More ad-free music, increasing from 2 million to over 100 million songs in shuffle mode</p>\n</blockquote>\n\n<p>I wondered what that meant in practice, so I logged in via my browser. I searched for Pink Floyd&rsquo;s <em>The Wall</em>. I can listen to the album, but only on shuffle. So strange.</p>\n",
+				"content_text": "Amazon Prime says:\r\n\r\n> More ad-free music, increasing from 2 million to over 100 million songs in shuffle mode\r\n\r\nI wondered what that meant in practice, so I logged in via my browser. I searched for Pink Floyd's _The Wall_. I can listen to the album, but only on shuffle. So strange.\n",
+				"date_published": "2022-11-03T10:22:52-05:00",
+				"url": "https://micro.bjhess.com/2022/11/03/amazon-prime-says.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/10/29/i-turned-on.html",
+				
+				"content_html": "<p>I turned on importing my Letterboxd posts into micro.blog, but I think its just a bit too loud. I would <em>really like</em> a feed where these consumed items were small little posts interleaved with regular posts. So much so that I consider writing my own blog engine from time to time.</p>\n",
+				"content_text": "I turned on importing my Letterboxd posts into micro.blog, but I think its just a bit too loud. I would _really like_ a feed where these consumed items were small little posts interleaved with regular posts. So much so that I consider writing my own blog engine from time to time.\n",
+				"date_published": "2022-10-29T21:59:08-05:00",
+				"url": "https://micro.bjhess.com/2022/10/29/i-turned-on.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/10/29/gold-rush.html",
+				
+				"content_html": "<p>Gold Rush.</p>\n\n<p><img src=\"uploads/2022/a868da5027.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Gold Rush.\n\n<img src=\"uploads/2022/a868da5027.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-29T18:04:46-05:00",
+				"url": "https://micro.bjhess.com/2022/10/29/gold-rush.html",
+				"tags": ["Kitchening"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/10/29/kentucky-maid.html",
 				
 				"content_html": "<p>Kentucky Maid.</p>\n\n<p><img src=\"uploads/2022/fa371b1b46.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
