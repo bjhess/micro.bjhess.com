@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/11/20/launching-album-whale.html",
+				
+				"content_html": "<p>Launching <a href=\"https://albumwhale.com/bjhess\">Album Whale</a> this week. As it will launch with very few features, I think I’ll use a new Micro.blog account to serve as an update feed. It will probably be a <a href=\"https://good-enough.us\">Good Enough</a> account with Album Whale as a category. Keeps us open for future blogging and a <a href=\"https://doevery.day\">doevery.day</a> feed.</p>\n",
+				"content_text": "Launching [Album Whale](https://albumwhale.com/bjhess) this week. As it will launch with very few features, I think I’ll use a new Micro.blog account to serve as an update feed. It will probably be a [Good Enough](https://good-enough.us) account with Album Whale as a category. Keeps us open for future blogging and a [doevery.day](https://doevery.day) feed.\n",
+				"date_published": "2022-11-20T17:43:13-06:00",
+				"url": "https://micro.bjhess.com/2022/11/20/launching-album-whale.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/11/19/doing-some-video.html",
+				
+				"content_html": "<p>Doing some video processing (I take them off of iCloud and put them on my NAS for easy family Plex viewing) and I&rsquo;m reminded that <a href=\"https://www.qdev.de/?location=mac/exifrenamer\">this little ExifRenamer software</a> is worth its weight in giving the author a PayPal donation every year.</p>\n",
+				"content_text": "Doing some video processing (I take them off of iCloud and put them on my NAS for easy family Plex viewing) and I'm reminded that [this little ExifRenamer software](https://www.qdev.de/?location=mac/exifrenamer) is worth its weight in giving the author a PayPal donation every year.\n",
+				"date_published": "2022-11-19T13:31:01-06:00",
+				"url": "https://micro.bjhess.com/2022/11/19/doing-some-video.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/11/13/dmb-been-awhile.html",
 				
 				"content_html": "<p>DMB, been awhile.</p>\n\n<p><img src=\"uploads/2022/e4c47f43d5.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
@@ -35,8 +51,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/11/10/last-mild-day.html",
 				
-				"content_html": "<p>Last mild day for the fall, so I went for a walk.</p>\n\n<p><img src=\"uploads/2022/044c05311d.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Last mild day for the fall, so I went for a walk.\n\n<img src=\"uploads/2022/044c05311d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Last mild day for the fall, so I went for a walk.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/044c05311d.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Last mild day for the fall, so I went for a walk.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/044c05311d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-10T19:57:01-06:00",
 				"url": "https://micro.bjhess.com/2022/11/10/last-mild-day.html"
 			},
