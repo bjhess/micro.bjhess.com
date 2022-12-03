@@ -7,6 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/12/03/not-that-i.html",
+				
+				"content_html": "<p>Not that I know soccer, but…</p>\n\n<p>It looked hopeful at times, but US just doesn’t have the passing control of the top teams. And they were missing defensive coverage a lot. They seem to have the athleticism, though.</p>\n",
+				"content_text": "Not that I know soccer, but…\n\nIt looked hopeful at times, but US just doesn’t have the passing control of the top teams. And they were missing defensive coverage a lot. They seem to have the athleticism, though.\n",
+				"date_published": "2022-12-03T11:17:41-06:00",
+				"url": "https://micro.bjhess.com/2022/12/03/not-that-i.html",
+				"tags": ["Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/12/01/so-i-have.html",
+				
+				"content_html": "<p>So I have this idea. What if there were a service that combined your consumed things into one feed. It&rsquo;d ingest RSS from, say, Letterboxd, <a href=\"https://albumwhale.com/staff/picks\">Album Whale</a>, and Goodreads. It would display this unified feed simply, and maybe allow some tagging. Perhaps it should be built…</p>\n",
+				"content_text": "So I have this idea. What if there were a service that combined your consumed things into one feed. It'd ingest RSS from, say, Letterboxd, [Album Whale](https://albumwhale.com/staff/picks), and Goodreads. It would display this unified feed simply, and maybe allow some tagging. Perhaps it should be built…\n",
+				"date_published": "2022-12-01T11:01:39-06:00",
+				"url": "https://micro.bjhess.com/2022/12/01/so-i-have.html",
+				"tags": ["Watching","Reading","Listening","Playing"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/11/30/lots-of-lists.html",
+				
+				"content_html": "<p>Lots of lists have come through the past couple of days on Album Whale. Big thanks to the Micro.blog community for giving it a try! If you haven&rsquo;t yet, I welcome you to <a href=\"https://albumwhale.com/signup\">sign up</a>. Thanks!</p>\n",
+				"content_text": "Lots of lists have come through the past couple of days on Album Whale. Big thanks to the Micro.blog community for giving it a try! If you haven't yet, I welcome you to [sign up](https://albumwhale.com/signup). Thanks!\n",
+				"date_published": "2022-11-30T13:42:13-06:00",
+				"url": "https://micro.bjhess.com/2022/11/30/lots-of-lists.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/11/28/album-whale-is.html",
+				
+				"content_html": "<p>Album Whale is <a href=\"https://albumwhale.com/signup/album-whale-is-2022\">open for signup</a>! We&rsquo;re just getting started and discovery features are on the way. It would be a tremendous help if anyone interested in what Album Whale can become could build a quick Top 10 list (Ex: Fav College Listens, Top Albums to Focus, Best of 2022, etc).</p>\n",
+				"content_text": "Album Whale is [open for signup](https://albumwhale.com/signup/album-whale-is-2022)! We're just getting started and discovery features are on the way. It would be a tremendous help if anyone interested in what Album Whale can become could build a quick Top 10 list (Ex: Fav College Listens, Top Albums to Focus, Best of 2022, etc).\n",
+				"date_published": "2022-11-28T10:59:49-06:00",
+				"url": "https://micro.bjhess.com/2022/11/28/album-whale-is.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/11/27/also-read-job.html",
+				
+				"content_html": "<p>Also read <a href=\"https://micro.blog/books/9780345316509\">Job: A Comedy of Justice</a> by Robert A. Heinlein 📚</p>\n",
+				"content_text": "Also read [Job: A Comedy of Justice](https://micro.blog/books/9780345316509) by Robert A. Heinlein 📚\n",
+				"date_published": "2022-11-27T18:13:10-06:00",
+				"url": "https://micro.bjhess.com/2022/11/27/also-read-job.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/11/27/read-mr-penumbras.html",
+				
+				"content_html": "<p>Read <a href=\"https://micro.blog/books/9780374214913\">Mr. Penumbra&rsquo;s 24-Hour Bookstore</a> by Robin Sloan 📚</p>\n\n<blockquote>\n<p>The right book, exactly. At exactly the right time.</p>\n</blockquote>\n\n<p>I really quite enjoyed this book, but the Google / Silicon Valley love has not aged well, unfortunately. It was easy for me to dip into the book&rsquo;s world, though.</p>\n",
+				"content_text": "Read [Mr. Penumbra's 24-Hour Bookstore](https://micro.blog/books/9780374214913) by Robin Sloan 📚\r\n\r\n> The right book, exactly. At exactly the right time.\r\n\r\nI really quite enjoyed this book, but the Google / Silicon Valley love has not aged well, unfortunately. It was easy for me to dip into the book's world, though.\n",
+				"date_published": "2022-11-27T18:09:53-06:00",
+				"url": "https://micro.bjhess.com/2022/11/27/read-mr-penumbras.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/11/20/launching-album-whale.html",
 				
 				"content_html": "<p>Launching <a href=\"https://albumwhale.com/bjhess\">Album Whale</a> this week. As it will launch with very few features, I think I’ll use a new Micro.blog account to serve as an update feed. It will probably be a <a href=\"https://good-enough.us\">Good Enough</a> account with Album Whale as a category. Keeps us open for future blogging and a <a href=\"https://doevery.day\">doevery.day</a> feed.</p>\n",
