@@ -7,6 +7,57 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/12/08/using-rendercom-we.html",
+				
+				"content_html": "<p>Using render.com, we don&rsquo;t get much in the way of log retention or searchability. Any service recommendations? At this point I&rsquo;m going with Papertrail. Logtail seems expensive. Datadog and Mezmo both seem built for something much bigger than what I need.</p>\n",
+				"content_text": "Using render.com, we don't get much in the way of log retention or searchability. Any service recommendations? At this point I'm going with Papertrail. Logtail seems expensive. Datadog and Mezmo both seem built for something much bigger than what I need.\n",
+				"date_published": "2022-12-08T10:58:51-06:00",
+				"url": "https://micro.bjhess.com/2022/12/08/using-rendercom-we.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/12/07/had-an-intresting.html",
+				
+				"content_html": "<p>Had an intresting conversation with a friend today, which included his statement that the WALL-E dystopia is already here. &ldquo;Give the average human a smart phone and Internet and you’ve changed the course of their life forever.&rdquo;</p>\n",
+				"content_text": "Had an intresting conversation with a friend today, which included his statement that the WALL-E dystopia is already here. \"Give the average human a smart phone and Internet and you’ve changed the course of their life forever.\"\n",
+				"date_published": "2022-12-07T12:57:31-06:00",
+				"url": "https://micro.bjhess.com/2022/12/07/had-an-intresting.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/12/06/just-pushed-my.html",
+				
+				"content_html": "<p>Just pushed my <a href=\"https://albumwhale.com/bjhess/all-time-favorites\">All Time Favorites</a> list out to Album Whale. This is a small portion of the eventual list. I will add albums from time-to-time as I remember them. This type of list is exactly why I added RSS to album lists as I imagine subscribing to other people&rsquo;s feeds. 🎵</p>\n",
+				"content_text": "Just pushed my [All Time Favorites](https://albumwhale.com/bjhess/all-time-favorites) list out to Album Whale. This is a small portion of the eventual list. I will add albums from time-to-time as I remember them. This type of list is exactly why I added RSS to album lists as I imagine subscribing to other people's feeds. 🎵\n",
+				"date_published": "2022-12-06T12:58:38-06:00",
+				"url": "https://micro.bjhess.com/2022/12/06/just-pushed-my.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/12/06/countdown-to-red.html",
+				
+				"content_html": "<p>Countdown to Red Hot Chili Peppers (and The Strokes) pre-order. I should really think of a budget before I enter…</p>\n",
+				"content_text": "Countdown to Red Hot Chili Peppers (and The Strokes) pre-order. I should really think of a budget before I enter…\n",
+				"date_published": "2022-12-06T10:34:52-06:00",
+				"url": "https://micro.bjhess.com/2022/12/06/countdown-to-red.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/12/05/read-no-time.html",
+				
+				"content_html": "<p>Read <a href=\"https://micro.blog/books/9781250265616\">No Time Like the Future</a> by Michael J. Fox 📚</p>\n\n<p>Two MJF bios in one year seems like a bit much. I didn&rsquo;t find this one quite as engaging as <em>Lucky Man</em>, but a worthwhile listen from my library.</p>\n",
+				"content_text": "Read [No Time Like the Future](https://micro.blog/books/9781250265616) by Michael J. Fox 📚\r\n\r\nTwo MJF bios in one year seems like a bit much. I didn't find this one quite as engaging as _Lucky Man_, but a worthwhile listen from my library.\n",
+				"date_published": "2022-12-05T10:38:27-06:00",
+				"url": "https://micro.bjhess.com/2022/12/05/read-no-time.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/12/04/i-feel-like.html",
+				
+				"content_html": "<p>I feel like every time there is a day I try to stay tech free, some random event puts me back on the computer/device. This time it is a new iPad’s screen pooping out.</p>\n",
+				"content_text": "I feel like every time there is a day I try to stay tech free, some random event puts me back on the computer/device. This time it is a new iPad’s screen pooping out.\n",
+				"date_published": "2022-12-04T14:33:28-06:00",
+				"url": "https://micro.bjhess.com/2022/12/04/i-feel-like.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/12/03/not-that-i.html",
 				
 				"content_html": "<p>Not that I know soccer, but…</p>\n\n<p>It looked hopeful at times, but US just doesn’t have the passing control of the top teams. And they were missing defensive coverage a lot. They seem to have the athleticism, though.</p>\n",
