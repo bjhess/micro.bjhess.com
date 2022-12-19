@@ -7,6 +7,57 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2022/12/19/i-know-we.html",
+				
+				"content_html": "<p>I know we bag on the Apple Music app a lot, but, man, has Calendar never been fully cooked. The biggest pain for me is its straight up loss of my email alert settings for recurring events time after time after time. Oof!</p>\n",
+				"content_text": "I know we bag on the Apple Music app a lot, but, man, has Calendar never been fully cooked. The biggest pain for me is its straight up loss of my email alert settings for recurring events time after time after time. Oof!\n",
+				"date_published": "2022-12-19T10:25:14-06:00",
+				"url": "https://micro.bjhess.com/2022/12/19/i-know-we.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/12/15/omglol-account-procured.html",
+				
+				"content_html": "<p>omg.lol account procured. Now to determine if I’m going to move my Fosstodon/Mastodon account over to social.lol.</p>\n",
+				"content_text": "omg.lol account procured. Now to determine if I’m going to move my Fosstodon/Mastodon account over to social.lol.\n",
+				"date_published": "2022-12-15T14:04:34-06:00",
+				"url": "https://micro.bjhess.com/2022/12/15/omglol-account-procured.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/12/15/ive-had-a.html",
+				
+				"content_html": "<p>I&rsquo;ve had a standing desk that&rsquo;s only been standing + stool-leaning for a decade. I think it&rsquo;s time I get a chair for those occaisions I want to sit. Chair recommendations? Assuming it’s not a mega-expensive one, have you used a mega-expensive one and can you compare them? Thanks!</p>\n",
+				"content_text": "I've had a standing desk that's only been standing + stool-leaning for a decade. I think it's time I get a chair for those occaisions I want to sit. Chair recommendations? Assuming it’s not a mega-expensive one, have you used a mega-expensive one and can you compare them? Thanks!\n",
+				"date_published": "2022-12-15T11:02:41-06:00",
+				"url": "https://micro.bjhess.com/2022/12/15/ive-had-a.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/12/14/i-see-omglol.html",
+				
+				"content_html": "<p>I see <a href=\"https://omg.lol\">omg.lol</a> prices are going up next year? I should probably jump in and support the weird web.</p>\n",
+				"content_text": "I see [omg.lol](https://omg.lol) prices are going up next year? I should probably jump in and support the weird web.\n",
+				"date_published": "2022-12-14T18:21:19-06:00",
+				"url": "https://micro.bjhess.com/2022/12/14/i-see-omglol.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/12/14/its-nice-to.html",
+				
+				"content_html": "<p>It&rsquo;s nice to have a designer friend to help you out. Though we do have to tighten this up.</p>\n\n<p><img src=\"uploads/2022/220eee5147.png\" width=\"600\" height=\"553\" alt=\"\"></p>\n",
+				"content_text": "It's nice to have a designer friend to help you out. Though we do have to tighten this up.\n\n<img src=\"uploads/2022/220eee5147.png\" width=\"600\" height=\"553\" alt=\"\">\n",
+				"date_published": "2022-12-14T17:29:02-06:00",
+				"url": "https://micro.bjhess.com/2022/12/14/its-nice-to.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/12/14/rails-til-in.html",
+				
+				"content_html": "<p><a href=\"https://stackoverflow.com/questions/71981471/why-is-my-flash-now-not-outputting-after-a-render\">Rails TIL</a>. In Rails 7 you need to render with a status code in order for <code>Flash.now</code> to appear.</p>\n\n<pre><code>Flash.now[:errors] = 'This is an error'  \nrender :edit, status: :whatever_status\n</code></pre>\n\n<p>It&rsquo;s wild because I could debug the view and see the Flash is set. But nothing displayed.</p>\n",
+				"content_text": "[Rails TIL](https://stackoverflow.com/questions/71981471/why-is-my-flash-now-not-outputting-after-a-render). In Rails 7 you need to render with a status code in order for `Flash.now` to appear.\n\n    Flash.now[:errors] = 'This is an error'  \n    render :edit, status: :whatever_status\n\nIt's wild because I could debug the view and see the Flash is set. But nothing displayed.\n",
+				"date_published": "2022-12-14T10:47:59-06:00",
+				"url": "https://micro.bjhess.com/2022/12/14/rails-til-in.html",
+				"tags": ["Hacking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/12/14/just-spent-five.html",
 				
 				"content_html": "<p>Just spent five minutes experimenting with adding things to Todoist via Apple Watch &amp; Siri. Just plain doesn&rsquo;t work. This is the actual reason I&rsquo;m an occasional Luddite.</p>\n",
@@ -17,8 +68,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/12/12/things-are-happening.html",
 				
-				"content_html": "<p>Things are happening…</p>\n\n<p><img src=\"uploads/2022/476cd6d9ac.png\" width=\"510\" height=\"600\" alt=\"Unified Feed Software\"></p>\n",
-				"content_text": "Things are happening…\n\n<img src=\"uploads/2022/476cd6d9ac.png\" width=\"510\" height=\"600\" alt=\"Unified Feed Software\">\n",
+				"content_html": "<p>Things are happening…</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/476cd6d9ac.png\" width=\"510\" height=\"600\" alt=\"Unified Feed Software\"></p>\n",
+				"content_text": "Things are happening…\n\n<img src=\"https://micro.bjhess.com/uploads/2022/476cd6d9ac.png\" width=\"510\" height=\"600\" alt=\"Unified Feed Software\">\n",
 				"date_published": "2022-12-12T15:11:49-06:00",
 				"url": "https://micro.bjhess.com/2022/12/12/things-are-happening.html",
 				"tags": ["Hacking"]
@@ -35,8 +86,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/12/10/a-couple-web.html",
 				
-				"content_html": "<p>A couple web form things I’ve never seen before.</p>\n\n<p><img src=\"uploads/2022/ba63a4db1a.jpg\" width=\"600\" height=\"144\" alt=\"\"><img src=\"uploads/2022/b207dbf852.jpg\" width=\"600\" height=\"107\" alt=\"\"></p>\n",
-				"content_text": "A couple web form things I’ve never seen before.\n\n<img src=\"uploads/2022/ba63a4db1a.jpg\" width=\"600\" height=\"144\" alt=\"\"><img src=\"uploads/2022/b207dbf852.jpg\" width=\"600\" height=\"107\" alt=\"\">\n",
+				"content_html": "<p>A couple web form things I’ve never seen before.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/ba63a4db1a.jpg\" width=\"600\" height=\"144\" alt=\"\"><img src=\"https://micro.bjhess.com/uploads/2022/b207dbf852.jpg\" width=\"600\" height=\"107\" alt=\"\"></p>\n",
+				"content_text": "A couple web form things I’ve never seen before.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/ba63a4db1a.jpg\" width=\"600\" height=\"144\" alt=\"\"><img src=\"https://micro.bjhess.com/uploads/2022/b207dbf852.jpg\" width=\"600\" height=\"107\" alt=\"\">\n",
 				"date_published": "2022-12-10T10:24:38-06:00",
 				"url": "https://micro.bjhess.com/2022/12/10/a-couple-web.html"
 			},
@@ -418,8 +469,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2022/10/15/last-minute-date.html",
 				
-				"content_html": "<p>Last minute date with myself.</p>\n\n<p><img src=\"uploads/2022/367968ae80.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Last minute date with myself.\n\n<img src=\"uploads/2022/367968ae80.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Last minute date with myself.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2022/367968ae80.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Last minute date with myself.\n\n<img src=\"https://micro.bjhess.com/uploads/2022/367968ae80.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-15T18:31:52-06:00",
 				"url": "https://micro.bjhess.com/2022/10/15/last-minute-date.html"
 			},
