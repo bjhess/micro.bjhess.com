@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/01/05/my-good-friend.html",
+				
+				"content_html": "<p>My good friend, Nate, has started a newsletter about theology and R-rated movies. He plans on writing for an audience of both laity and clergy. If movies and religion hit two of your likes, I highly recommend it! <a href=\"https://rratedmovieclub.substack.com/about\">Intro</a> &amp; <a href=\"https://rratedmovieclub.substack.com/p/sunday-matinee-1-things-to-come\">the first letter</a>. <em>Blues Brothers</em> incoming! 🎥</p>\n",
+				"content_text": "My good friend, Nate, has started a newsletter about theology and R-rated movies. He plans on writing for an audience of both laity and clergy. If movies and religion hit two of your likes, I highly recommend it! [Intro](https://rratedmovieclub.substack.com/about) & [the first letter](https://rratedmovieclub.substack.com/p/sunday-matinee-1-things-to-come). _Blues Brothers_ incoming! 🎥\n",
+				"date_published": "2023-01-05T14:02:09-06:00",
+				"url": "https://micro.bjhess.com/2023/01/05/my-good-friend.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/04/i-grew-up.html",
+				
+				"content_html": "<p>I grew up on a farm in rural Minnesota, yet I just heard the phrase “All boots, no cattle” for the first time and I love it.</p>\n",
+				"content_text": "I grew up on a farm in rural Minnesota, yet I just heard the phrase “All boots, no cattle” for the first time and I love it.\n",
+				"date_published": "2023-01-04T12:13:46-06:00",
+				"url": "https://micro.bjhess.com/2023/01/04/i-grew-up.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/03/finished-reading-sourdough.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781925626230\">Sourdough</a> by Robin Sloan. Didn&rsquo;t enjoy this as much as Mr. Penumbra&rsquo;s. I kind of got lost in the last quarter of it. 📚</p>\n",
+				"content_text": "Finished reading: [Sourdough](https://micro.blog/books/9781925626230) by Robin Sloan. Didn't enjoy this as much as Mr. Penumbra's. I kind of got lost in the last quarter of it. 📚\n",
+				"date_published": "2023-01-03T11:14:00-06:00",
+				"url": "https://micro.bjhess.com/2023/01/03/finished-reading-sourdough.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/02/why-not-mars.html",
+				
+				"content_html": "<p><a href=\"https://idlewords.com/2023/1/why_not_mars.htm\">Why Not Mars (Idle Words)</a> - an interesting takedown of the manned Mars mission.</p>\n",
+				"content_text": " [Why Not Mars (Idle Words)](https://idlewords.com/2023/1/why_not_mars.htm) - an interesting takedown of the manned Mars mission.\n",
+				"date_published": "2023-01-02T10:38:12-06:00",
+				"url": "https://micro.bjhess.com/2023/01/02/why-not-mars.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/01/happy-new-year.html",
+				
+				"content_html": "<p>Happy New Year to those who celebrate.</p>\n",
+				"content_text": "Happy New Year to those who celebrate.\n",
+				"date_published": "2023-01-01T09:34:43-06:00",
+				"url": "https://micro.bjhess.com/2023/01/01/happy-new-year.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2022/12/31/heading-to-friends.html",
+				
+				"content_html": "<p>Heading to friends for our first normal NYE in a few years. Taking a break from cocktail mixing for some basic porters and IPAs.</p>\n",
+				"content_text": "Heading to friends for our first normal NYE in a few years. Taking a break from cocktail mixing for some basic porters and IPAs.\n",
+				"date_published": "2022-12-31T17:55:42-06:00",
+				"url": "https://micro.bjhess.com/2022/12/31/heading-to-friends.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2022/12/30/last-years-unexecuted.html",
 				
 				"content_html": "<p>Last year&rsquo;s unexecuted ideas mean I have two expiring domains that I&rsquo;m going to have trouble letting go of: thingslearned.net and thingslearned.org. Maybe I&rsquo;ll just keep the .net…</p>\n",
