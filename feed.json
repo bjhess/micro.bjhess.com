@@ -7,12 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/01/10/excited-that-weve.html",
+				
+				"content_html": "<p>Excited that we&rsquo;ve been able to add Bandcamp support to <a href=\"https://albumwhale.com\">Album Whale</a>. For you Micro.blog folks, that means you can now add the inimitable <a href=\"https://micro.blog/hollyhoneychurch\">@hollyhoneychurch</a> to your lists! <a href=\"https://la-navigatrice.bandcamp.com/album/planets-ii\">Huzzah</a>! 🎵</p>\n\n<p><img src=\"uploads/2023/b634dcdf1f.png\" width=\"600\" height=\"368\" alt=\"\"></p>\n",
+				"content_text": "Excited that we've been able to add Bandcamp support to [Album Whale](https://albumwhale.com). For you Micro.blog folks, that means you can now add the inimitable [@hollyhoneychurch](https://micro.blog/hollyhoneychurch) to your lists! [Huzzah](https://la-navigatrice.bandcamp.com/album/planets-ii)! 🎵\n\n<img src=\"uploads/2023/b634dcdf1f.png\" width=\"600\" height=\"368\" alt=\"\">\n",
+				"date_published": "2023-01-10T15:39:19-06:00",
+				"url": "https://micro.bjhess.com/2023/01/10/excited-that-weve.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/10/surprising-my-monthsago.html",
+				
+				"content_html": "<p>Surprising my 15-months-ago self, I got some books out of storage.</p>\n\n<p><img src=\"uploads/2023/642e040791.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Surprising my 15-months-ago self, I got some books out of storage.\n\n<img src=\"uploads/2023/642e040791.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-10T08:32:16-06:00",
+				"url": "https://micro.bjhess.com/2023/01/10/surprising-my-monthsago.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/10/i-have-acquired.html",
+				
+				"content_html": "<p>I have acquired a mild Fortnite addiction thanks to my kids. Good thing is we’re having fun playing together!</p>\n",
+				"content_text": "I have acquired a mild Fortnite addiction thanks to my kids. Good thing is we’re having fun playing together!\n",
+				"date_published": "2023-01-10T00:48:52-06:00",
+				"url": "https://micro.bjhess.com/2023/01/10/i-have-acquired.html",
+				"tags": ["Playing"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/01/05/my-good-friend.html",
 				
-				"content_html": "<p>My good friend, Nate, has started a newsletter about theology and R-rated movies. He plans on writing for an audience of both laity and clergy. If movies and religion hit two of your likes, I highly recommend it! <a href=\"https://rratedmovieclub.substack.com/about\">Intro</a> &amp; <a href=\"https://rratedmovieclub.substack.com/p/sunday-matinee-1-things-to-come\">the first letter</a>. <em>Blues Brothers</em> incoming! 🎥</p>\n",
-				"content_text": "My good friend, Nate, has started a newsletter about theology and R-rated movies. He plans on writing for an audience of both laity and clergy. If movies and religion hit two of your likes, I highly recommend it! [Intro](https://rratedmovieclub.substack.com/about) & [the first letter](https://rratedmovieclub.substack.com/p/sunday-matinee-1-things-to-come). _Blues Brothers_ incoming! 🎥\n",
+				"content_html": "<p>My good friend, Nate, has started a newsletter about theology and R-rated movies. He plans on writing for an audience of both laity and clergy. If movies and religion hit two of your likes, I highly recommend it! <a href=\"https://rratedmovieclub.substack.com/about\">Intro</a> &amp; <a href=\"https://rratedmovieclub.substack.com/p/sunday-matinee-1-things-to-come\">the first letter</a>. <em>Blues Brothers</em> incoming! 🍿</p>\n",
+				"content_text": "My good friend, Nate, has started a newsletter about theology and R-rated movies. He plans on writing for an audience of both laity and clergy. If movies and religion hit two of your likes, I highly recommend it! [Intro](https://rratedmovieclub.substack.com/about) & [the first letter](https://rratedmovieclub.substack.com/p/sunday-matinee-1-things-to-come). _Blues Brothers_ incoming! 🍿\n",
 				"date_published": "2023-01-05T14:02:09-06:00",
-				"url": "https://micro.bjhess.com/2023/01/05/my-good-friend.html"
+				"url": "https://micro.bjhess.com/2023/01/05/my-good-friend.html",
+				"tags": ["Watching"]
 			},
 			{
 				"id": "http://bjhess.micro.blog/2023/01/04/i-grew-up.html",
