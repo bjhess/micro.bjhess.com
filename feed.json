@@ -7,6 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/01/26/pleasantly-surprised-to.html",
+				
+				"content_html": "<p>Pleasantly surprised to see that <a href=\"https://hiatuskaiyote.com\">Hiatus Kaiyote</a> are coming to perform in the area in April. In the ticket line… 🎵</p>\n",
+				"content_text": "Pleasantly surprised to see that [Hiatus Kaiyote](https://hiatuskaiyote.com) are coming to perform in the area in April. In the ticket line… 🎵\n",
+				"date_published": "2023-01-26T09:53:02-06:00",
+				"url": "https://micro.bjhess.com/2023/01/26/pleasantly-surprised-to.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/25/pretty-excited-about.html",
+				
+				"content_html": "<p>Pretty excited about the latest Album Whale update: list formatting options. Since we&rsquo;re building Album Whale as a place to publish your favorite album collections, having layout options makes a lot of sense. Now we can support everything from galleries to long-form writing. 🎵</p>\n\n<p><img src=\"uploads/2023/20ebe15a7f.png\" width=\"600\" height=\"564\" alt=\"\"></p>\n",
+				"content_text": "Pretty excited about the latest Album Whale update: list formatting options. Since we're building Album Whale as a place to publish your favorite album collections, having layout options makes a lot of sense. Now we can support everything from galleries to long-form writing. 🎵\n\n<img src=\"uploads/2023/20ebe15a7f.png\" width=\"600\" height=\"564\" alt=\"\">\n",
+				"date_published": "2023-01-25T09:46:51-06:00",
+				"url": "https://micro.bjhess.com/2023/01/25/pretty-excited-about.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/24/where-do-you.html",
+				
+				"content_html": "<p>Where do you keep your electronic documents?</p>\n\n<p>I like to have a copy (scan/download) of all the financial, medical, etc paperwork that comes in. Also, manuals. I want to be able to search the PDFs. Evernote was perfect a decade ago, but now I&rsquo;d like to drop a sub and simplify.</p>\n",
+				"content_text": "Where do you keep your electronic documents?\r\n\r\nI like to have a copy (scan/download) of all the financial, medical, etc paperwork that comes in. Also, manuals. I want to be able to search the PDFs. Evernote was perfect a decade ago, but now I'd like to drop a sub and simplify.\n",
+				"date_published": "2023-01-24T08:47:06-06:00",
+				"url": "https://micro.bjhess.com/2023/01/24/where-do-you.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/23/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307763747\">The Night In Question: Stories (Vintage Contemporaries)</a> by Tobias Wolff 📚</p>\n\n<p>A master.</p>\n",
+				"content_text": "Finished reading: [The Night In Question: Stories (Vintage Contemporaries)](https://micro.blog/books/9780307763747) by Tobias Wolff 📚\r\n\r\nA master.\n",
+				"date_published": "2023-01-23T15:38:36-06:00",
+				"url": "https://micro.bjhess.com/2023/01/23/finished-reading-the.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/22/this-is-my.html",
+				
+				"content_html": "<p>This is my all day. IYKYK.</p>\n\n<p><img src=\"uploads/2023/501a5d9b36.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "This is my all day. IYKYK.\n\n<img src=\"uploads/2023/501a5d9b36.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-22T11:10:21-06:00",
+				"url": "https://micro.bjhess.com/2023/01/22/this-is-my.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/21/gettin-into-things.html",
+				
+				"content_html": "<p>Gettin’ into things. 🎵</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2023/886654abb7.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Gettin’ into things. 🎵\n\n<img src=\"https://micro.bjhess.com/uploads/2023/886654abb7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-21T10:36:52-06:00",
+				"url": "https://micro.bjhess.com/2023/01/21/gettin-into-things.html",
+				"tags": ["Listening"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/01/19/just-turned-on.html",
 				
 				"content_html": "<p>Just turned on <a href=\"https://render.com/docs/deploys#toggling-auto-deploy-for-a-service\">auto deploy</a> for our <a href=\"https://micro.blog/goodenough\">@goodenough</a> apps. Feels uncomfortable, but going to live in that space for a bit to see how it goes. 💻</p>\n",
@@ -27,8 +79,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/01/16/mexican-meatballs-tonight.html",
 				
-				"content_html": "<p>Mexican meatballs tonight were a hit. This is pre &ldquo;rolling around in sauce.&rdquo;</p>\n\n<p><img src=\"uploads/2023/c1c17744a1.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Mexican meatballs tonight were a hit. This is pre \"rolling around in sauce.\"\n\n<img src=\"uploads/2023/c1c17744a1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Mexican meatballs tonight were a hit. This is pre &ldquo;rolling around in sauce.&rdquo;</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2023/c1c17744a1.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Mexican meatballs tonight were a hit. This is pre \"rolling around in sauce.\"\n\n<img src=\"https://micro.bjhess.com/uploads/2023/c1c17744a1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-16T20:01:30-06:00",
 				"url": "https://micro.bjhess.com/2023/01/16/mexican-meatballs-tonight.html",
 				"tags": ["Kitchening"]
