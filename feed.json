@@ -7,6 +7,89 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/01/31/over-tabs-open.html",
+				
+				"content_html": "<p>Over 300 tabs open on my phone. I now have a goal to remove 5 per day (close and note them down somewhere else if necessary). Maybe I should do that “declutter one thing in the house every day for a month” thing, too?</p>\n",
+				"content_text": "Over 300 tabs open on my phone. I now have a goal to remove 5 per day (close and note them down somewhere else if necessary). Maybe I should do that “declutter one thing in the house every day for a month” thing, too?\n",
+				"date_published": "2023-01-31T21:35:28-06:00",
+				"url": "https://micro.bjhess.com/2023/01/31/over-tabs-open.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/30/if-we-want.html",
+				
+				"content_html": "<p>If we want to put <a href=\"https://micro.blog/goodenough\">@goodenough</a> on Mastodon, what instance is a good fit? I’m thinking companies aren’t desired on most instances, and I don’t really want to maintain my own. botsin.space seems a possibility given this will mostly be status updates - probably reposts.</p>\n",
+				"content_text": "If we want to put [@goodenough](https://micro.blog/goodenough) on Mastodon, what instance is a good fit? I’m thinking companies aren’t desired on most instances, and I don’t really want to maintain my own. botsin.space seems a possibility given this will mostly be status updates - probably reposts.\n",
+				"date_published": "2023-01-30T20:23:40-06:00",
+				"url": "https://micro.bjhess.com/2023/01/30/if-we-want.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/30/ive-been-reading.html",
+				
+				"content_html": "<p>I&rsquo;ve been reading the short stories that Robin Sloan has available on the Internet. Two that particularly caught my mind were <a href=\"https://brandnewbox.com/inthestacks/\"><em>In the Stacks</em></a> with its musical toy intro and <a href=\"https://www.robinsloan.com/stories/writer-witch/\"><em>The Writer and the Witch</em></a> with its Neil Gaiman vibes. Give &lsquo;em a read! 📚</p>\n",
+				"content_text": "I've been reading the short stories that Robin Sloan has available on the Internet. Two that particularly caught my mind were [_In the Stacks_](https://brandnewbox.com/inthestacks/) with its musical toy intro and [_The Writer and the Witch_](https://www.robinsloan.com/stories/writer-witch/) with its Neil Gaiman vibes. Give 'em a read! 📚\n",
+				"date_published": "2023-01-30T11:24:24-06:00",
+				"url": "https://micro.bjhess.com/2023/01/30/ive-been-reading.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/30/fresh-computer-install.html",
+				
+				"content_html": "<p>Fresh computer install means that I&rsquo;ve found some new software to smooth out my daily. I&rsquo;ve always used Divvy for windows management, but it was kind of janky getting it set up this time. And so I discovered <a href=\"https://rectangleapp.com\">Rectangle</a> and I&rsquo;m already enjoying it. Dragging to hotspots is nice!</p>\n",
+				"content_text": "Fresh computer install means that I've found some new software to smooth out my daily. I've always used Divvy for windows management, but it was kind of janky getting it set up this time. And so I discovered [Rectangle](https://rectangleapp.com) and I'm already enjoying it. Dragging to hotspots is nice!\n",
+				"date_published": "2023-01-30T10:12:26-06:00",
+				"url": "https://micro.bjhess.com/2023/01/30/fresh-computer-install.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/29/spent-an-hour.html",
+				
+				"content_html": "<p>Spent an hour trying to Google “I want to point a subdomain at a simple photo ‘streaming’ and/or photo blog site” only to realize a separate photo micro.blog is just the solution to “photo website with control of layout, easy exporting, RSS and Mastodon interoperability.”</p>\n",
+				"content_text": "Spent an hour trying to Google “I want to point a subdomain at a simple photo ‘streaming’ and/or photo blog site” only to realize a separate photo micro.blog is just the solution to “photo website with control of layout, easy exporting, RSS and Mastodon interoperability.”\n",
+				"date_published": "2023-01-29T17:18:53-06:00",
+				"url": "https://micro.bjhess.com/2023/01/29/spent-an-hour.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/29/103416.html",
+				
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2023/ec57d5c8e8.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2023/ec57d5c8e8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-29T10:34:16-06:00",
+				"url": "https://micro.bjhess.com/2023/01/29/103416.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/29/102758.html",
+				
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2023/95144f3d04.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2023/95144f3d04.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-29T10:27:58-06:00",
+				"url": "https://micro.bjhess.com/2023/01/29/102758.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/29/a-good-little.html",
+				
+				"content_html": "<p>A good little rundown of <a href=\"https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/\">software engineering things that are learned from experience</a>. 💻</p>\n",
+				"content_text": "A good little rundown of [software engineering things that are learned from experience](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/). 💻\n",
+				"date_published": "2023-01-29T08:26:02-06:00",
+				"url": "https://micro.bjhess.com/2023/01/29/a-good-little.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/27/the-person-who.html",
+				
+				"content_html": "<p>The person who signed up for Amazon with my secondary email address has finally figured out they used the wrong email. I’m getting spammed with account recovery emails at said email address. lol</p>\n",
+				"content_text": "The person who signed up for Amazon with my secondary email address has finally figured out they used the wrong email. I’m getting spammed with account recovery emails at said email address. lol\n",
+				"date_published": "2023-01-27T14:37:44-06:00",
+				"url": "https://micro.bjhess.com/2023/01/27/the-person-who.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/01/27/are-there-any.html",
+				
+				"content_html": "<p>Are there any &ldquo;small business&rdquo;y competitors to the Google app suite? We&rsquo;d like to support such companies <a href=\"https://micro.blog/goodenough\">@goodenough</a>, but options like Zoho aren&rsquo;t small, and startups like Craft are overly complicated. We mostly just need email and docs. Google is probably going to be it, sadly.</p>\n",
+				"content_text": "Are there any \"small business\"y competitors to the Google app suite? We'd like to support such companies [@goodenough](https://micro.blog/goodenough), but options like Zoho aren't small, and startups like Craft are overly complicated. We mostly just need email and docs. Google is probably going to be it, sadly.\n",
+				"date_published": "2023-01-27T08:43:41-06:00",
+				"url": "https://micro.bjhess.com/2023/01/27/are-there-any.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/01/26/pleasantly-surprised-to.html",
 				
 				"content_html": "<p>Pleasantly surprised to see that <a href=\"https://hiatuskaiyote.com\">Hiatus Kaiyote</a> are coming to perform in the area in April. In the ticket line… 🎵</p>\n",
@@ -18,8 +101,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/01/25/pretty-excited-about.html",
 				
-				"content_html": "<p>Pretty excited about the latest Album Whale update: list formatting options. Since we&rsquo;re building Album Whale as a place to publish your favorite album collections, having layout options makes a lot of sense. Now we can support everything from galleries to long-form writing. 🎵</p>\n\n<p><img src=\"uploads/2023/20ebe15a7f.png\" width=\"600\" height=\"564\" alt=\"\"></p>\n",
-				"content_text": "Pretty excited about the latest Album Whale update: list formatting options. Since we're building Album Whale as a place to publish your favorite album collections, having layout options makes a lot of sense. Now we can support everything from galleries to long-form writing. 🎵\n\n<img src=\"uploads/2023/20ebe15a7f.png\" width=\"600\" height=\"564\" alt=\"\">\n",
+				"content_html": "<p>Pretty excited about the latest Album Whale update: list formatting options. Since we&rsquo;re building Album Whale as a place to publish your favorite album collections, having layout options makes a lot of sense. Now we can support everything from galleries to long-form writing. 🎵</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2023/20ebe15a7f.png\" width=\"600\" height=\"564\" alt=\"\"></p>\n",
+				"content_text": "Pretty excited about the latest Album Whale update: list formatting options. Since we're building Album Whale as a place to publish your favorite album collections, having layout options makes a lot of sense. Now we can support everything from galleries to long-form writing. 🎵\n\n<img src=\"https://micro.bjhess.com/uploads/2023/20ebe15a7f.png\" width=\"600\" height=\"564\" alt=\"\">\n",
 				"date_published": "2023-01-25T09:46:51-06:00",
 				"url": "https://micro.bjhess.com/2023/01/25/pretty-excited-about.html",
 				"tags": ["Listening"]
@@ -44,8 +127,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/01/22/this-is-my.html",
 				
-				"content_html": "<p>This is my all day. IYKYK.</p>\n\n<p><img src=\"uploads/2023/501a5d9b36.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "This is my all day. IYKYK.\n\n<img src=\"uploads/2023/501a5d9b36.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>This is my all day. IYKYK.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2023/501a5d9b36.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "This is my all day. IYKYK.\n\n<img src=\"https://micro.bjhess.com/uploads/2023/501a5d9b36.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-22T11:10:21-06:00",
 				"url": "https://micro.bjhess.com/2023/01/22/this-is-my.html"
 			},
