@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/02/02/i-have-some.html",
+				
+				"content_html": "<p>I have some photo scans from the 1960s, most of which have severely degraded coloring. Some washed out red, others faded, others green. Anyone have a good recommendation for an AI color correction software that might finally restore these for me?</p>\n",
+				"content_text": "I have some photo scans from the 1960s, most of which have severely degraded coloring. Some washed out red, others faded, others green. Anyone have a good recommendation for an AI color correction software that might finally restore these for me?\n",
+				"date_published": "2023-02-02T23:17:00-06:00",
+				"url": "https://micro.bjhess.com/2023/02/02/i-have-some.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/01/31/over-tabs-open.html",
 				
 				"content_html": "<p>Over 300 tabs open on my phone. I now have a goal to remove 5 per day (close and note them down somewhere else if necessary). Maybe I should do that “declutter one thing in the house every day for a month” thing, too?</p>\n",
