@@ -7,6 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/02/11/drumlines.html",
+				
+				"content_html": "<p>Drumlines.</p>\n\n<p><img src=\"uploads/2023/214c1b4a41.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Drumlines.\n\n<img src=\"uploads/2023/214c1b4a41.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-11T19:14:23-06:00",
+				"url": "https://micro.bjhess.com/2023/02/11/drumlines.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/09/wow-scotts-cheap.html",
+				
+				"content_html": "<p>Wow, Scott&rsquo;s Cheap Flights picked up the going.com domain? Wonder what that cost? <a href=\"https://www.going.com/rebrand\">www.going.com/rebrand</a></p>\n",
+				"content_text": "Wow, Scott's Cheap Flights picked up the going.com domain? Wonder what that cost? [www.going.com/rebrand](https://www.going.com/rebrand)\n",
+				"date_published": "2023-02-09T10:33:15-06:00",
+				"url": "https://micro.bjhess.com/2023/02/09/wow-scotts-cheap.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/08/this-advice-from.html",
+				
+				"content_html": "<p>This advice from my past self just &ldquo;cost&rdquo; me 60-90 minutes. <a href=\"https://techtime.getharvest.com/blog/find-bugs-once-and-the-joy-of-bug-fixing\">Find Bugs Once and the Joy of Bug Fixing</a>. 💻</p>\n",
+				"content_text": "This advice from my past self just \"cost\" me 60-90 minutes. [Find Bugs Once and the Joy of Bug Fixing](https://techtime.getharvest.com/blog/find-bugs-once-and-the-joy-of-bug-fixing). 💻\n",
+				"date_published": "2023-02-08T10:14:25-06:00",
+				"url": "https://micro.bjhess.com/2023/02/08/this-advice-from.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/07/there-is-too.html",
+				
+				"content_html": "<blockquote>\n  <p>[T]here is too little of what we really like in stories.\n    I am afraid we shall have to try and write some\n    ourselves.</p>\n\n  <p>&ndash; <cite>C.S. Lewis, speaking to J.R.R. Tolkein</cite></p>\n</blockquote>\n\n<p>Via <a href=\"https://www.robinsloan.com/newsletters/sunshine-skyway/\">Robin Sloan</a>.</p>\n",
+				"content_text": "<blockquote>\r\n  <p>[T]here is too little of what we really like in stories.\r\n    I am afraid we shall have to try and write some\r\n    ourselves.</p>\r\n\r\n  <p>&ndash; <cite>C.S. Lewis, speaking to J.R.R. Tolkein</cite></p>\r\n</blockquote>\r\n\r\nVia [Robin Sloan](https://www.robinsloan.com/newsletters/sunshine-skyway/).\n",
+				"date_published": "2023-02-07T18:16:06-06:00",
+				"url": "https://micro.bjhess.com/2023/02/07/there-is-too.html",
+				"tags": ["Quoting"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/06/this-hogwarts-legacy.html",
+				
+				"content_html": "<p><a href=\"https://www.ign.com/articles/hogwarts-legacy-review-harry-potter-ps5-xbox-pc\">This Hogwarts Legacy</a> review is 9 out of 10, but it sure reads like a 7 or 8 review. Think I&rsquo;ll wait to hear some actual player responses. 🕹️</p>\n",
+				"content_text": "[This Hogwarts Legacy](https://www.ign.com/articles/hogwarts-legacy-review-harry-potter-ps5-xbox-pc) review is 9 out of 10, but it sure reads like a 7 or 8 review. Think I'll wait to hear some actual player responses. 🕹️\n",
+				"date_published": "2023-02-06T19:46:24-06:00",
+				"url": "https://micro.bjhess.com/2023/02/06/this-hogwarts-legacy.html",
+				"tags": ["Playing"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/06/i-just-assume.html",
+				
+				"content_html": "<p>I just assume all resources that claim to teach the basics of marketing will be bad. Like they themselves are all marketing, no value. But maybe you know of a book or series of articles that is useful? I&rsquo;d love to learn how best find people who could use our products.</p>\n",
+				"content_text": "I just assume all resources that claim to teach the basics of marketing will be bad. Like they themselves are all marketing, no value. But maybe you know of a book or series of articles that is useful? I'd love to learn how best find people who could use our products.\n",
+				"date_published": "2023-02-06T10:54:21-06:00",
+				"url": "https://micro.bjhess.com/2023/02/06/i-just-assume.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/02/02/i-have-some.html",
 				
 				"content_html": "<p>I have some photo scans from the 1960s, most of which have severely degraded coloring. Some washed out red, others faded, others green. Anyone have a good recommendation for an AI color correction software that might finally restore these for me?</p>\n",
