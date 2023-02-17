@@ -7,10 +7,61 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/02/17/i-just-came.html",
+				
+				"content_html": "<p>I just came to the epiphany that my personal /now page updates could also be a personal newsletter update. I feel simultaneously smart and stupid.</p>\n",
+				"content_text": "I just came to the epiphany that my personal /now page updates could also be a personal newsletter update. I feel simultaneously smart and stupid.\n",
+				"date_published": "2023-02-17T09:51:49-06:00",
+				"url": "https://micro.bjhess.com/2023/02/17/i-just-came.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/15/ive-never-really.html",
+				
+				"content_html": "<p>I&rsquo;ve never really used a library for authentication or authorization in Rails. Thinking this time I might try <a href=\"https://github.com/varvet/pundit\">Pundit</a> for authorization. Thoughts and opinions welcomed. 💻</p>\n",
+				"content_text": "I've never really used a library for authentication or authorization in Rails. Thinking this time I might try [Pundit](https://github.com/varvet/pundit) for authorization. Thoughts and opinions welcomed. 💻\n",
+				"date_published": "2023-02-15T14:07:10-06:00",
+				"url": "https://micro.bjhess.com/2023/02/15/ive-never-really.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/15/was-about-to.html",
+				
+				"content_html": "<p>Was about to order a book last night, but then I searched my email and found I had ordered it a year ago. I wonder where I put that thing…</p>\n",
+				"content_text": "Was about to order a book last night, but then I searched my email and found I had ordered it a year ago. I wonder where I put that thing…\n",
+				"date_published": "2023-02-15T10:52:18-06:00",
+				"url": "https://micro.bjhess.com/2023/02/15/was-about-to.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/14/the-last-of.html",
+				
+				"content_html": "<p><em>The Last of Us</em> episode 5 was sure a gut punch.</p>\n",
+				"content_text": "_The Last of Us_ episode 5 was sure a gut punch.\n",
+				"date_published": "2023-02-14T12:28:23-06:00",
+				"url": "https://micro.bjhess.com/2023/02/14/the-last-of.html",
+				"tags": ["Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/13/not-an-inspiring.html",
+				
+				"content_html": "<p>Not an inspiring set of phone number pointers from our log-processing service. (And, no, when I followed the error message format it did not save my phone number.)</p>\n\n<p><img src=\"uploads/2023/a74b475bda.png\" width=\"600\" height=\"132\" alt=\"\"></p>\n",
+				"content_text": "Not an inspiring set of phone number pointers from our log-processing service. (And, no, when I followed the error message format it did not save my phone number.)\n\n<img src=\"uploads/2023/a74b475bda.png\" width=\"600\" height=\"132\" alt=\"\">\n",
+				"date_published": "2023-02-13T07:17:29-06:00",
+				"url": "https://micro.bjhess.com/2023/02/13/not-an-inspiring.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/12/someone-on-our.html",
+				
+				"content_html": "<p>Someone on our team posted <a href=\"https://albumwhale.com\">Album Whale</a> across 5 or 6 subreddits Friday and suddenly we have a bunch of signups. Who knew?! I think my Web 2.0 timidity needs to be set aside. I should post to a few music forums even though I&rsquo;m not a frequent participant.</p>\n",
+				"content_text": "Someone on our team posted [Album Whale](https://albumwhale.com) across 5 or 6 subreddits Friday and suddenly we have a bunch of signups. Who knew?! I think my Web 2.0 timidity needs to be set aside. I should post to a few music forums even though I'm not a frequent participant.\n",
+				"date_published": "2023-02-12T15:15:15-06:00",
+				"url": "https://micro.bjhess.com/2023/02/12/someone-on-our.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/02/11/drumlines.html",
 				
-				"content_html": "<p>Drumlines.</p>\n\n<p><img src=\"uploads/2023/214c1b4a41.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Drumlines.\n\n<img src=\"uploads/2023/214c1b4a41.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Drumlines.</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2023/214c1b4a41.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Drumlines.\n\n<img src=\"https://micro.bjhess.com/uploads/2023/214c1b4a41.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-11T19:14:23-06:00",
 				"url": "https://micro.bjhess.com/2023/02/11/drumlines.html",
 				"tags": ["Listening"]
