@@ -7,6 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/02/22/i-love-that.html",
+				
+				"content_html": "<p>I love that the MN DNR has a <a href=\"https://www.dnr.state.mn.us/climate/journal/index.html\">climate journal</a> back into history. There&rsquo;s a <a href=\"https://climateapps.dnr.state.mn.us/doc/whatsnew_legacy.htm\">legacy journal</a> as well, but even that doesn&rsquo;t have all the content that is actually out there, like the MN meme <a href=\"https://www.dnr.state.mn.us/climate/journal/9110_31_Halloween_Blizzard.html\">Halloween blizzard</a> or this <a href=\"https://www.dnr.state.mn.us/climate/journal/double-header-snowstorms-january-1982.html\">1982 record breaker</a>.</p>\n",
+				"content_text": "I love that the MN DNR has a [climate journal](https://www.dnr.state.mn.us/climate/journal/index.html) back into history. There's a [legacy journal](https://climateapps.dnr.state.mn.us/doc/whatsnew_legacy.htm) as well, but even that doesn't have all the content that is actually out there, like the MN meme [Halloween blizzard](https://www.dnr.state.mn.us/climate/journal/9110_31_Halloween_Blizzard.html) or this [1982 record breaker](https://www.dnr.state.mn.us/climate/journal/double-header-snowstorms-january-1982.html). \n",
+				"date_published": "2023-02-22T12:57:34-06:00",
+				"url": "https://micro.bjhess.com/2023/02/22/i-love-that.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/21/how-weird-am.html",
+				
+				"content_html": "<p>How weird am I? I own <em>Pisces Iscariot</em>, but not <em>Siamese Dream</em>. 🎵</p>\n",
+				"content_text": "How weird am I? I own _Pisces Iscariot_, but not _Siamese Dream_. 🎵\n",
+				"date_published": "2023-02-21T12:28:29-06:00",
+				"url": "https://micro.bjhess.com/2023/02/21/how-weird-am.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/21/and-what-is.html",
+				
+				"content_html": "<blockquote>\n  <p>\n    And what is love in the end?\n    Except the irrational desire to put evolutionary competitiveness aside\n    in order to ease someone else's journey through life?\n  </p>\n\n  <p>– <cite>Alabaster, <em><a href=\"https://bookshop.org/p/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/17502475?ean=9780593321201\">Tomorrow, and Tomorrow, and Tomorrow</a></em> by Gabrielle Zevin</cite></p>\n</blockquote>\n",
+				"content_text": "<blockquote>\n  <p>\n    And what is love in the end?\n    Except the irrational desire to put evolutionary competitiveness aside\n    in order to ease someone else's journey through life?\n  </p>\n\n  <p>– <cite>Alabaster, <em><a href=\"https://bookshop.org/p/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/17502475?ean=9780593321201\">Tomorrow, and Tomorrow, and Tomorrow</a></em> by Gabrielle Zevin</cite></p>\n</blockquote>\n",
+				"date_published": "2023-02-21T07:20:00-06:00",
+				"url": "https://micro.bjhess.com/2023/02/21/and-what-is.html",
+				"tags": ["Reading","Quoting"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/20/dang.html",
+				
+				"content_html": "<p>Dang:</p>\n\n<div class=\"yt\">\n  <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7RWbq-lbBlk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n</div>\n",
+				"content_text": "Dang:\n\n<div class=\"yt\">\n  <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7RWbq-lbBlk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n</div>\n",
+				"date_published": "2023-02-20T10:24:47-06:00",
+				"url": "https://micro.bjhess.com/2023/02/20/dang.html",
+				"tags": ["Watching","Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/18/ive-been-told.html",
+				
+				"content_html": "<p>I’ve been told I’m old school when it comes to internet politeness. What do you think - cool to submit your own posts (or those of your company) to places like Hacker News &amp; Lobsters (in my programmer case) or similar onlines homes for associated industries?</p>\n",
+				"content_text": "I’ve been told I’m old school when it comes to internet politeness. What do you think - cool to submit your own posts (or those of your company) to places like Hacker News & Lobsters (in my programmer case) or similar onlines homes for associated industries?\n",
+				"date_published": "2023-02-18T22:27:23-06:00",
+				"url": "https://micro.bjhess.com/2023/02/18/ive-been-told.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/18/184519.html",
+				
+				"content_html": "<p><img src=\"https://micro.bjhess.com/uploads/2023/aecde4ba41.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"https://micro.bjhess.com/uploads/2023/aecde4ba41.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-18T18:45:19-06:00",
+				"url": "https://micro.bjhess.com/2023/02/18/184519.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/02/17/yes-now-pages.html",
+				
+				"content_html": "<p>Yes, <a href=\"https://bjhess.com/now/\">/now</a> pages clearly need a <a href=\"https://bjhess.com/then/2022-11-29/\">/then</a> analog.</p>\n",
+				"content_text": "Yes, [/now](https://bjhess.com/now/) pages clearly need a [/then](https://bjhess.com/then/2022-11-29/) analog.\n",
+				"date_published": "2023-02-17T11:44:00-06:00",
+				"url": "https://micro.bjhess.com/2023/02/17/yes-now-pages.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/02/17/i-just-came.html",
 				
 				"content_html": "<p>I just came to the epiphany that my personal /now page updates could also be a personal newsletter update. I feel simultaneously smart and stupid.</p>\n",
@@ -44,8 +103,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/02/13/not-an-inspiring.html",
 				
-				"content_html": "<p>Not an inspiring set of phone number pointers from our log-processing service. (And, no, when I followed the error message format it did not save my phone number.)</p>\n\n<p><img src=\"uploads/2023/a74b475bda.png\" width=\"600\" height=\"132\" alt=\"\"></p>\n",
-				"content_text": "Not an inspiring set of phone number pointers from our log-processing service. (And, no, when I followed the error message format it did not save my phone number.)\n\n<img src=\"uploads/2023/a74b475bda.png\" width=\"600\" height=\"132\" alt=\"\">\n",
+				"content_html": "<p>Not an inspiring set of phone number pointers from our log-processing service. (And, no, when I followed the error message format it did not save my phone number.)</p>\n\n<p><img src=\"https://micro.bjhess.com/uploads/2023/a74b475bda.png\" width=\"600\" height=\"132\" alt=\"\"></p>\n",
+				"content_text": "Not an inspiring set of phone number pointers from our log-processing service. (And, no, when I followed the error message format it did not save my phone number.)\n\n<img src=\"https://micro.bjhess.com/uploads/2023/a74b475bda.png\" width=\"600\" height=\"132\" alt=\"\">\n",
 				"date_published": "2023-02-13T07:17:29-06:00",
 				"url": "https://micro.bjhess.com/2023/02/13/not-an-inspiring.html"
 			},
