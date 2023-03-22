@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/03/20/this-is-sorta.html",
+				
+				"content_html": "<p>This is sorta so so: <a href=\"https://mobile.twitter.com/BEASTMODE/status/1637613704312242176\">mobile.twitter.com/BEASTMODE&hellip;</a></p>\n\n<p>But then you get to: <a href=\"https://mobile.twitter.com/BEASTMODE/status/1637756590102126593\">mobile.twitter.com/BEASTMODE&hellip;</a></p>\n",
+				"content_text": "This is sorta so so: [mobile.twitter.com/BEASTMODE...](https://mobile.twitter.com/BEASTMODE/status/1637613704312242176)\n\nBut then you get to: [mobile.twitter.com/BEASTMODE...](https://mobile.twitter.com/BEASTMODE/status/1637756590102126593)\n",
+				"date_published": "2023-03-20T21:39:36-05:00",
+				"url": "https://micro.bjhess.com/2023/03/20/this-is-sorta.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/03/14/im-close-to.html",
 				
 				"content_html": "<p>I’m close to the “build my own site generator in Ruby” stage of my blog. Probably inspired by <a href=\"https://git.sr.ht/~bt/barf\">barf</a>. Hopefully something that can build itself on sr.ht or GitHub, so in theory I could write in a browser if need be. Inevitably it will later be replaced by my own blog software.</p>\n",
