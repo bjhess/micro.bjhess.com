@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/04/08/225933.html",
+				
+				"content_html": "<p><img src=\"uploads/2023/f0e8d6155a.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2023/f0e8d6155a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-08T22:59:33-05:00",
+				"url": "https://micro.bjhess.com/2023/04/08/225933.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/04/08/i-was-reminded.html",
+				
+				"content_html": "<p>I was reminded (thanks <a href=\"https://micro.blog/JohnPhilpin\">@JohnPhilpin</a>) that my old blog posts mostly have broken images. I found an old WordPress archive with most of the images. (Hats off to me for being a digital pack rat!) I&rsquo;m a programmer and I should automate this fix, but I usually end up doing this sort of thing manually.</p>\n",
+				"content_text": "I was reminded (thanks [@JohnPhilpin](https://micro.blog/JohnPhilpin)) that my old blog posts mostly have broken images. I found an old WordPress archive with most of the images. (Hats off to me for being a digital pack rat!) I'm a programmer and I should automate this fix, but I usually end up doing this sort of thing manually.\n",
+				"date_published": "2023-04-08T14:13:26-05:00",
+				"url": "https://micro.bjhess.com/2023/04/08/i-was-reminded.html",
+				"tags": ["Hacking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/04/07/185732.html",
 				
 				"content_html": "<p><img src=\"uploads/2023/7f3b162aba.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
