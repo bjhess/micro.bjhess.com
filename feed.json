@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/04/29/i-ran-into.html",
+				
+				"content_html": "<p>I ran into a very insightful suggestion on a podcast recently. It was related to those of us trying to get in better shape after 45 or 50. Basically, the most important aspect of a workout routine for us is not getting injured. Injury becomes harder to bounce back from as we age.</p>\n",
+				"content_text": "I ran into a very insightful suggestion on a podcast recently. It was related to those of us trying to get in better shape after 45 or 50. Basically, the most important aspect of a workout routine for us is not getting injured. Injury becomes harder to bounce back from as we age.\n",
+				"date_published": "2023-04-29T11:08:49-05:00",
+				"url": "https://micro.bjhess.com/2023/04/29/i-ran-into.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/04/28/about-a-year.html",
+				
+				"content_html": "<p>About a year ago I wrote about my HTML-only blog, but I’m giving Bear Blog a try now. Not having a text field on the internet is such friction. I knew it going in, and I still know it now.</p>\n",
+				"content_text": "About a year ago I wrote about my HTML-only blog, but I’m giving Bear Blog a try now. Not having a text field on the internet is such friction. I knew it going in, and I still know it now.\n",
+				"date_published": "2023-04-28T19:31:31-05:00",
+				"url": "https://micro.bjhess.com/2023/04/28/about-a-year.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/04/27/the-true-history.html",
+				
+				"content_html": "<blockquote>\n  <p>\n    The true history of the world is the history of great conversations.\n  </p>\n\n  <p>– <cite>Peter Dinklage as Tyrion Lannister</cite></p>\n</blockquote>\n\n<p>I and some friends have started a movie forum/group. (Disclosure: it&rsquo;s on software my company is writing. Dual purpose.) If you&rsquo;re interested to talk movies every week or two, let me know if you&rsquo;d like to join (barry at bjhess dot com). We&rsquo;d love to have more folks involved such that the conversation gets going and gets interesting! Here&rsquo;s the <a href=\"https://ponder.us/group/movies-movies-movies/discussions/49\">intro post</a>.</p>\n",
+				"content_text": "<blockquote>\n  <p>\n    The true history of the world is the history of great conversations.\n  </p>\n\n  <p>– <cite>Peter Dinklage as Tyrion Lannister</cite></p>\n</blockquote>\n\nI and some friends have started a movie forum/group. (Disclosure: it's on software my company is writing. Dual purpose.) If you're interested to talk movies every week or two, let me know if you'd like to join (barry at bjhess dot com). We'd love to have more folks involved such that the conversation gets going and gets interesting! Here's the [intro post](https://ponder.us/group/movies-movies-movies/discussions/49).\n",
+				"date_published": "2023-04-27T13:00:03-05:00",
+				"url": "https://micro.bjhess.com/2023/04/27/the-true-history.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/04/26/that-was-pretty.html",
+				
+				"content_html": "<p>That was pretty good. Hiatus Kaiyote.</p>\n\n<p><img src=\"uploads/2023/280d927491.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "That was pretty good. Hiatus Kaiyote.\n\n<img src=\"uploads/2023/280d927491.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-26T01:00:17-05:00",
+				"url": "https://micro.bjhess.com/2023/04/26/that-was-pretty.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/04/25/i-did-a.html",
+				
+				"content_html": "<p>I did a bit of a blog over at Good Enough. This was basically written 6 weeks ago. I probably should quicken up the turnaround time. 🤣</p>\n\n<p><a href=\"https://goodenough.us/blog/2023-04-25-actual-customer-support-is-remarkable/\">Actual Customer Support Is Remarkable</a></p>\n",
+				"content_text": "I did a bit of a blog over at Good Enough. This was basically written 6 weeks ago. I probably should quicken up the turnaround time. 🤣\r\n\r\n[Actual Customer Support Is Remarkable](https://goodenough.us/blog/2023-04-25-actual-customer-support-is-remarkable/)\n",
+				"date_published": "2023-04-25T15:34:01-05:00",
+				"url": "https://micro.bjhess.com/2023/04/25/i-did-a.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/04/22/when-in-houston.html",
 				
 				"content_html": "<p>When in Houston.</p>\n\n<p><img src=\"uploads/2023/79895d0a47.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
