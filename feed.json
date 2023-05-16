@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/05/15/ah-the-time.html",
+				
+				"content_html": "<p>Ah, the time honored tradition of not passing your driver’s test for obscure happenstance. Daughter’ll get ‘em next time, but certainly doesn’t feel good right now.</p>\n",
+				"content_text": "Ah, the time honored tradition of not passing your driver’s test for obscure happenstance. Daughter’ll get ‘em next time, but certainly doesn’t feel good right now.\n",
+				"date_published": "2023-05-15T14:41:03-05:00",
+				"url": "https://micro.bjhess.com/2023/05/15/ah-the-time.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/05/12/oh-and-heres.html",
+				
+				"content_html": "<p>Oh, and here&rsquo;s our latest <a href=\"https://goodenoughnews.substack.com/p/season-3-issue-3-cosmic-maelstrom\">Good Enough Newsletter</a>.</p>\n\n<p>Sign up if you&rsquo;d like to keep updated on Good Enough happenings. Expect to see our output and sharing to increase a lot in the next couple of months. (Though July will be more quiet for sure.)</p>\n",
+				"content_text": "Oh, and here's our latest [Good Enough Newsletter](https://goodenoughnews.substack.com/p/season-3-issue-3-cosmic-maelstrom).\r\n\r\nSign up if you'd like to keep updated on Good Enough happenings. Expect to see our output and sharing to increase a lot in the next couple of months. (Though July will be more quiet for sure.)\n",
+				"date_published": "2023-05-12T15:07:18-05:00",
+				"url": "https://micro.bjhess.com/2023/05/12/oh-and-heres.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/05/12/whelp-we-used.html",
+				
+				"content_html": "<p>Whelp, we used ChatGPT to write our mission statement and I’m pretty happy with the results: <a href=\"https://goodenough.us/blog/2023-05-12-our-chatgpt-mission-statement/\">goodenough.us/blog/2023&hellip;</a></p>\n",
+				"content_text": "Whelp, we used ChatGPT to write our mission statement and I’m pretty happy with the results: [goodenough.us/blog/2023...](https://goodenough.us/blog/2023-05-12-our-chatgpt-mission-statement/)\n",
+				"date_published": "2023-05-12T14:17:24-05:00",
+				"url": "https://micro.bjhess.com/2023/05/12/whelp-we-used.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/05/11/im-in-the.html",
 				
 				"content_html": "<p>I’m in the process of trying to move from a consumption mindset to more of a creation mindset across my life. That implies less scrolling through micro.blog and Mastodon. Wish me luck!</p>\n",
@@ -33,16 +57,16 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/05/07/ah-the-spirit.html",
 				
-				"content_html": "<p>Ah, the spirit of music.</p>\n\n<p><img src=\"uploads/2023/f9321ade5e.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Ah, the spirit of music.\n\n<img src=\"uploads/2023/f9321ade5e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Ah, the spirit of music.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/f9321ade5e.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Ah, the spirit of music.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/f9321ade5e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-07T09:33:05-05:00",
 				"url": "https://micro.bjhess.com/2023/05/07/ah-the-spirit.html"
 			},
 			{
 				"id": "http://bjhess.micro.blog/2023/05/06/lots-of-frank.html",
 				
-				"content_html": "<p>Lots of Frank Lloyd Wright today.</p>\n\n<p><img src=\"uploads/2023/4448b757a6.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Lots of Frank Lloyd Wright today.\n\n<img src=\"uploads/2023/4448b757a6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Lots of Frank Lloyd Wright today.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/4448b757a6.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Lots of Frank Lloyd Wright today.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/4448b757a6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-06T14:49:40-05:00",
 				"url": "https://micro.bjhess.com/2023/05/06/lots-of-frank.html",
 				"tags": ["Traveling"]
