@@ -7,10 +7,72 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/06/13/i-probably-havent.html",
+				
+				"content_html": "<p>I probably haven&rsquo;t officially asked here as I&rsquo;m not very comfortable publicizing myself… If you have any interest in following along as we build weird software (and a weird company) at Good Enough, I encourage you to sign up for <a href=\"https://goodenoughnews.substack.com/\">A Good Enough Newsletter</a>. It&rsquo;s silly and occasionally informative!</p>\n",
+				"content_text": "I probably haven't officially asked here as I'm not very comfortable publicizing myself… If you have any interest in following along as we build weird software (and a weird company) at Good Enough, I encourage you to sign up for [A Good Enough Newsletter](https://goodenoughnews.substack.com/). It's silly and occasionally informative!\n",
+				"date_published": "2023-06-13T07:35:00-05:00",
+				"url": "https://micro.bjhess.com/2023/06/13/i-probably-havent.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/12/so-heres-the.html",
+				
+				"content_html": "<p>So here&rsquo;s the question. If I want to search for a place real people are talking about, say, &ldquo;Affordable <a href=\"https://drinklmnt.com/\">LMNT</a> alternatives,&rdquo; what are my options on today&rsquo;s internet other than searching &ldquo;Affordable LMNT alternatives reddit&rdquo;? (Not altogether working at the moment as half of Reddit has went private.)</p>\n",
+				"content_text": "So here's the question. If I want to search for a place real people are talking about, say, \"Affordable [LMNT](https://drinklmnt.com/) alternatives,\" what are my options on today's internet other than searching \"Affordable LMNT alternatives reddit\"? (Not altogether working at the moment as half of Reddit has went private.)\n",
+				"date_published": "2023-06-12T13:50:24-05:00",
+				"url": "https://micro.bjhess.com/2023/06/12/so-heres-the.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/10/barenaked-ladies.html",
+				
+				"content_html": "<p>Barenaked Ladies.</p>\n\n<p><img src=\"uploads/2023/71550a3db7.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Barenaked Ladies.\n\n<img src=\"uploads/2023/71550a3db7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-10T21:27:28-05:00",
+				"url": "https://micro.bjhess.com/2023/06/10/barenaked-ladies.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/10/semisonic.html",
+				
+				"content_html": "<p>Semisonic.</p>\n\n<p><img src=\"uploads/2023/19cb738fcb.jpg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
+				"content_text": "Semisonic.\n\n<img src=\"uploads/2023/19cb738fcb.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-06-10T20:54:50-05:00",
+				"url": "https://micro.bjhess.com/2023/06/10/semisonic.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/10/del-amitri.html",
+				
+				"content_html": "<p>Del Amitri</p>\n\n<p><img src=\"uploads/2023/a2af458264.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Del Amitri\n\n<img src=\"uploads/2023/a2af458264.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-10T19:04:25-05:00",
+				"url": "https://micro.bjhess.com/2023/06/10/del-amitri.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/10/the-apple-watch.html",
+				
+				"content_html": "<p>The Apple Watch feature that I want is automatically recording outdoor walks omg.</p>\n",
+				"content_text": "The Apple Watch feature that I want is automatically recording outdoor walks omg.\n",
+				"date_published": "2023-06-10T13:43:29-05:00",
+				"url": "https://micro.bjhess.com/2023/06/10/the-apple-watch.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/08/i-find-this.html",
+				
+				"content_html": "<p>I find this to be amazing. Needless to say I haven&rsquo;t watched much of my Twins in the past month. Zzzz.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/263ff76def.jpeg\" width=\"274\" height=\"236\" alt=\"MLB American League Central and no one has a winning record\"></p>\n",
+				"content_text": "I find this to be amazing. Needless to say I haven't watched much of my Twins in the past month. Zzzz.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/263ff76def.jpeg\" width=\"274\" height=\"236\" alt=\"MLB American League Central and no one has a winning record\">\n",
+				"date_published": "2023-06-08T14:59:12-05:00",
+				"url": "https://micro.bjhess.com/2023/06/08/i-find-this.html",
+				"tags": ["Watching"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/06/07/190919.html",
 				
-				"content_html": "<p><img src=\"uploads/2023/89b3c94d7c.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2023/89b3c94d7c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/89b3c94d7c.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/89b3c94d7c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-07T19:09:19-05:00",
 				"url": "https://micro.bjhess.com/2023/06/07/190919.html"
 			},
@@ -43,8 +105,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/06/01/111425.html",
 				
-				"content_html": "<p><img src=\"uploads/2023/9ee9a57b37.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2023/9ee9a57b37.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/9ee9a57b37.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/9ee9a57b37.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-06-01T11:14:25-05:00",
 				"url": "https://micro.bjhess.com/2023/06/01/111425.html"
 			},
@@ -75,8 +137,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/05/30/200643.html",
 				
-				"content_html": "<p><img src=\"uploads/2023/769b575ec8.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2023/769b575ec8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/769b575ec8.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/769b575ec8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-30T20:06:43-05:00",
 				"url": "https://micro.bjhess.com/2023/05/30/200643.html"
 			},
