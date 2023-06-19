@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/06/15/215250.html",
+				
+				"content_html": "<p><img src=\"uploads/2023/b0cb024771.jpg\" width=\"600\" height=\"600\" alt=\"Watch for fork trucks sign on a door at a manufacturing building.\"></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2023/b0cb024771.jpg\" width=\"600\" height=\"600\" alt=\"Watch for fork trucks sign on a door at a manufacturing building.\">\n",
+				"date_published": "2023-06-15T21:52:50-05:00",
+				"url": "https://micro.bjhess.com/2023/06/15/215250.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/15/let-the-fast.html",
+				
+				"content_html": "<p>Let the fast and furious marching band season begin!</p>\n",
+				"content_text": "Let the fast and furious marching band season begin!\n",
+				"date_published": "2023-06-15T11:52:01-05:00",
+				"url": "https://micro.bjhess.com/2023/06/15/let-the-fast.html",
+				"tags": ["Watching","Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/14/we-got-more.html",
+				
+				"content_html": "<p>We got more than we bargained for <a href=\"https://bjhess.bearblog.dev/twins-walk-off-and-more/\">at the Twins game</a> last night!</p>\n",
+				"content_text": "We got more than we bargained for [at the Twins game](https://bjhess.bearblog.dev/twins-walk-off-and-more/) last night!\n",
+				"date_published": "2023-06-14T10:29:42-05:00",
+				"url": "https://micro.bjhess.com/2023/06/14/we-got-more.html",
+				"tags": ["Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/13/lucked-into-something.html",
+				
+				"content_html": "<p>Lucked into something.</p>\n\n<p><img src=\"uploads/2023/49bb09b100.jpg\" width=\"600\" height=\"450\" alt=\"Twins Brewers baseball game viewed from close seats.\"></p>\n",
+				"content_text": "Lucked into something.\n\n<img src=\"uploads/2023/49bb09b100.jpg\" width=\"600\" height=\"450\" alt=\"Twins Brewers baseball game viewed from close seats.\">\n",
+				"date_published": "2023-06-13T18:43:17-05:00",
+				"url": "https://micro.bjhess.com/2023/06/13/lucked-into-something.html",
+				"tags": ["Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/13/finished-reading-recursion.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781524759797\">Recursion: A Novel</a> by Blake Crouch 📚</p>\n\n<p>Pretty, pretty, pretty good!</p>\n",
+				"content_text": "Finished reading: [Recursion: A Novel](https://micro.blog/books/9781524759797) by Blake Crouch 📚\r\n\r\nPretty, pretty, pretty good!\n",
+				"date_published": "2023-06-13T12:59:45-05:00",
+				"url": "https://micro.bjhess.com/2023/06/13/finished-reading-recursion.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/06/13/i-probably-havent.html",
 				
 				"content_html": "<p>I probably haven&rsquo;t officially asked here as I&rsquo;m not very comfortable publicizing myself… If you have any interest in following along as we build weird software (and a weird company) at Good Enough, I encourage you to sign up for <a href=\"https://goodenoughnews.substack.com/\">A Good Enough Newsletter</a>. It&rsquo;s silly and occasionally informative!</p>\n",
@@ -26,8 +70,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/06/10/barenaked-ladies.html",
 				
-				"content_html": "<p>Barenaked Ladies.</p>\n\n<p><img src=\"uploads/2023/71550a3db7.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Barenaked Ladies.\n\n<img src=\"uploads/2023/71550a3db7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Barenaked Ladies.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/71550a3db7.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Barenaked Ladies.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/71550a3db7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-10T21:27:28-05:00",
 				"url": "https://micro.bjhess.com/2023/06/10/barenaked-ladies.html",
 				"tags": ["Listening"]
@@ -35,8 +79,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/06/10/semisonic.html",
 				
-				"content_html": "<p>Semisonic.</p>\n\n<p><img src=\"uploads/2023/19cb738fcb.jpg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
-				"content_text": "Semisonic.\n\n<img src=\"uploads/2023/19cb738fcb.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p>Semisonic.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/19cb738fcb.jpg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
+				"content_text": "Semisonic.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/19cb738fcb.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-06-10T20:54:50-05:00",
 				"url": "https://micro.bjhess.com/2023/06/10/semisonic.html",
 				"tags": ["Listening"]
@@ -44,8 +88,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/06/10/del-amitri.html",
 				
-				"content_html": "<p>Del Amitri</p>\n\n<p><img src=\"uploads/2023/a2af458264.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Del Amitri\n\n<img src=\"uploads/2023/a2af458264.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Del Amitri</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/a2af458264.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Del Amitri\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/a2af458264.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-10T19:04:25-05:00",
 				"url": "https://micro.bjhess.com/2023/06/10/del-amitri.html",
 				"tags": ["Listening"]
