@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/06/24/sometimes-i-pull.html",
+				
+				"content_html": "<p>Sometimes I pull rabbits out of hats as a dad, but I don&rsquo;t think magicking Taylor Swift tickets in the ballpark of reasonable for tonight&rsquo;s show is going to happen.</p>\n",
+				"content_text": "Sometimes I pull rabbits out of hats as a dad, but I don't think magicking Taylor Swift tickets in the ballpark of reasonable for tonight's show is going to happen.\n",
+				"date_published": "2023-06-24T16:53:27-05:00",
+				"url": "https://micro.bjhess.com/2023/06/24/sometimes-i-pull.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/22/i-dislike-throwing.html",
+				
+				"content_html": "<p>I dislike throwing things away. Do I spend $80+ (and time) replacing the main board of a 10-year-old 47&rdquo; TV that I don&rsquo;t really need any more? Maybe I could send it with my daughter to college. Or give it to someone. Why is it so hard for me to just responsibly throw the thing out?</p>\n",
+				"content_text": "I dislike throwing things away. Do I spend $80+ (and time) replacing the main board of a 10-year-old 47\" TV that I don't really need any more? Maybe I could send it with my daughter to college. Or give it to someone. Why is it so hard for me to just responsibly throw the thing out?\n",
+				"date_published": "2023-06-22T16:16:26-05:00",
+				"url": "https://micro.bjhess.com/2023/06/22/i-dislike-throwing.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/21/i-can-just.html",
+				
+				"content_html": "<p>I can just share this when people ask what we&rsquo;re doing right now at Good Enough: <a href=\"https://goodenough.us/blog/2023-06-20-cosmic-maelstrom/\">goodenough.us/blog/2023&hellip;</a></p>\n",
+				"content_text": "I can just share this when people ask what we're doing right now at Good Enough: [goodenough.us/blog/2023...](https://goodenough.us/blog/2023-06-20-cosmic-maelstrom/)\n",
+				"date_published": "2023-06-21T08:33:00-05:00",
+				"url": "https://micro.bjhess.com/2023/06/21/i-can-just.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/20/looking-around-it.html",
+				
+				"content_html": "<p>Looking around, it both feels like America doesn’t care to drive regular cars anymore and America has the most hatchbacks that have ever hatchbacked.</p>\n\n<p>A hatchcback by any other name would smell as sweet.</p>\n",
+				"content_text": "Looking around, it both feels like America doesn’t care to drive regular cars anymore and America has the most hatchbacks that have ever hatchbacked.\n\nA hatchcback by any other name would smell as sweet.\n",
+				"date_published": "2023-06-20T10:19:29-05:00",
+				"url": "https://micro.bjhess.com/2023/06/20/looking-around-it.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/06/15/215250.html",
 				
 				"content_html": "<p><img src=\"uploads/2023/b0cb024771.jpg\" width=\"600\" height=\"600\" alt=\"Watch for fork trucks sign on a door at a manufacturing building.\"></p>\n",
@@ -35,8 +68,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/06/13/lucked-into-something.html",
 				
-				"content_html": "<p>Lucked into something.</p>\n\n<p><img src=\"uploads/2023/49bb09b100.jpg\" width=\"600\" height=\"450\" alt=\"Twins Brewers baseball game viewed from close seats.\"></p>\n",
-				"content_text": "Lucked into something.\n\n<img src=\"uploads/2023/49bb09b100.jpg\" width=\"600\" height=\"450\" alt=\"Twins Brewers baseball game viewed from close seats.\">\n",
+				"content_html": "<p>Lucked into something.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/49bb09b100.jpg\" width=\"600\" height=\"450\" alt=\"Twins Brewers baseball game viewed from close seats.\"></p>\n",
+				"content_text": "Lucked into something.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/49bb09b100.jpg\" width=\"600\" height=\"450\" alt=\"Twins Brewers baseball game viewed from close seats.\">\n",
 				"date_published": "2023-06-13T18:43:17-05:00",
 				"url": "https://micro.bjhess.com/2023/06/13/lucked-into-something.html",
 				"tags": ["Watching"]
