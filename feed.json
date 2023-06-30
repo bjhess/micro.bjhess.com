@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/06/28/have-you-ever.html",
+				
+				"content_html": "<p>Have you ever simply wanted to post some markdown to the internet and receive a link to a beautifully rendered version of said markdown? Good Enough has got you covered with <a href=\"https://tinyurl.com/quack-beta-about\">Quack (Beta)</a>. Give it a try and let us know what you think!</p>\n",
+				"content_text": "Have you ever simply wanted to post some markdown to the internet and receive a link to a beautifully rendered version of said markdown? Good Enough has got you covered with [Quack (Beta)](https://tinyurl.com/quack-beta-about). Give it a try and let us know what you think! \n",
+				"date_published": "2023-06-28T16:48:26-05:00",
+				"url": "https://micro.bjhess.com/2023/06/28/have-you-ever.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/06/26/achy-breaky-heart.html",
+				
+				"content_html": "<p><em>Achy Breaky Heart</em> reached a higher peak on the Billboard pop charts than <em>Smells Like Teen Spirit</em>.</p>\n",
+				"content_text": "_Achy Breaky Heart_ reached a higher peak on the Billboard pop charts than _Smells Like Teen Spirit_.\n",
+				"date_published": "2023-06-26T19:19:08-05:00",
+				"url": "https://micro.bjhess.com/2023/06/26/achy-breaky-heart.html",
+				"tags": ["Listening"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/06/24/sometimes-i-pull.html",
 				
 				"content_html": "<p>Sometimes I pull rabbits out of hats as a dad, but I don&rsquo;t think magicking Taylor Swift tickets in the ballpark of reasonable for tonight&rsquo;s show is going to happen.</p>\n",
@@ -42,8 +60,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/06/15/215250.html",
 				
-				"content_html": "<p><img src=\"uploads/2023/b0cb024771.jpg\" width=\"600\" height=\"600\" alt=\"Watch for fork trucks sign on a door at a manufacturing building.\"></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2023/b0cb024771.jpg\" width=\"600\" height=\"600\" alt=\"Watch for fork trucks sign on a door at a manufacturing building.\">\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/b0cb024771.jpg\" width=\"600\" height=\"600\" alt=\"Watch for fork trucks sign on a door at a manufacturing building.\"></p>\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/b0cb024771.jpg\" width=\"600\" height=\"600\" alt=\"Watch for fork trucks sign on a door at a manufacturing building.\">\n",
 				"date_published": "2023-06-15T21:52:50-05:00",
 				"url": "https://micro.bjhess.com/2023/06/15/215250.html"
 			},
