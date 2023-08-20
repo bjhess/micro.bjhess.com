@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/08/19/remember-the-photo.html",
+				
+				"content_html": "<p><a href=\"https://bjhess.bearblog.dev/remember-the-photo-blog/\">Remember the Photo Blog</a>, inspired by <a href=\"https://micro.blog/skoobz\">@skoobz</a> and <a href=\"https://micro.blog/jthingelstad\">@jthingelstad</a>.</p>\n",
+				"content_text": "[Remember the Photo Blog](https://bjhess.bearblog.dev/remember-the-photo-blog/), inspired by [@skoobz](https://micro.blog/skoobz) and [@jthingelstad](https://micro.blog/jthingelstad).\n",
+				"date_published": "2023-08-19T11:06:21-05:00",
+				"url": "https://micro.bjhess.com/2023/08/19/remember-the-photo.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/08/19/new-wong-yall.html",
+				
+				"content_html": "<p>New Wong, y&rsquo;all! <a href=\"https://albumwhale.com/albums/4760\">Cory Wong - <em>The Lucky One</em></a>.</p>\n",
+				"content_text": "New Wong, y'all! [Cory Wong - _The Lucky One_](https://albumwhale.com/albums/4760).\n",
+				"date_published": "2023-08-19T10:39:09-05:00",
+				"url": "https://micro.bjhess.com/2023/08/19/new-wong-yall.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/08/18/the-latest-good.html",
+				
+				"content_html": "<p><a href=\"https://goodenoughnews.substack.com/p/season-3-issue-16\">The latest Good Enough Newsletter</a> includes a link to receive a mailing of <em>A Good Enough Zine</em>. Please sign up and send us those address deets if you&rsquo;d like to participate in the Zine experiment. Thank you!</p>\n",
+				"content_text": "[The latest Good Enough Newsletter](https://goodenoughnews.substack.com/p/season-3-issue-16) includes a link to receive a mailing of _A Good Enough Zine_. Please sign up and send us those address deets if you'd like to participate in the Zine experiment. Thank you!\n",
+				"date_published": "2023-08-18T13:18:45-05:00",
+				"url": "https://micro.bjhess.com/2023/08/18/the-latest-good.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/08/17/looking-forward-to.html",
+				
+				"content_html": "<p>Looking forward to Manu’s <a href=\"https://manuelmoreale.com/people-and-blogs\">People and Blogs</a></p>\n",
+				"content_text": "Looking forward to Manu’s [People and Blogs](https://manuelmoreale.com/people-and-blogs)\n",
+				"date_published": "2023-08-17T23:00:06-05:00",
+				"url": "https://micro.bjhess.com/2023/08/17/looking-forward-to.html",
+				"tags": ["Linking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/08/14/a-blog-about.html",
 				
 				"content_html": "<p>A blog about <a href=\"https://bjhess.bearblog.dev/fast-car/\"><em>Fast Car</em></a>.</p>\n",
