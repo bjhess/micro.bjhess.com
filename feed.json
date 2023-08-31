@@ -7,6 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/08/28/yes-throwing-it.html",
+				
+				"content_html": "<p>Yes, throwing it back.</p>\n\n<p><img src=\"uploads/2023/9f2eb90402.jpg\" width=\"600\" height=\"450\" alt=\"Boyz II Men at the Minnesota State Fair\"></p>\n",
+				"content_text": "Yes, throwing it back.\n\n<img src=\"uploads/2023/9f2eb90402.jpg\" width=\"600\" height=\"450\" alt=\"Boyz II Men at the Minnesota State Fair\">\n",
+				"date_published": "2023-08-28T00:08:43-05:00",
+				"url": "https://micro.bjhess.com/2023/08/28/yes-throwing-it.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/08/27/throwing-it-back.html",
+				
+				"content_html": "<p>Throwing it back in time tonight.</p>\n\n<p><img src=\"uploads/2023/37b047a8d4.jpg\" width=\"600\" height=\"450\" alt=\"Chaka Kahn at Minnesota State Fair\"></p>\n",
+				"content_text": "Throwing it back in time tonight.\n\n<img src=\"uploads/2023/37b047a8d4.jpg\" width=\"600\" height=\"450\" alt=\"Chaka Kahn at Minnesota State Fair\">\n",
+				"date_published": "2023-08-27T20:37:25-05:00",
+				"url": "https://micro.bjhess.com/2023/08/27/throwing-it-back.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/08/27/japanese-nail-houses.html",
+				
+				"content_html": "<p>Japanese nail houses: <a href=\"https://lonelyrobottheme.substack.com/p/japanese-nail-houses\">lonelyrobottheme.substack.com/p/japanes&hellip;</a></p>\n\n<p>Interesting in light of the saying “the nail that sticks out gets hammered down”: <a href=\"https://en.m.wiktionary.org/wiki/the_nail_that_sticks_out_gets_hammered_down\">https://en.m.wiktionary.org/wiki/the_nail_that_sticks_out_gets_hammered_down</a></p>\n",
+				"content_text": "Japanese nail houses: [lonelyrobottheme.substack.com/p/japanes...](https://lonelyrobottheme.substack.com/p/japanese-nail-houses)\n\nInteresting in light of the saying “the nail that sticks out gets hammered down”: https://en.m.wiktionary.org/wiki/the_nail_that_sticks_out_gets_hammered_down\n",
+				"date_published": "2023-08-27T14:33:46-05:00",
+				"url": "https://micro.bjhess.com/2023/08/27/japanese-nail-houses.html",
+				"tags": ["Reading","Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/08/27/just-passed-the.html",
+				
+				"content_html": "<p>Just passed <a href=\"https://bookshop.org/p/books/the-many-masks-of-andy-zhou/18842614\"><em>The Many Masks of Andy Zhou</em></a> by Jack Cheng to my seventh grader. If you have a middle schooler in your life, I highly recommend picking up this lovely, real, and introspective book up for them. And for you.</p>\n",
+				"content_text": "Just passed [_The Many Masks of Andy Zhou_](https://bookshop.org/p/books/the-many-masks-of-andy-zhou/18842614) by Jack Cheng to my seventh grader. If you have a middle schooler in your life, I highly recommend picking up this lovely, real, and introspective book up for them. And for you.\n",
+				"date_published": "2023-08-27T08:54:05-05:00",
+				"url": "https://micro.bjhess.com/2023/08/27/just-passed-the.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/08/26/til-chad-smith.html",
+				
+				"content_html": "<p>TIL: Chad Smith (Red Hot Chili Peppers) <a href=\"https://www.discogs.com/master/1849371-Dua-Lipa-Break-My-Heart\">played drums on</a> Dua Lipa’s <em>Break My Heart</em>.</p>\n",
+				"content_text": "TIL: Chad Smith (Red Hot Chili Peppers) [played drums on](https://www.discogs.com/master/1849371-Dua-Lipa-Break-My-Heart) Dua Lipa’s _Break My Heart_.\n",
+				"date_published": "2023-08-26T23:41:34-05:00",
+				"url": "https://micro.bjhess.com/2023/08/26/til-chad-smith.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/08/26/not-an-active.html",
+				"title": "Not an active threat",
+				"content_html": "<p><a href=\"https://www.chicagotribune.com/news/breaking/ct-sox-park-shooting-20230826-hcpdrc5xqfhkzdxp4ywx5evfse-story.html\">Last night there were gunshot wounds at a White Sox game</a> in the third inning, and two women were hit by bullets. The police and security deemed it not &ldquo;an active threat&rdquo; even though they had/have no leads as to what happened. Game rolled on.</p>\n\n<p>I was surprised to see the number of fans in the bleachers for an OAK-CHW game (picture midway down the page). Then I got to the bottom of the page and saw there was supposed to be a Vanilla Ice/Tone Loc concert after the game, which was cancelled for &ldquo;technical reasons.&rdquo; That&rsquo;s why.</p>\n\n<p>Technical reasons? Technically Vanilla Ice didn’t want to get shot.</p>\n\n<p>Good. Lord.</p>\n",
+				"content_text": "[Last night there were gunshot wounds at a White Sox game](https://www.chicagotribune.com/news/breaking/ct-sox-park-shooting-20230826-hcpdrc5xqfhkzdxp4ywx5evfse-story.html) in the third inning, and two women were hit by bullets. The police and security deemed it not \"an active threat\" even though they had/have no leads as to what happened. Game rolled on.\r\n\r\nI was surprised to see the number of fans in the bleachers for an OAK-CHW game (picture midway down the page). Then I got to the bottom of the page and saw there was supposed to be a Vanilla Ice/Tone Loc concert after the game, which was cancelled for \"technical reasons.\" That's why.\r\n\r\nTechnical reasons? Technically Vanilla Ice didn’t want to get shot.\r\n\r\nGood. Lord.\n",
+				"date_published": "2023-08-26T11:28:13-05:00",
+				"url": "https://micro.bjhess.com/2023/08/26/not-an-active.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/08/23/hey-yall-i.html",
 				
 				"content_html": "<p>Hey, y&rsquo;all, I got my first Apple Music Discovery Station recommendation!</p>\n\n<p><img src=\"uploads/2023/hootie.png\" width=\"600\" height=\"100\" alt=\"\"></p>\n",
