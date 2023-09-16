@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/09/15/i-adored-hasan.html",
+				
+				"content_html": "<p>I adored Hasan Minhaj’s <em>Homecoming King</em>. That makes <a href=\"https://www.newyorker.com/news/annals-of-communications/hasan-minhajs-emotional-truths\">this story</a> especially disappointing. Sure, make up stories. But when you include real people, identifiably, and keep “emotional truthing” the lies you told about them?! Come on.</p>\n",
+				"content_text": "I adored Hasan Minhaj’s _Homecoming King_. That makes [this story](https://www.newyorker.com/news/annals-of-communications/hasan-minhajs-emotional-truths) especially disappointing. Sure, make up stories. But when you include real people, identifiably, and keep “emotional truthing” the lies you told about them?! Come on.\n",
+				"date_published": "2023-09-15T18:30:38-05:00",
+				"url": "https://micro.bjhess.com/2023/09/15/i-adored-hasan.html",
+				"tags": ["Reading","Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/09/15/surprised-myself-in.html",
+				
+				"content_html": "<p>Surprised myself in self-discovering that at most times if I&rsquo;m alone I&rsquo;d rather watch a pro video game streamer&rsquo;s feed (currently <em>Fortnite</em>) than a sporting event.</p>\n",
+				"content_text": "Surprised myself in self-discovering that at most times if I'm alone I'd rather watch a pro video game streamer's feed (currently _Fortnite_) than a sporting event. \n",
+				"date_published": "2023-09-15T11:54:44-05:00",
+				"url": "https://micro.bjhess.com/2023/09/15/surprised-myself-in.html",
+				"tags": ["Watching","Playing"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/09/12/janelle-mone-was.html",
+				
+				"content_html": "<p>Janelle Monáe was very good. Glad to have seen her live.</p>\n\n<p><img src=\"uploads/2023/fdc4a51ad6.jpg\" width=\"600\" height=\"450\" alt=\"Janelle Monae at The Armory, Minneapolis\"></p>\n",
+				"content_text": "Janelle Monáe was very good. Glad to have seen her live.\n\n<img src=\"uploads/2023/fdc4a51ad6.jpg\" width=\"600\" height=\"450\" alt=\"Janelle Monae at The Armory, Minneapolis\">\n",
+				"date_published": "2023-09-12T00:54:06-05:00",
+				"url": "https://micro.bjhess.com/2023/09/12/janelle-mone-was.html",
+				"tags": ["Listening"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/09/09/quite-an-interesting.html",
 				
 				"content_html": "<p>Quite an interesting project: <a href=\"https://motd.co/2023/09/postmarks-launch/\">Postmarks</a> single-user bookmarking website.</p>\n",
