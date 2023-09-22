@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/09/20/the-ticketmaster-four.html",
+				
+				"content_html": "<p>The Ticketmaster four ticket limit is really a bummer for a family of five.</p>\n",
+				"content_text": "The Ticketmaster four ticket limit is really a bummer for a family of five.\n",
+				"date_published": "2023-09-20T22:59:07-05:00",
+				"url": "https://micro.bjhess.com/2023/09/20/the-ticketmaster-four.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/09/20/oh-i-finally.html",
+				
+				"content_html": "<p>Oh, I finally broke down and ordered an iPad Mini. That means a new announcement is imminent!</p>\n",
+				"content_text": "Oh, I finally broke down and ordered an iPad Mini. That means a new announcement is imminent!\n",
+				"date_published": "2023-09-20T17:54:39-05:00",
+				"url": "https://micro.bjhess.com/2023/09/20/oh-i-finally.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/09/19/some-good-stuff.html",
+				
+				"content_html": "<p>Some good stuff hitting <a href=\"https://goodenough.us/printer/\">the Good Enough printer</a>. Thanks, <a href=\"https://micro.blog/jthingelstad\">@jthingelstad</a>! 😆</p>\n\n<p><img src=\"uploads/2023/ge-printer-230918-good-stuff.jpeg\" width=\"505\" height=\"600\" alt=\"\"><img src=\"uploads/2023/ge-printer-230918-weekly-ponder.jpeg\" width=\"505\" height=\"600\" alt=\"\"><img src=\"uploads/2023/ge-printer-230918-counts.jpeg\" width=\"505\" height=\"600\" alt=\"\"><img src=\"uploads/2023/ge-printer-230918-all-work.jpeg\" width=\"505\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Some good stuff hitting [the Good Enough printer](https://goodenough.us/printer/). Thanks, [@jthingelstad](https://micro.blog/jthingelstad)! 😆\n\n<img src=\"uploads/2023/ge-printer-230918-good-stuff.jpeg\" width=\"505\" height=\"600\" alt=\"\"><img src=\"uploads/2023/ge-printer-230918-weekly-ponder.jpeg\" width=\"505\" height=\"600\" alt=\"\"><img src=\"uploads/2023/ge-printer-230918-counts.jpeg\" width=\"505\" height=\"600\" alt=\"\"><img src=\"uploads/2023/ge-printer-230918-all-work.jpeg\" width=\"505\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-19T15:46:21-05:00",
+				"url": "https://micro.bjhess.com/2023/09/19/some-good-stuff.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/09/19/giving-panics-nova.html",
+				
+				"content_html": "<p>Giving Panic&rsquo;s <a href=\"https://nova.app/\">Nova</a> for Ruby on Rails development a try, so far with the Ruby on Rails extension (by Tommaso Negri) and that&rsquo;s it. Happy to hear other extension suggestions. Been using VS Code for some years, but it seems constantly in &ldquo;what&rsquo;s the best configuration?&rdquo; hell. We&rsquo;ll see how it goes.</p>\n",
+				"content_text": "Giving Panic's [Nova](https://nova.app/) for Ruby on Rails development a try, so far with the Ruby on Rails extension (by Tommaso Negri) and that's it. Happy to hear other extension suggestions. Been using VS Code for some years, but it seems constantly in \"what's the best configuration?\" hell. We'll see how it goes.\n",
+				"date_published": "2023-09-19T09:48:13-05:00",
+				"url": "https://micro.bjhess.com/2023/09/19/giving-panics-nova.html",
+				"tags": ["Hacking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/09/15/i-adored-hasan.html",
 				
 				"content_html": "<p>I adored Hasan Minhaj’s <em>Homecoming King</em>. That makes <a href=\"https://www.newyorker.com/news/annals-of-communications/hasan-minhajs-emotional-truths\">this story</a> especially disappointing. Sure, make up stories. But when you include real people, identifiably, and keep “emotional truthing” the lies you told about them?! Come on.</p>\n",
