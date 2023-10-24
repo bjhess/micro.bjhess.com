@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/10/23/i-somehow-finished.html",
+				
+				"content_html": "<p>I somehow finished reading <em>White Noise</em> by Don DeLillo. Is the movie better?</p>\n",
+				"content_text": "I somehow finished reading _White Noise_ by Don DeLillo. Is the movie better?\n",
+				"date_published": "2023-10-23T16:17:51-05:00",
+				"url": "https://micro.bjhess.com/2023/10/23/i-somehow-finished.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/10/22/someone-tell-me.html",
+				
+				"content_html": "<p>Someone tell me when I <em>should</em> update to watchOS 10.</p>\n",
+				"content_text": "Someone tell me when I _should_ update to watchOS 10.\n",
+				"date_published": "2023-10-22T13:00:18-05:00",
+				"url": "https://micro.bjhess.com/2023/10/22/someone-tell-me.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/10/20/one-big-hurdle.html",
+				
+				"content_html": "<p>One big hurdle for me in woodworking / home projects is the design process. When I&rsquo;m in the mood to woodwork, I&rsquo;d rather not sit at a computer. (In this case for an entire afternoon.) It is really necessary for layout and to think through things.</p>\n\n<p>Now I can finally start on this closet shelving.</p>\n\n<p><img src=\"uploads/2023/kitchen-closet.png\" width=\"530\" height=\"600\" alt=\"KItchen Closet design in SketchUp software\"></p>\n",
+				"content_text": "One big hurdle for me in woodworking / home projects is the design process. When I'm in the mood to woodwork, I'd rather not sit at a computer. (In this case for an entire afternoon.) It is really necessary for layout and to think through things.\r\n\r\nNow I can finally start on this closet shelving.\n\n<img src=\"uploads/2023/kitchen-closet.png\" width=\"530\" height=\"600\" alt=\"KItchen Closet design in SketchUp software\">\n",
+				"date_published": "2023-10-20T18:43:15-05:00",
+				"url": "https://micro.bjhess.com/2023/10/20/one-big-hurdle.html",
+				"tags": ["Woodworking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/10/19/where-do-you.html",
 				
 				"content_html": "<p>Where do you pick up audiobooks? I don’t listen at a fast enough pace for Audible, but I’m running out of reasonable options at the library (Libby). Either the wait is months or the books are 18 hours, which I can’t finish before they’re due.</p>\n",
