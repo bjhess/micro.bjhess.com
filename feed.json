@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/10/30/when-do-we.html",
+				
+				"content_html": "<p>When do we get the Mark Zuckerberg episode of Hot Ones?</p>\n",
+				"content_text": "When do we get the Mark Zuckerberg episode of Hot Ones?\n",
+				"date_published": "2023-10-30T12:40:45-05:00",
+				"url": "https://micro.bjhess.com/2023/10/30/when-do-we.html",
+				"tags": ["Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/10/29/ive-been-collecting.html",
+				
+				"content_html": "<p>I&rsquo;ve been collecting a <a href=\"https://publish.obsidian.md/bjhess/%40Public/Links/Weekly+Link+Checks\">linkroll of places</a> I like to visit from time to time to discover new weird wide web sites. (Sorry in advance that this page will probably move to a different URL in the next couple of months.)</p>\n",
+				"content_text": "I've been collecting a [linkroll of places](https://publish.obsidian.md/bjhess/%40Public/Links/Weekly+Link+Checks) I like to visit from time to time to discover new weird wide web sites. (Sorry in advance that this page will probably move to a different URL in the next couple of months.)\n",
+				"date_published": "2023-10-29T11:28:55-05:00",
+				"url": "https://micro.bjhess.com/2023/10/29/ive-been-collecting.html",
+				"tags": ["Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/10/27/weirdwidewebsite.html",
+				
+				"content_html": "<p>weirdwide.website</p>\n",
+				"content_text": "weirdwide.website\n",
+				"date_published": "2023-10-27T16:56:30-05:00",
+				"url": "https://micro.bjhess.com/2023/10/27/weirdwidewebsite.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/10/27/i-wonder-what.html",
+				
+				"content_html": "<p>I wonder what it would cost to buy weirdwideweb.com?</p>\n",
+				"content_text": "I wonder what it would cost to buy weirdwideweb.com?\n",
+				"date_published": "2023-10-27T14:40:37-05:00",
+				"url": "https://micro.bjhess.com/2023/10/27/i-wonder-what.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/10/26/its-been-a.html",
+				
+				"content_html": "<p>It&rsquo;s been a minute since I posted about Yay.Boo. We now have <a href=\"https://yay.boo/favorites\">some example pages</a> to hopefully inspire you to make something even cooler/weirder. What will you Yay.Boo?</p>\n",
+				"content_text": "It's been a minute since I posted about Yay.Boo. We now have [some example pages](https://yay.boo/favorites) to hopefully inspire you to make something even cooler/weirder. What will you Yay.Boo?\n",
+				"date_published": "2023-10-26T14:23:30-05:00",
+				"url": "https://micro.bjhess.com/2023/10/26/its-been-a.html",
+				"tags": ["Hacking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/10/23/i-somehow-finished.html",
 				
 				"content_html": "<p>I somehow finished reading <em>White Noise</em> by Don DeLillo. Is the movie better?</p>\n",
