@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/11/03/today-good-enoughs.html",
+				
+				"content_html": "<p>Today Good Enough&rsquo;s <a href=\"https://letterbird.co/\">Letterbird</a> takes flight. Letterbird is a free contact form on the web that allows you to receive emails without plopping your email address on the open internet. Pro features, too, if you’d like to fine-tune. More to come!</p>\n",
+				"content_text": "Today Good Enough's [Letterbird](https://letterbird.co/) takes flight. Letterbird is a free contact form on the web that allows you to receive emails without plopping your email address on the open internet. Pro features, too, if you’d like to fine-tune. More to come!\r\n\r\n",
+				"date_published": "2023-11-03T14:41:43-05:00",
+				"url": "https://micro.bjhess.com/2023/11/03/today-good-enoughs.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/10/31/anyone-out-there.html",
+				
+				"content_html": "<p>Anyone out there just use Facebook Marketplace and not Facebook proper? Like is that possible? I&rsquo;ve been off Facebook for a decade, but Marketplace is the only game in town to unload some of our extra, still useful stuff. Craigslist doesn&rsquo;t really have much of a market here.</p>\n",
+				"content_text": "Anyone out there just use Facebook Marketplace and not Facebook proper? Like is that possible? I've been off Facebook for a decade, but Marketplace is the only game in town to unload some of our extra, still useful stuff. Craigslist doesn't really have much of a market here.\n",
+				"date_published": "2023-10-31T08:04:00-05:00",
+				"url": "https://micro.bjhess.com/2023/10/31/anyone-out-there.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/10/30/this-year-ive.html",
+				
+				"content_html": "<p>This year I&rsquo;ve learned to appreciate walking as a healthy habit. It&rsquo;s getting cold and I think I&rsquo;ll need to buy one of those walking-desk treadmills. It&rsquo;s very not the same to walk on such a thing versus the outdoors, but…cold.</p>\n\n<p>(Also, I should probably buck up and walk outdoors in the current 30°F.)</p>\n",
+				"content_text": "This year I've learned to appreciate walking as a healthy habit. It's getting cold and I think I'll need to buy one of those walking-desk treadmills. It's very not the same to walk on such a thing versus the outdoors, but…cold.\r\n\r\n(Also, I should probably buck up and walk outdoors in the current 30°F.)\n",
+				"date_published": "2023-10-30T16:16:21-05:00",
+				"url": "https://micro.bjhess.com/2023/10/30/this-year-ive.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/10/30/when-do-we.html",
 				
 				"content_html": "<p>When do we get the Mark Zuckerberg episode of Hot Ones?</p>\n",
