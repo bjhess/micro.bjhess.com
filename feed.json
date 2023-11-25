@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/11/22/one-more-blog.html",
+				
+				"content_html": "<p>One. More. Blog. Software!</p>\n\n<p>Our little alpha at GE is coming along. Hopefully something play-withable early next month.</p>\n\n<p><img src=\"uploads/2023/pika.png\" width=\"600\" height=\"429\" alt=\"Screenshots of an upcoming blog software by Good Enough.\"><img src=\"uploads/2023/pika-dark-mode.png\" width=\"600\" height=\"427\" alt=\"Screenshots of an upcoming blog software by Good Enough. In dark mode.\"></p>\n",
+				"content_text": "One. More. Blog. Software!\r\n\r\nOur little alpha at GE is coming along. Hopefully something play-withable early next month.\n\n<img src=\"uploads/2023/pika.png\" width=\"600\" height=\"429\" alt=\"Screenshots of an upcoming blog software by Good Enough.\"><img src=\"uploads/2023/pika-dark-mode.png\" width=\"600\" height=\"427\" alt=\"Screenshots of an upcoming blog software by Good Enough. In dark mode.\">\n",
+				"date_published": "2023-11-22T15:57:53-06:00",
+				"url": "https://micro.bjhess.com/2023/11/22/one-more-blog.html",
+				"tags": ["Hacking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/11/19/last-night-i.html",
 				
 				"content_html": "<p>Last night I saw Brit Floyd for the second time this year. In a smaller city, closer to where we live, so felt good supporting acts coming to that venue. And they are still great! Oh, and was able to bring two of my children. 😊</p>\n\n<p><img src=\"uploads/2023/img-3805.jpeg\" width=\"600\" height=\"450\" alt=\"Brit Floyd in concert, depicting the Dark Side of the Moon prism cover, also repeated with laser light.\"></p>\n",
