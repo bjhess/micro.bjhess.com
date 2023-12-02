@@ -7,18 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/12/02/i-just-learned.html",
+				
+				"content_html": "<p>I just learned that DICK’s Sporting Goods bought Moosejaw, which made me sad. Moosejaw emails and copy always make me laugh. Then I learned that DICK’s bought them from Walmart. So 🤷‍♂️? (Then I learned that DICK’s shut down a bunch of the stores, so 😞 again.)</p>\n",
+				"content_text": "I just learned that DICK’s Sporting Goods bought Moosejaw, which made me sad. Moosejaw emails and copy always make me laugh. Then I learned that DICK’s bought them from Walmart. So 🤷‍♂️? (Then I learned that DICK’s shut down a bunch of the stores, so 😞 again.)\n",
+				"date_published": "2023-12-02T12:42:03-06:00",
+				"url": "https://micro.bjhess.com/2023/12/02/i-just-learned.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/12/01/after-nearly-years.html",
+				
+				"content_html": "<p>After nearly 20 years I, with help from Good Enough, finally wrote blogging software. Now, now, <a href=\"https://pika.page\">Pika</a> is just an alpha version, but it&rsquo;ll grow into something special. I can feel it! <a href=\"https://pika.pika.page/posts/launching-pika-in-alpha\">Read more</a> if you&rsquo;re interested.</p>\n",
+				"content_text": "After nearly 20 years I, with help from Good Enough, finally wrote blogging software. Now, now, [Pika](https://pika.page) is just an alpha version, but it'll grow into something special. I can feel it! [Read more](https://pika.pika.page/posts/launching-pika-in-alpha) if you're interested.\n",
+				"date_published": "2023-12-01T09:38:34-06:00",
+				"url": "https://micro.bjhess.com/2023/12/01/after-nearly-years.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/11/30/my-apple-music.html",
+				
+				"content_html": "<p>My Apple Music Replay is completely fictional. When Tina Turner died I probably listened to 10 songs. She’s my 2nd artist on Replay at 1,989 minutes. Ike &amp; Tina add another 1,020 minutes. What the heck?!</p>\n",
+				"content_text": "My Apple Music Replay is completely fictional. When Tina Turner died I probably listened to 10 songs. She’s my 2nd artist on Replay at 1,989 minutes. Ike & Tina add another 1,020 minutes. What the heck?!\n",
+				"date_published": "2023-11-30T07:31:54-06:00",
+				"url": "https://micro.bjhess.com/2023/11/30/my-apple-music.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/11/29/a-fascinating-review.html",
+				
+				"content_html": "<p><a href=\"https://uproxx.com/indie/garth-brooks-seven-cd-box-set-bass-pro-shops-time-traveler-review/\">A fascinating review</a> of the new Garth Brooks release.</p>\n\n<blockquote>\n<p>Call him the James Harden of country music.</p>\n</blockquote>\n",
+				"content_text": "[A fascinating review](https://uproxx.com/indie/garth-brooks-seven-cd-box-set-bass-pro-shops-time-traveler-review/) of the new Garth Brooks release.\n\n> Call him the James Harden of country music.\n",
+				"date_published": "2023-11-29T17:20:07-06:00",
+				"url": "https://micro.bjhess.com/2023/11/29/a-fascinating-review.html",
+				"tags": ["Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/11/29/we-plan-to.html",
+				
+				"content_html": "<p>We plan to open up an <em>alpha</em> version of our blog software later today or tomorrow morning (US). It will be very basic to start, and the next significant developments probably won’t happen until early 2024. Still, if early adoption (and influence) is your jam, keep your ears open!</p>\n",
+				"content_text": "We plan to open up an _alpha_ version of our blog software later today or tomorrow morning (US). It will be very basic to start, and the next significant developments probably won’t happen until early 2024. Still, if early adoption (and influence) is your jam, keep your ears open!\n",
+				"date_published": "2023-11-29T12:17:22-06:00",
+				"url": "https://micro.bjhess.com/2023/11/29/we-plan-to.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/11/28/snack-time-a.html",
+				
+				"content_html": "<p>Snack time. A favorite that came home with us from Japan.</p>\n\n<p><img src=\"uploads/2023/59fde50921.jpg\" width=\"600\" height=\"450\" alt=\"Spicy rice cracker snack from Japan\"></p>\n",
+				"content_text": "Snack time. A favorite that came home with us from Japan.\n\n<img src=\"uploads/2023/59fde50921.jpg\" width=\"600\" height=\"450\" alt=\"Spicy rice cracker snack from Japan\">\n",
+				"date_published": "2023-11-28T15:34:37-06:00",
+				"url": "https://micro.bjhess.com/2023/11/28/snack-time-a.html",
+				"tags": ["Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/11/27/im-ordering-tickets.html",
+				
+				"content_html": "<p>I&rsquo;m ordering 4 tickets to a medium-sized college basketball game. It&rsquo;s through AXS. 4 tickets, $76, and only $4 of AXS fees. How is that possible?! If it&rsquo;s possible, why can&rsquo;t big time artists negotiate reduced fees?!</p>\n",
+				"content_text": "I'm ordering 4 tickets to a medium-sized college basketball game. It's through AXS. 4 tickets, $76, and only $4 of AXS fees. How is that possible?! If it's possible, why can't big time artists negotiate reduced fees?!\n",
+				"date_published": "2023-11-27T17:39:25-06:00",
+				"url": "https://micro.bjhess.com/2023/11/27/im-ordering-tickets.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/11/27/ive-had-my.html",
+				
+				"content_html": "<p>I’ve had my iPad mini for a month or so and must say it hasn’t been as life-changing as the YouTube algorithm implied. Barely using it. Though if it kept a charge for a month rather than a few days, I think I’d be more impressed at those rare moments when I want to pick it up.</p>\n",
+				"content_text": "I’ve had my iPad mini for a month or so and must say it hasn’t been as life-changing as the YouTube algorithm implied. Barely using it. Though if it kept a charge for a month rather than a few days, I think I’d be more impressed at those rare moments when I want to pick it up.\n",
+				"date_published": "2023-11-27T11:50:16-06:00",
+				"url": "https://micro.bjhess.com/2023/11/27/ive-had-my.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/11/26/that-feels-good.html",
 				
-				"content_html": "<p>That feels good. Only 13 years after getting the standing desk!</p>\n\n<p><img src=\"uploads/2023/fa680a2eca.jpg\" width=\"600\" height=\"450\" alt=\"Under desk before cable management.\"><img src=\"uploads/2023/cc5ff5c8f9.jpg\" width=\"600\" height=\"450\" alt=\"Under desk after cable management.\"></p>\n",
-				"content_text": "That feels good. Only 13 years after getting the standing desk!\n\n<img src=\"uploads/2023/fa680a2eca.jpg\" width=\"600\" height=\"450\" alt=\"Under desk before cable management.\"><img src=\"uploads/2023/cc5ff5c8f9.jpg\" width=\"600\" height=\"450\" alt=\"Under desk after cable management.\">\n",
+				"content_html": "<p>That feels good. Only 13 years after getting the standing desk!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/fa680a2eca.jpg\" width=\"600\" height=\"450\" alt=\"Under desk before cable management.\"><img src=\"https://cdn.uploads.micro.blog/25320/2023/cc5ff5c8f9.jpg\" width=\"600\" height=\"450\" alt=\"Under desk after cable management.\"></p>\n",
+				"content_text": "That feels good. Only 13 years after getting the standing desk!\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/fa680a2eca.jpg\" width=\"600\" height=\"450\" alt=\"Under desk before cable management.\"><img src=\"https://cdn.uploads.micro.blog/25320/2023/cc5ff5c8f9.jpg\" width=\"600\" height=\"450\" alt=\"Under desk after cable management.\">\n",
 				"date_published": "2023-11-26T17:34:16-06:00",
 				"url": "https://micro.bjhess.com/2023/11/26/that-feels-good.html"
 			},
 			{
 				"id": "http://bjhess.micro.blog/2023/11/25/trying-on-the.html",
 				
-				"content_html": "<p>Trying on the IBM Plex font family.</p>\n\n<p><img src=\"uploads/2023/bjhess-pika-with-ibm-plex-fonts.png\" width=\"600\" height=\"352\" alt=\"Pika blog software testing with IBM Plex font family.\"></p>\n",
-				"content_text": "Trying on the IBM Plex font family.\n\n<img src=\"uploads/2023/bjhess-pika-with-ibm-plex-fonts.png\" width=\"600\" height=\"352\" alt=\"Pika blog software testing with IBM Plex font family.\">\n",
+				"content_html": "<p>Trying on the IBM Plex font family.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/bjhess-pika-with-ibm-plex-fonts.png\" width=\"600\" height=\"352\" alt=\"Pika blog software testing with IBM Plex font family.\"></p>\n",
+				"content_text": "Trying on the IBM Plex font family.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/bjhess-pika-with-ibm-plex-fonts.png\" width=\"600\" height=\"352\" alt=\"Pika blog software testing with IBM Plex font family.\">\n",
 				"date_published": "2023-11-25T21:45:24-06:00",
 				"url": "https://micro.bjhess.com/2023/11/25/trying-on-the.html",
 				"tags": ["Hacking"]
@@ -34,8 +103,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/11/22/one-more-blog.html",
 				
-				"content_html": "<p>One. More. Blog. Software!</p>\n\n<p>Our little alpha at GE is coming along. Hopefully something play-withable early next month.</p>\n\n<p><img src=\"uploads/2023/pika.png\" width=\"600\" height=\"429\" alt=\"Screenshots of an upcoming blog software by Good Enough.\"><img src=\"uploads/2023/pika-dark-mode.png\" width=\"600\" height=\"427\" alt=\"Screenshots of an upcoming blog software by Good Enough. In dark mode.\"></p>\n",
-				"content_text": "One. More. Blog. Software!\r\n\r\nOur little alpha at GE is coming along. Hopefully something play-withable early next month.\n\n<img src=\"uploads/2023/pika.png\" width=\"600\" height=\"429\" alt=\"Screenshots of an upcoming blog software by Good Enough.\"><img src=\"uploads/2023/pika-dark-mode.png\" width=\"600\" height=\"427\" alt=\"Screenshots of an upcoming blog software by Good Enough. In dark mode.\">\n",
+				"content_html": "<p>One. More. Blog. Software!</p>\n\n<p>Our little alpha at GE is coming along. Hopefully something play-withable early next month.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/pika.png\" width=\"600\" height=\"429\" alt=\"Screenshots of an upcoming blog software by Good Enough.\"><img src=\"https://cdn.uploads.micro.blog/25320/2023/pika-dark-mode.png\" width=\"600\" height=\"427\" alt=\"Screenshots of an upcoming blog software by Good Enough. In dark mode.\"></p>\n",
+				"content_text": "One. More. Blog. Software!\r\n\r\nOur little alpha at GE is coming along. Hopefully something play-withable early next month.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/pika.png\" width=\"600\" height=\"429\" alt=\"Screenshots of an upcoming blog software by Good Enough.\"><img src=\"https://cdn.uploads.micro.blog/25320/2023/pika-dark-mode.png\" width=\"600\" height=\"427\" alt=\"Screenshots of an upcoming blog software by Good Enough. In dark mode.\">\n",
 				"date_published": "2023-11-22T15:57:53-06:00",
 				"url": "https://micro.bjhess.com/2023/11/22/one-more-blog.html",
 				"tags": ["Hacking"]
@@ -43,8 +112,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/11/19/last-night-i.html",
 				
-				"content_html": "<p>Last night I saw Brit Floyd for the second time this year. In a smaller city, closer to where we live, so felt good supporting acts coming to that venue. And they are still great! Oh, and was able to bring two of my children. 😊</p>\n\n<p><img src=\"uploads/2023/img-3805.jpeg\" width=\"600\" height=\"450\" alt=\"Brit Floyd in concert, depicting the Dark Side of the Moon prism cover, also repeated with laser light.\"></p>\n",
-				"content_text": "Last night I saw Brit Floyd for the second time this year. In a smaller city, closer to where we live, so felt good supporting acts coming to that venue. And they are still great! Oh, and was able to bring two of my children. 😊\n\n<img src=\"uploads/2023/img-3805.jpeg\" width=\"600\" height=\"450\" alt=\"Brit Floyd in concert, depicting the Dark Side of the Moon prism cover, also repeated with laser light.\">\n",
+				"content_html": "<p>Last night I saw Brit Floyd for the second time this year. In a smaller city, closer to where we live, so felt good supporting acts coming to that venue. And they are still great! Oh, and was able to bring two of my children. 😊</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/img-3805.jpeg\" width=\"600\" height=\"450\" alt=\"Brit Floyd in concert, depicting the Dark Side of the Moon prism cover, also repeated with laser light.\"></p>\n",
+				"content_text": "Last night I saw Brit Floyd for the second time this year. In a smaller city, closer to where we live, so felt good supporting acts coming to that venue. And they are still great! Oh, and was able to bring two of my children. 😊\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/img-3805.jpeg\" width=\"600\" height=\"450\" alt=\"Brit Floyd in concert, depicting the Dark Side of the Moon prism cover, also repeated with laser light.\">\n",
 				"date_published": "2023-11-19T12:29:39-06:00",
 				"url": "https://micro.bjhess.com/2023/11/19/last-night-i.html",
 				"tags": ["Listening"]
