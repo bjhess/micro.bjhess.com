@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/12/07/robin-rendle-makes.html",
+				
+				"content_html": "<p>Robin Rendle makes you think, with a perfect line: <a href=\"https://robinrendle.com/notes/i-am-a-poem-i-am-not-software/\">I am a poem I am not software</a>. Of course <a href=\"https://yay.boo/\">Yay.Boo</a> comes to mind as one of many ways to play with that idea. And of course this makes me think a little differently about <a href=\"https://pika.page/\">Pika</a>.</p>\n",
+				"content_text": "Robin Rendle makes you think, with a perfect line: [I am a poem I am not software](https://robinrendle.com/notes/i-am-a-poem-i-am-not-software/). Of course [Yay.Boo](https://yay.boo/) comes to mind as one of many ways to play with that idea. And of course this makes me think a little differently about [Pika](https://pika.page/).\n",
+				"date_published": "2023-12-07T08:24:54-06:00",
+				"url": "https://micro.bjhess.com/2023/12/07/robin-rendle-makes.html",
+				"tags": ["Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/12/04/explain-to-me.html",
+				
+				"content_html": "<p>Explain to me how Apple has gotten away with its Calendar email notification implementation being broken for somewhere around a decade? (Well, ever since I started using it.) Loses/forgets that I&rsquo;ve set an event for email notification over and over again. Also &ldquo;helpfully&rdquo; adds alert notifications.</p>\n",
+				"content_text": "Explain to me how Apple has gotten away with its Calendar email notification implementation being broken for somewhere around a decade? (Well, ever since I started using it.) Loses/forgets that I've set an event for email notification over and over again. Also \"helpfully\" adds alert notifications.\n",
+				"date_published": "2023-12-04T08:49:51-06:00",
+				"url": "https://micro.bjhess.com/2023/12/04/explain-to-me.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/12/02/i-just-learned.html",
 				
 				"content_html": "<p>I just learned that DICK’s Sporting Goods bought Moosejaw, which made me sad. Moosejaw emails and copy always make me laugh. Then I learned that DICK’s bought them from Walmart. So 🤷‍♂️? (Then I learned that DICK’s shut down a bunch of the stores, so 😞 again.)</p>\n",
@@ -53,8 +70,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2023/11/28/snack-time-a.html",
 				
-				"content_html": "<p>Snack time. A favorite that came home with us from Japan.</p>\n\n<p><img src=\"uploads/2023/59fde50921.jpg\" width=\"600\" height=\"450\" alt=\"Spicy rice cracker snack from Japan\"></p>\n",
-				"content_text": "Snack time. A favorite that came home with us from Japan.\n\n<img src=\"uploads/2023/59fde50921.jpg\" width=\"600\" height=\"450\" alt=\"Spicy rice cracker snack from Japan\">\n",
+				"content_html": "<p>Snack time. A favorite that came home with us from Japan.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2023/59fde50921.jpg\" width=\"600\" height=\"450\" alt=\"Spicy rice cracker snack from Japan\"></p>\n",
+				"content_text": "Snack time. A favorite that came home with us from Japan.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2023/59fde50921.jpg\" width=\"600\" height=\"450\" alt=\"Spicy rice cracker snack from Japan\">\n",
 				"date_published": "2023-11-28T15:34:37-06:00",
 				"url": "https://micro.bjhess.com/2023/11/28/snack-time-a.html",
 				"tags": ["Traveling"]
