@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/12/14/wondering-if-anyone.html",
+				
+				"content_html": "<p>Wondering if anyone has this workflow (readflow?)?</p>\n\n<p>Subscribe to site via RSS &gt;\nSkim feed reader to decide what to/what not to read &gt;\nSend “want to read” things to a read-later service (like Matter) &gt;\nOnly actually read via the read-later service</p>\n\n<p>i.e. never read things in your feed reader.</p>\n",
+				"content_text": "Wondering if anyone has this workflow (readflow?)?\n\nSubscribe to site via RSS > \nSkim feed reader to decide what to/what not to read > \nSend “want to read” things to a read-later service (like Matter) > \nOnly actually read via the read-later service\n\ni.e. never read things in your feed reader.\n",
+				"date_published": "2023-12-14T15:28:25-06:00",
+				"url": "https://micro.bjhess.com/2023/12/14/wondering-if-anyone.html",
+				"tags": ["Reading","Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/12/13/for-the-rest.html",
+				
+				"content_html": "<p>For the rest of the month I’m going to try things like Play (<a href=\"https://marcosatanaka.com/#play\">https://marcosatanaka.com/#play</a>) and Matter as a way to consume, adding things that I run into via blogs or conversations. That and the feed reader. Maybe I’ll get rid of some of these tabs as well…</p>\n",
+				"content_text": "For the rest of the month I’m going to try things like Play (https://marcosatanaka.com/#play) and Matter as a way to consume, adding things that I run into via blogs or conversations. That and the feed reader. Maybe I’ll get rid of some of these tabs as well…\n",
+				"date_published": "2023-12-13T19:50:54-06:00",
+				"url": "https://micro.bjhess.com/2023/12/13/for-the-rest.html",
+				"tags": ["Watching","Reading","Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/12/10/i-wrote-this.html",
+				
+				"content_html": "<p>I wrote this in my personal log, but then thought…why not write it here?</p>\n\n<p>What if I stripped back to basics online for the rest of the year? Just my blog/my site? No socials? What if I asked others to do it with me to explore the world of email and blogging as our only form of communication?</p>\n",
+				"content_text": "I wrote this in my personal log, but then thought…why not write it here?\n\nWhat if I stripped back to basics online for the rest of the year? Just my blog/my site? No socials? What if I asked others to do it with me to explore the world of email and blogging as our only form of communication?\n",
+				"date_published": "2023-12-10T11:40:47-06:00",
+				"url": "https://micro.bjhess.com/2023/12/10/i-wrote-this.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/12/07/robin-rendle-makes.html",
 				
 				"content_html": "<p>Robin Rendle makes you think, with a perfect line: <a href=\"https://robinrendle.com/notes/i-am-a-poem-i-am-not-software/\">I am a poem I am not software</a>. Of course <a href=\"https://yay.boo/\">Yay.Boo</a> comes to mind as one of many ways to play with that idea. And of course this makes me think a little differently about <a href=\"https://pika.page/\">Pika</a>.</p>\n",
