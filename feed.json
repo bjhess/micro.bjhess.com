@@ -7,6 +7,59 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/12/20/steve-wilson-has.html",
+				
+				"content_html": "<p>Steve Wilson has ChatGPT write a Christmas song in the style of Steven Wilson. <a href=\"https://youtu.be/lQHqxPvzOI8?si=DXn8yWNvBO2U9Bv-\">December Skies</a>.</p>\n",
+				"content_text": "Steve Wilson has ChatGPT write a Christmas song in the style of Steven Wilson. [December Skies](https://youtu.be/lQHqxPvzOI8?si=DXn8yWNvBO2U9Bv-).\n",
+				"date_published": "2023-12-20T07:21:41-06:00",
+				"url": "https://micro.bjhess.com/2023/12/20/steve-wilson-has.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/12/19/pika-pages-have.html",
+				
+				"content_html": "<p>Pika Pages have arrived! It’s still a little rough around the edges, but I can now run my personal site on Pika. <a href=\"https://pika.pika.page/posts/pika-pages\">pika.pika.page/posts/pik&hellip;</a></p>\n",
+				"content_text": "Pika Pages have arrived! It’s still a little rough around the edges, but I can now run my personal site on Pika. [pika.pika.page/posts/pik...](https://pika.pika.page/posts/pika-pages)\n",
+				"date_published": "2023-12-19T11:34:23-06:00",
+				"url": "https://micro.bjhess.com/2023/12/19/pika-pages-have.html",
+				"tags": ["Linking","Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/12/17/listening-to-the.html",
+				
+				"content_html": "<p>Listening to the preview of <a href=\"https://overcast.fm/+yIOzKLkGw\"><em>The Power Broker</em> podcast</a> and felt intrigued enough to consider reading the 1,200 page book. And now I’ve learned that it’s not availablee in digital formats?! Wow! Perfect book to not buy physical, for weight and highlighting reasons. Will have to think on it.</p>\n",
+				"content_text": "Listening to the preview of [_The Power Broker_ podcast](https://overcast.fm/+yIOzKLkGw) and felt intrigued enough to consider reading the 1,200 page book. And now I’ve learned that it’s not availablee in digital formats?! Wow! Perfect book to not buy physical, for weight and highlighting reasons. Will have to think on it.\n",
+				"date_published": "2023-12-17T18:21:31-06:00",
+				"url": "https://micro.bjhess.com/2023/12/17/listening-to-the.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/12/17/giving-omnivore-a.html",
+				
+				"content_html": "<p>Giving Omnivore a try over Matter. Looks like a solid option with a nice sync-highlights-to-Obsidian feature.</p>\n",
+				"content_text": "Giving Omnivore a try over Matter. Looks like a solid option with a nice sync-highlights-to-Obsidian feature.\n",
+				"date_published": "2023-12-17T08:40:12-06:00",
+				"url": "https://micro.bjhess.com/2023/12/17/giving-omnivore-a.html",
+				"tags": ["Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/12/16/i-brought-up.html",
+				
+				"content_html": "<p>I brought up desk treadmills in the past, but the roadblock in my mind is what do I do with it when I want too sit or stand? My office doesn’t have a lot of space. I can’t imagine many of them are designed to flip up on edge. Any practical tips are welcomed!</p>\n",
+				"content_text": "I brought up desk treadmills in the past, but the roadblock in my mind is what do I do with it when I want too sit or stand? My office doesn’t have a lot of space. I can’t imagine many of them are designed to flip up on edge. Any practical tips are welcomed!\n",
+				"date_published": "2023-12-16T09:11:22-06:00",
+				"url": "https://micro.bjhess.com/2023/12/16/i-brought-up.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/12/15/this-weeks-pika.html",
+				
+				"content_html": "<p>This week&rsquo;s Pika status, along with some personal-site inspiration: <a href=\"https://pika.pika.page/posts/pika-gliding-along\">Pika Gliding Along</a>.</p>\n",
+				"content_text": "This week's Pika status, along with some personal-site inspiration: [Pika Gliding Along](https://pika.pika.page/posts/pika-gliding-along).\n",
+				"date_published": "2023-12-15T08:43:44-06:00",
+				"url": "https://micro.bjhess.com/2023/12/15/this-weeks-pika.html",
+				"tags": ["Linking","Hacking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/12/14/wondering-if-anyone.html",
 				
 				"content_html": "<p>Wondering if anyone has this workflow (readflow?)?</p>\n\n<p>Subscribe to site via RSS &gt;\nSkim feed reader to decide what to/what not to read &gt;\nSend “want to read” things to a read-later service (like Matter) &gt;\nOnly actually read via the read-later service</p>\n\n<p>i.e. never read things in your feed reader.</p>\n",
