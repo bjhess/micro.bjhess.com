@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2023/12/23/im-so-glad.html",
+				
+				"content_html": "<p>I&rsquo;m so glad that I got two of these <a href=\"https://www.etsy.com/listing/1509438668/i-think-you-should-leave-tim-robinson?show_sold_out_detail=1&amp;ref=nla_listing_details\">Tim Robinson Zip Line guys</a> before they sold out!</p>\n",
+				"content_text": "I'm so glad that I got two of these [Tim Robinson Zip Line guys](https://www.etsy.com/listing/1509438668/i-think-you-should-leave-tim-robinson?show_sold_out_detail=1&ref=nla_listing_details) before they sold out!\n",
+				"date_published": "2023-12-23T19:05:25-06:00",
+				"url": "https://micro.bjhess.com/2023/12/23/im-so-glad.html",
+				"tags": ["Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/12/23/adam-woods-adam.html",
+				
+				"content_html": "<p>Adam Wood’s (@adam) <a href=\"https://blog.zioibi.com/2023/12/23/the-list.html\">2023 album list</a> is out! That means I have plenty to listen to in 2024. Yay!</p>\n",
+				"content_text": "Adam Wood’s (@adam) [2023 album list](https://blog.zioibi.com/2023/12/23/the-list.html) is out! That means I have plenty to listen to in 2024. Yay! \n",
+				"date_published": "2023-12-23T09:49:03-06:00",
+				"url": "https://micro.bjhess.com/2023/12/23/adam-woods-adam.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2023/12/21/over-on-the.html",
+				
+				"content_html": "<p>Over on the Pika side, worked the past day+ to update posts so that they <a href=\"https://pika.pika.page/posts/2023-12-21-titleless-posts-have-been/\">no longer require a title</a>. Fantastic! Thank you for the heavy doses of inspiration, <a href=\"https://micro.blog/amit\">@amit</a> and <a href=\"https://micro.blog/petebrown\">@petebrown</a>!</p>\n",
+				"content_text": "Over on the Pika side, worked the past day+ to update posts so that they [no longer require a title](https://pika.pika.page/posts/2023-12-21-titleless-posts-have-been/). Fantastic! Thank you for the heavy doses of inspiration, [@amit](https://micro.blog/amit) and [@petebrown](https://micro.blog/petebrown)!\n",
+				"date_published": "2023-12-21T12:23:01-06:00",
+				"url": "https://micro.bjhess.com/2023/12/21/over-on-the.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2023/12/20/steve-wilson-has.html",
 				
 				"content_html": "<p>Steve Wilson has ChatGPT write a Christmas song in the style of Steven Wilson. <a href=\"https://youtu.be/lQHqxPvzOI8?si=DXn8yWNvBO2U9Bv-\">December Skies</a>.</p>\n",
