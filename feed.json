@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/01/06/letting-three-domains.html",
+				
+				"content_html": "<p>Letting three domains expire: thingslearned.net, thingslearned.org, and thingsfound.org. These were gathered in my &ldquo;maybe I should be a low-rent Kottke&rdquo; phase. Hopefully I don&rsquo;t stop learning or finding things!</p>\n",
+				"content_text": "Letting three domains expire: thingslearned.net, thingslearned.org, and thingsfound.org. These were gathered in my \"maybe I should be a low-rent Kottke\" phase. Hopefully I don't stop learning or finding things!\n",
+				"date_published": "2024-01-06T12:50:22-06:00",
+				"url": "https://micro.bjhess.com/2024/01/06/letting-three-domains.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/06/parents-of-us.html",
+				
+				"content_html": "<p>Parents of U.S. college kids, how you liking that FAFSA rollout amirite?</p>\n",
+				"content_text": "Parents of U.S. college kids, how you liking that FAFSA rollout amirite?\n",
+				"date_published": "2024-01-06T12:39:49-06:00",
+				"url": "https://micro.bjhess.com/2024/01/06/parents-of-us.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/03/just-deployed-draft.html",
+				
+				"content_html": "<p>Just deployed <a href=\"https://pika.pika.page/posts/drafts-alpha-are-a-go\">draft posts</a> to Pika. Felt <em>a bit</em> uncomfortable as it doesn&rsquo;t have quite the refinement that we like to have in a feature - even if it&rsquo;s early days. Should clean up in the next week or two, though!</p>\n",
+				"content_text": "Just deployed [draft posts](https://pika.pika.page/posts/drafts-alpha-are-a-go) to Pika. Felt _a bit_ uncomfortable as it doesn't have quite the refinement that we like to have in a feature - even if it's early days. Should clean up in the next week or two, though!\n",
+				"date_published": "2024-01-03T16:17:56-06:00",
+				"url": "https://micro.bjhess.com/2024/01/03/just-deployed-draft.html",
+				"tags": ["Hacking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/01/02/paku-paku-genius.html",
 				
 				"content_html": "<p><a href=\"https://abagames.github.io/crisp-game-lib-11-games/?pakupaku\">Paku Paku</a>. Genius.</p>\n",
