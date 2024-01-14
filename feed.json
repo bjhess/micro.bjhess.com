@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/01/12/youre-a-blogger.html",
+				
+				"content_html": "<p><a href=\"https://pika.bjhess.com/posts/you-re-a-blogger-not-an-essayist\">You&rsquo;re a Blogger, Not an Essayist</a></p>\n",
+				"content_text": "[You're a Blogger, Not an Essayist](https://pika.bjhess.com/posts/you-re-a-blogger-not-an-essayist)\n",
+				"date_published": "2024-01-12T15:52:54-06:00",
+				"url": "https://micro.bjhess.com/2024/01/12/youre-a-blogger.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/12/we-at-good.html",
+				
+				"content_html": "<p>We at Good Enough have been cranking on Pika this week. None of this has really landed in the product, so it seems <a href=\"https://pika.pika.page/posts/you-re-gonna-love-what-we-re-silently-building\">an update is in order</a>.</p>\n",
+				"content_text": "We at Good Enough have been cranking on Pika this week. None of this has really landed in the product, so it seems [an update is in order](https://pika.pika.page/posts/you-re-gonna-love-what-we-re-silently-building).\n",
+				"date_published": "2024-01-12T11:12:15-06:00",
+				"url": "https://micro.bjhess.com/2024/01/12/we-at-good.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/08/flights-to-iceland.html",
+				
+				"content_html": "<p>Flights to Iceland booked for July. Now to get planning!</p>\n",
+				"content_text": "Flights to Iceland booked for July. Now to get planning!\n",
+				"date_published": "2024-01-08T19:55:16-06:00",
+				"url": "https://micro.bjhess.com/2024/01/08/flights-to-iceland.html",
+				"tags": ["Traveling"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/01/06/letting-three-domains.html",
 				
 				"content_html": "<p>Letting three domains expire: thingslearned.net, thingslearned.org, and thingsfound.org. These were gathered in my &ldquo;maybe I should be a low-rent Kottke&rdquo; phase. Hopefully I don&rsquo;t stop learning or finding things!</p>\n",
