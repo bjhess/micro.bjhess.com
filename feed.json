@@ -7,6 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/01/24/joe-mauer-first.html",
+				
+				"content_html": "<p><a href=\"https://bjhess.com/posts/joe-mauer-first-ballot\">Joe Mauer, First Ballot</a></p>\n",
+				"content_text": "[Joe Mauer, First Ballot](https://bjhess.com/posts/joe-mauer-first-ballot)\n",
+				"date_published": "2024-01-24T17:49:19-06:00",
+				"url": "https://micro.bjhess.com/2024/01/24/joe-mauer-first.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/23/family-travel-journaling.html",
+				
+				"content_html": "<p><a href=\"https://bjhess.com/posts/family-travel-journaling\">Family &amp; Travel Journaling</a></p>\n",
+				"content_text": "[Family & Travel Journaling](https://bjhess.com/posts/family-travel-journaling)\n",
+				"date_published": "2024-01-23T17:35:43-06:00",
+				"url": "https://micro.bjhess.com/2024/01/23/family-travel-journaling.html",
+				"tags": ["Hacking","Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/23/proper-launch-for.html",
+				
+				"content_html": "<p>Proper launch for <a href=\"https://pika.page\">Pika</a> is imminent. The team has worked hard through sickness all month to get here. It&rsquo;s a modest product in terms of feature checklists, but it feels so nice.</p>\n",
+				"content_text": "Proper launch for [Pika](https://pika.page) is imminent. The team has worked hard through sickness all month to get here. It's a modest product in terms of feature checklists, but it feels so nice. \n",
+				"date_published": "2024-01-23T09:15:01-06:00",
+				"url": "https://micro.bjhess.com/2024/01/23/proper-launch-for.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/22/giving-mistobox-coffee.html",
+				
+				"content_html": "<p><a href=\"https://bjhess.com/posts/giving-mistobox-coffee-a-try\">Giving MistoBox Coffee a Try</a></p>\n",
+				"content_text": "[Giving MistoBox Coffee a Try](https://bjhess.com/posts/giving-mistobox-coffee-a-try)\n",
+				"date_published": "2024-01-22T17:01:27-06:00",
+				"url": "https://micro.bjhess.com/2024/01/22/giving-mistobox-coffee.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/21/i-finished-the.html",
+				
+				"content_html": "<p>I finished <em>The Chronicles of Narnia</em>. It was <a href=\"https://pika.bjhess.com/posts/the-chronicles-of-narnia\">more than a little troubling</a>.</p>\n",
+				"content_text": "I finished _The Chronicles of Narnia_. It was [more than a little troubling](https://pika.bjhess.com/posts/the-chronicles-of-narnia).\n",
+				"date_published": "2024-01-21T18:05:35-06:00",
+				"url": "https://micro.bjhess.com/2024/01/21/i-finished-the.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/21/for-those-who.html",
+				
+				"content_html": "<p>For those who visit Japan frequently, and fly 10+ hours, what is your minimum stay requirement given jet lag and the…pain of long flights? We enjoyed visiting so much that I want to be ready to jump on any <a href=\"https://www.going.com/\">mistake airfares</a>. I’m thinking 10 days is reasonable, but maybe I should’ve push to 7?</p>\n",
+				"content_text": "For those who visit Japan frequently, and fly 10+ hours, what is your minimum stay requirement given jet lag and the…pain of long flights? We enjoyed visiting so much that I want to be ready to jump on any [mistake airfares](https://www.going.com/). I’m thinking 10 days is reasonable, but maybe I should’ve push to 7?\n",
+				"date_published": "2024-01-21T14:21:54-06:00",
+				"url": "https://micro.bjhess.com/2024/01/21/for-those-who.html",
+				"tags": ["Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/20/i-think-i.html",
+				
+				"content_html": "<p>I think I found that URL redirection service I was after: <a href=\"https://pika.bjhess.com/posts/redirect-pizza\">Redirect Pizza</a>.</p>\n",
+				"content_text": "I think I found that URL redirection service I was after: [Redirect Pizza](https://pika.bjhess.com/posts/redirect-pizza).\n",
+				"date_published": "2024-01-20T13:57:59-06:00",
+				"url": "https://micro.bjhess.com/2024/01/20/i-think-i.html",
+				"tags": ["Hacking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/01/19/trade-coffee-pricing.html",
 				
 				"content_html": "<p><a href=\"https://pika.bjhess.com/posts/trade-coffee-pricing-gets-convoluted\">Trade Coffee Pricing Gets Convoluted</a></p>\n",
