@@ -7,6 +7,71 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/02/06/doing-that-product.html",
+				
+				"content_html": "<p>Doing that product launch thing for Pika today on Product Hunt. 🎉</p>\n\n<p>We&rsquo;re really proud of the beautiful blogging experience we&rsquo;ve created with Pika!</p>\n\n<p>If you&rsquo;re so inclined, <a href=\"https://www.producthunt.com/posts/pika-4\">drop in to Product Hunt</a> and let us know your thoughts.</p>\n",
+				"content_text": "Doing that product launch thing for Pika today on Product Hunt. 🎉\r\n\r\nWe're really proud of the beautiful blogging experience we've created with Pika!\r\n\r\nIf you're so inclined, [drop in to Product Hunt](https://www.producthunt.com/posts/pika-4) and let us know your thoughts.\n",
+				"date_published": "2024-02-06T08:21:37-06:00",
+				"url": "https://micro.bjhess.com/2024/02/06/doing-that-product.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/02/03/does-anyone-successfully.html",
+				
+				"content_html": "<p>Does anyone successfully use a social network, say, once a day or twice a week? If so, tell me your ways.</p>\n",
+				"content_text": "Does anyone successfully use a social network, say, once a day or twice a week? If so, tell me your ways.\n",
+				"date_published": "2024-02-03T13:36:36-06:00",
+				"url": "https://micro.bjhess.com/2024/02/03/does-anyone-successfully.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/02/02/remember-the-deck.html",
+				
+				"content_html": "<p>Remember <a href=\"https://techcrunch.com/2017/03/29/r-i-p-the-deck/\">The Deck ad network</a>? Is there anything that even approaches it these days in terms of the type of market served?</p>\n",
+				"content_text": "Remember [The Deck ad network](https://techcrunch.com/2017/03/29/r-i-p-the-deck/)? Is there anything that even approaches it these days in terms of the type of market served?\n",
+				"date_published": "2024-02-02T23:10:41-06:00",
+				"url": "https://micro.bjhess.com/2024/02/02/remember-the-deck.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/31/new-pika-post.html",
+				
+				"content_html": "<p>New Pika post: <a href=\"https://bjhess.com/posts/project-tapestry\">Some thoughts on Project Tapestry</a></p>\n",
+				"content_text": "New Pika post: [Some thoughts on Project Tapestry](https://bjhess.com/posts/project-tapestry)\n",
+				"date_published": "2024-01-31T18:25:06-06:00",
+				"url": "https://micro.bjhess.com/2024/01/31/new-pika-post.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/31/pika-has-officially.html",
+				
+				"content_html": "<p>Pika has officially launched! Lots of good, hard work this past month and we&rsquo;ve got something I know that <em>I</em> am enjoying immensely. <a href=\"https://goodenough.us/blog/2024-01-31-pika-start-your-happy-blog/\">I posted</a> about some of the feelings behind the action.</p>\n",
+				"content_text": "Pika has officially launched! Lots of good, hard work this past month and we've got something I know that _I_ am enjoying immensely. [I posted](https://goodenough.us/blog/2024-01-31-pika-start-your-happy-blog/) about some of the feelings behind the action.\n",
+				"date_published": "2024-01-31T10:50:33-06:00",
+				"url": "https://micro.bjhess.com/2024/01/31/pika-has-officially.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/30/how-do-search.html",
+				
+				"content_html": "<p><a href=\"https://bjhess.com/posts/how-do-search-ads-run-the-world\">How Do Search Ads Run the World?</a></p>\n",
+				"content_text": "[How Do Search Ads Run the World?](https://bjhess.com/posts/how-do-search-ads-run-the-world)\n",
+				"date_published": "2024-01-30T19:09:20-06:00",
+				"url": "https://micro.bjhess.com/2024/01/30/how-do-search.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/30/now-im-in.html",
+				
+				"content_html": "<p>Now I&rsquo;m in Microsoft Ads and I can&rsquo;t even enter my credit card. This is amazing.</p>\n",
+				"content_text": "Now I'm in Microsoft Ads and I can't even enter my credit card. This is amazing.\n",
+				"date_published": "2024-01-30T18:22:54-06:00",
+				"url": "https://micro.bjhess.com/2024/01/30/now-im-in.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/01/30/spent-the-afternoon.html",
+				
+				"content_html": "<p>Spent the afternoon with Google Ads. It&rsquo;s fascinating to me that something with such a singularly terrible user interface is single-handedly providing all of the money to one of the richest companies in the world.</p>\n",
+				"content_text": "Spent the afternoon with Google Ads. It's fascinating to me that something with such a singularly terrible user interface is single-handedly providing all of the money to one of the richest companies in the world.\n",
+				"date_published": "2024-01-30T17:37:25-06:00",
+				"url": "https://micro.bjhess.com/2024/01/30/spent-the-afternoon.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/01/28/whiskey-rebellion.html",
 				
 				"content_html": "<p><a href=\"https://bjhess.com/posts/whiskey-rebellion\">Whiskey Rebellion</a></p>\n",
