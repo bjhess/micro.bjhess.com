@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/02/08/a-browser-extension.html",
+				
+				"content_html": "<p>A browser extension that fills in the ages of my kids on every. single. travel. website.</p>\n",
+				"content_text": "A browser extension that fills in the ages of my kids on every. single. travel. website.\n",
+				"date_published": "2024-02-08T19:24:09-06:00",
+				"url": "https://micro.bjhess.com/2024/02/08/a-browser-extension.html",
+				"tags": ["Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/02/08/i-wonder-if.html",
+				
+				"content_html": "<p>I wonder if anyone has <em>actually</em> been able to figure out how to run ads on DuckDuckGo without being required to also send money to other Microsoft advertising properties? I&rsquo;m thinking no.</p>\n",
+				"content_text": "I wonder if anyone has _actually_ been able to figure out how to run ads on DuckDuckGo without being required to also send money to other Microsoft advertising properties? I'm thinking no.\n",
+				"date_published": "2024-02-08T13:41:35-06:00",
+				"url": "https://micro.bjhess.com/2024/02/08/i-wonder-if.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/02/08/an-indieweb-carnival.html",
+				
+				"content_html": "<p>An IndieWeb carnival blog: <a href=\"https://bjhess.com/posts/digital-relationships-offer-real-hope\">Digital Relationships Offer Real Hope</a></p>\n",
+				"content_text": "An IndieWeb carnival blog: [Digital Relationships Offer Real Hope](https://bjhess.com/posts/digital-relationships-offer-real-hope)\n",
+				"date_published": "2024-02-08T08:33:33-06:00",
+				"url": "https://micro.bjhess.com/2024/02/08/an-indieweb-carnival.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/02/06/as-its-coming.html",
+				
+				"content_html": "<p>As it&rsquo;s coming to Broadway, <a href=\"https://purplerainbroadway.com/\">via Minnesota</a>, I suppose I should finally see the <em>Purple Rain</em> movie?</p>\n",
+				"content_text": "As it's coming to Broadway, [via Minnesota](https://purplerainbroadway.com/), I suppose I should finally see the _Purple Rain_ movie? \n",
+				"date_published": "2024-02-06T16:35:39-06:00",
+				"url": "https://micro.bjhess.com/2024/02/06/as-its-coming.html",
+				"tags": ["Watching"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/02/06/doing-that-product.html",
 				
 				"content_html": "<p>Doing that product launch thing for Pika today on Product Hunt. 🎉</p>\n\n<p>We&rsquo;re really proud of the beautiful blogging experience we&rsquo;ve created with Pika!</p>\n\n<p>If you&rsquo;re so inclined, <a href=\"https://www.producthunt.com/posts/pika-4\">drop in to Product Hunt</a> and let us know your thoughts.</p>\n",
