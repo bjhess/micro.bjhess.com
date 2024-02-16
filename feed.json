@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/02/16/thats-numberwang.html",
+				
+				"content_html": "<p>that&rsquo;s numberwang</p>\n",
+				"content_text": "that's numberwang\n",
+				"date_published": "2024-02-16T16:38:15-06:00",
+				"url": "https://micro.bjhess.com/2024/02/16/thats-numberwang.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/02/15/i-probably-should.html",
+				
+				"content_html": "<p>I probably should make watching <a href=\"https://www.youtube.com/watch?v=-WYYlRArn3g\">Prince&rsquo;s Super Bowl halftime show</a> an annual event. Chills every time.</p>\n",
+				"content_text": "I probably should make watching [Prince's Super Bowl halftime show](https://www.youtube.com/watch?v=-WYYlRArn3g) an annual event. Chills every time.\n",
+				"date_published": "2024-02-15T20:09:12-06:00",
+				"url": "https://micro.bjhess.com/2024/02/15/i-probably-should.html",
+				"tags": ["Watching","Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/02/15/blogging-why-we.html",
+				
+				"content_html": "<p>Blogging: <a href=\"https://bjhess.com/posts/why-we-love-baseball\">Why We Love Baseball</a></p>\n",
+				"content_text": "Blogging: [Why We Love Baseball](https://bjhess.com/posts/why-we-love-baseball)\n",
+				"date_published": "2024-02-15T16:38:07-06:00",
+				"url": "https://micro.bjhess.com/2024/02/15/blogging-why-we.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/02/12/never-thought-i.html",
+				
+				"content_html": "<p>Never thought I was going to grin reading a customer support response about our privacy policy, but here we are!</p>\n",
+				"content_text": "Never thought I was going to grin reading a customer support response about our privacy policy, but here we are!\n",
+				"date_published": "2024-02-12T13:31:25-06:00",
+				"url": "https://micro.bjhess.com/2024/02/12/never-thought-i.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/02/08/a-browser-extension.html",
 				
 				"content_html": "<p>A browser extension that fills in the ages of my kids on every. single. travel. website.</p>\n",
