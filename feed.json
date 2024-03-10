@@ -7,11 +7,20 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/03/06/been-holding-on.html",
+				
+				"content_html": "<p>Been holding on to this since last July in Togari, Japan. Tonight was finally the right time to crack open some <a href=\"https://anglojapanesebeer.com/collections/all/products/bread\">Bread</a>.</p>\n\n<p><img src=\"uploads/2024/fbdb58758c.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Been holding on to this since last July in Togari, Japan. Tonight was finally the right time to crack open some [Bread](https://anglojapanesebeer.com/collections/all/products/bread).\n\n<img src=\"uploads/2024/fbdb58758c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-03-06T23:24:20-05:00",
+				"url": "https://micro.bjhess.com/2024/03/06/been-holding-on.html",
+				"tags": ["Traveling"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/03/05/in-february-good.html",
 				
 				"content_html": "<p>In February Good Enough took a little break from Pika to build a prototype for our next thing. So far we&rsquo;re pretty happy with it, and we can&rsquo;t wait to share it with the world! <a href=\"https://goodenough.us/blog/2024-03-01-let-s-talk-about-conversations/\">goodenough.us/blog/2024&hellip;</a></p>\n",
 				"content_text": "In February Good Enough took a little break from Pika to build a prototype for our next thing. So far we're pretty happy with it, and we can't wait to share it with the world! [goodenough.us/blog/2024...](https://goodenough.us/blog/2024-03-01-let-s-talk-about-conversations/)\n",
-				"date_published": "2024-03-05T09:49:55-06:00",
+				"date_published": "2024-03-05T10:49:55-05:00",
 				"url": "https://micro.bjhess.com/2024/03/05/in-february-good.html",
 				"tags": ["Hacking"]
 			},
@@ -20,7 +29,7 @@
 				
 				"content_html": "<p>So a majority of the blogs in the world will soon be opted in to acting as training grounds for AI Tools. Not gonna happen at Pika. <a href=\"https://pika.pika.page/posts/pika-blogs-do-not-train-ai-tools\">Pika Blogs Do Not Train AI Tools</a></p>\n",
 				"content_text": "So a majority of the blogs in the world will soon be opted in to acting as training grounds for AI Tools. Not gonna happen at Pika. [Pika Blogs Do Not Train AI Tools](https://pika.pika.page/posts/pika-blogs-do-not-train-ai-tools)\n",
-				"date_published": "2024-02-29T11:26:12-06:00",
+				"date_published": "2024-02-29T12:26:12-05:00",
 				"url": "https://micro.bjhess.com/2024/02/29/so-a-majority.html",
 				"tags": ["Linking","Hacking"]
 			},
@@ -29,7 +38,7 @@
 				
 				"content_html": "<p>Love this sort of stuff: <a href=\"https://ff8isthe.best/2024/02/the-game-magazine-that-spent-two-years-taunting-a-final-fantasy-viii-hater/\">Final Fantasy VII is the Best</a>.</p>\n",
 				"content_text": "Love this sort of stuff: [Final Fantasy VII is the Best](https://ff8isthe.best/2024/02/the-game-magazine-that-spent-two-years-taunting-a-final-fantasy-viii-hater/).\n",
-				"date_published": "2024-02-29T07:38:29-06:00",
+				"date_published": "2024-02-29T08:38:29-05:00",
 				"url": "https://micro.bjhess.com/2024/02/29/love-this-sort.html",
 				"tags": ["Playing"]
 			},
@@ -38,7 +47,7 @@
 				
 				"content_html": "<p><a href=\"https://pika.page\">Pika</a> should also probably have a WordPress and Tumblr import option right about now… lemme know if it’s something you want! I’m sure we can figure something out.</p>\n",
 				"content_text": "[Pika](https://pika.page) should also probably have a WordPress and Tumblr import option right about now… lemme know if it’s something you want! I’m sure we can figure something out.\n",
-				"date_published": "2024-02-27T17:30:36-06:00",
+				"date_published": "2024-02-27T18:30:36-05:00",
 				"url": "https://micro.bjhess.com/2024/02/27/pika-should-also.html"
 			},
 			{
@@ -46,7 +55,7 @@
 				
 				"content_html": "<p>Given the latest blogging memes, it seems like Pika should add a guestbook option…</p>\n",
 				"content_text": "Given the latest blogging memes, it seems like Pika should add a guestbook option…\n",
-				"date_published": "2024-02-27T12:59:26-06:00",
+				"date_published": "2024-02-27T13:59:26-05:00",
 				"url": "https://micro.bjhess.com/2024/02/27/given-the-latest.html"
 			},
 			{
