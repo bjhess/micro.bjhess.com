@@ -7,6 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/04/16/i-just-got.html",
+				
+				"content_html": "<p>I just got to Inbox Nine in my personal email and I&rsquo;m going to call it very good! I think I&rsquo;ll read some of the newsletters in there this evening and go the rest of the way.</p>\n",
+				"content_text": "I just got to Inbox Nine in my personal email and I'm going to call it very good! I think I'll read some of the newsletters in there this evening and go the rest of the way.\n",
+				"date_published": "2024-04-16T17:00:39-05:00",
+				"url": "https://micro.bjhess.com/2024/04/16/i-just-got.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/04/11/last-night.html",
+				
+				"content_html": "<p>Last night.</p>\n\n<p><img src=\"uploads/2024/d4d2e1bd11.jpg\" width=\"600\" height=\"450\" alt=\"Comedian Maria Bamford on stage.\"></p>\n",
+				"content_text": "Last night.\n\n<img src=\"uploads/2024/d4d2e1bd11.jpg\" width=\"600\" height=\"450\" alt=\"Comedian Maria Bamford on stage.\">\n",
+				"date_published": "2024-04-11T08:24:59-05:00",
+				"url": "https://micro.bjhess.com/2024/04/11/last-night.html",
+				"tags": ["Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/04/10/resurfaced-a-very.html",
+				
+				"content_html": "<p>Resurfaced a very old post from another place, another time: <a href=\"https://bjhess.com/posts/my-first-program\">My First Program</a>. Perhaps you have a first-programming story?</p>\n",
+				"content_text": "Resurfaced a very old post from another place, another time: [My First Program](https://bjhess.com/posts/my-first-program). Perhaps you have a first-programming story?\n",
+				"date_published": "2024-04-10T15:29:59-05:00",
+				"url": "https://micro.bjhess.com/2024/04/10/resurfaced-a-very.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/04/09/this-is-rather.html",
+				
+				"content_html": "<p>This is rather amazing: <a href=\"https://xkcd.com/2916/\">xkcd.com/2916/</a></p>\n",
+				"content_text": "This is rather amazing: [xkcd.com/2916/](https://xkcd.com/2916/)\n",
+				"date_published": "2024-04-09T16:25:48-05:00",
+				"url": "https://micro.bjhess.com/2024/04/09/this-is-rather.html",
+				"tags": ["Playing"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/04/08/a-bit-of.html",
+				
+				"content_html": "<p>A bit of a stream (heh) of consciousness on <a href=\"https://bjhess.com/posts/the-streaming-pendulum\">the streaming pendulum</a>.</p>\n",
+				"content_text": "A bit of a stream (heh) of consciousness on [the streaming pendulum](https://bjhess.com/posts/the-streaming-pendulum).\n",
+				"date_published": "2024-04-08T19:07:05-05:00",
+				"url": "https://micro.bjhess.com/2024/04/08/a-bit-of.html",
+				"tags": ["Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/04/07/once-upon-a.html",
+				
+				"content_html": "<p>Once upon a time if you wanted a product or service, you paid for it. That, but for online things.</p>\n",
+				"content_text": "Once upon a time if you wanted a product or service, you paid for it. That, but for online things.\n",
+				"date_published": "2024-04-07T20:38:22-05:00",
+				"url": "https://micro.bjhess.com/2024/04/07/once-upon-a.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/04/05/til-you-can.html",
 				
 				"content_html": "<p>TIL: You can no longer programmatically ping search engines with updates to your sitemap in an anonymous way. And I learned other things. <a href=\"https://pika.pika.page/posts/a-sitemap-for-search\">Sitemaps on Pika</a>.</p>\n",
