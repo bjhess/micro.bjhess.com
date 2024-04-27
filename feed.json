@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/04/27/so-is-there.html",
+				
+				"content_html": "<p>So is there a way for me to delete almost every app off of my iphone and revert to where it is now if I decide “I’ve made a terrible mistake?” I’m thinking computer-based backup and restore is about it?</p>\n\n<p>Just want to try the dumb(ish) phone life for a week or so to see if I like it.</p>\n",
+				"content_text": "So is there a way for me to delete almost every app off of my iphone and revert to where it is now if I decide “I’ve made a terrible mistake?” I’m thinking computer-based backup and restore is about it?\n\nJust want to try the dumb(ish) phone life for a week or so to see if I like it.\n",
+				"date_published": "2024-04-27T10:54:54-05:00",
+				"url": "https://micro.bjhess.com/2024/04/27/so-is-there.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/04/26/i-think-that.html",
+				
+				"content_html": "<p>I think that <a href=\"https://bjhess.com/posts/self-promotion\">self-promotion</a> is a particular difficulty for those of us trying to turn the tide of the internet. And so I wrote a few things.</p>\n",
+				"content_text": "I think that [self-promotion](https://bjhess.com/posts/self-promotion) is a particular difficulty for those of us trying to turn the tide of the internet. And so I wrote a few things.\n",
+				"date_published": "2024-04-26T12:22:59-05:00",
+				"url": "https://micro.bjhess.com/2024/04/26/i-think-that.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/04/24/some-highlighted-quotes.html",
+				
+				"content_html": "<p>Some highlighted quotes from <em><a href=\"https://bjhess.com/posts/i-cheerfully-refuse\">I Cheerfully Refuse</a></em>.</p>\n",
+				"content_text": "Some highlighted quotes from _[I Cheerfully Refuse](https://bjhess.com/posts/i-cheerfully-refuse)_.\n",
+				"date_published": "2024-04-24T16:56:51-05:00",
+				"url": "https://micro.bjhess.com/2024/04/24/some-highlighted-quotes.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/04/23/this-months-indieweb.html",
+				
+				"content_html": "<p>This month&rsquo;s IndieWeb Carnival theme is &ldquo;Good Enough,&rdquo; so of course <a href=\"https://bjhess.com/posts/what-is-good-enough\">I had to participate</a>.</p>\n",
+				"content_text": "This month's IndieWeb Carnival theme is \"Good Enough,\" so of course [I had to participate](https://bjhess.com/posts/what-is-good-enough).\n",
+				"date_published": "2024-04-23T16:19:46-05:00",
+				"url": "https://micro.bjhess.com/2024/04/23/this-months-indieweb.html",
+				"tags": ["Hacking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/04/19/did-the-third.html",
 				
 				"content_html": "<p>Did the Third Man Records tour today and pulled the fortunate <a href=\"https://en.m.wikipedia.org/wiki/Ben_Blackwell\">Ben Blackwell</a> tour guide lottery ticket. Was lovely.</p>\n",
