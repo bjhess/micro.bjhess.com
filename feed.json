@@ -7,6 +7,57 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/05/07/im-joining-the.html",
+				
+				"content_html": "<p>I&rsquo;m joining the latest internet meme with <a href=\"https://bjhess.com/posts/thoughts-on-chips\">Thoughts on Chips</a>.</p>\n",
+				"content_text": "I'm joining the latest internet meme with [Thoughts on Chips](https://bjhess.com/posts/thoughts-on-chips).\n",
+				"date_published": "2024-05-07T16:09:33-05:00",
+				"url": "https://micro.bjhess.com/2024/05/07/im-joining-the.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/05/06/track-meets-weblogpomo.html",
+				
+				"content_html": "<p><a href=\"https://bjhess.com/posts/track-meets\">Track Meets</a> #weblogpomo2024</p>\n",
+				"content_text": "[Track Meets](https://bjhess.com/posts/track-meets) #weblogpomo2024\n",
+				"date_published": "2024-05-06T16:34:17-05:00",
+				"url": "https://micro.bjhess.com/2024/05/06/track-meets-weblogpomo.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/05/06/i-was-today.html",
+				
+				"content_html": "<p>I was today years old when I learned that Olivia Rodrigo&rsquo;s <em>Obsessed</em> was co-written by Annie Clark/St. Vincent.</p>\n",
+				"content_text": "I was today years old when I learned that Olivia Rodrigo's _Obsessed_ was co-written by Annie Clark/St. Vincent.\n",
+				"date_published": "2024-05-06T09:43:43-05:00",
+				"url": "https://micro.bjhess.com/2024/05/06/i-was-today.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/05/05/gardening-the-blog.html",
+				
+				"content_html": "<p><a href=\"https://bjhess.com/posts/gardening-the-blog\">Gardening the Blog</a></p>\n",
+				"content_text": "[Gardening the Blog](https://bjhess.com/posts/gardening-the-blog)\n",
+				"date_published": "2024-05-05T12:21:45-05:00",
+				"url": "https://micro.bjhess.com/2024/05/05/gardening-the-blog.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/05/04/do-we-need.html",
+				
+				"content_html": "<p><a href=\"https://bjhess.com/posts/do-we-need-a-satellite-communicator-for-remote-trips\">Do We Need a Satellite Communicator for Remote Trips?</a></p>\n",
+				"content_text": "[Do We Need a Satellite Communicator for Remote Trips?](https://bjhess.com/posts/do-we-need-a-satellite-communicator-for-remote-trips)\n",
+				"date_published": "2024-05-04T20:56:52-05:00",
+				"url": "https://micro.bjhess.com/2024/05/04/do-we-need.html",
+				"tags": ["Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/05/03/from-the-blog.html",
+				
+				"content_html": "<p>From the blog: <a href=\"https://bjhess.com/posts/work-hard\">Work Hard</a> (or not).</p>\n",
+				"content_text": "From the blog: [Work Hard](https://bjhess.com/posts/work-hard) (or not).\n",
+				"date_published": "2024-05-03T13:34:08-05:00",
+				"url": "https://micro.bjhess.com/2024/05/03/from-the-blog.html",
+				"tags": ["Hacking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/05/02/post-of-weblogpomo.html",
 				
 				"content_html": "<p>Post 2 of #WeblogPoMo2024 and I&rsquo;m already cheating: <a href=\"https://bjhess.com/posts/find-bugs-once-and-the-joy-of-bug-fixing-this-post-was-originally\">Find Bugs Once and the Joy of Bug Fixing</a></p>\n",
@@ -26,16 +77,16 @@
 			{
 				"id": "http://bjhess.micro.blog/2024/04/28/alright-lets-see.html",
 				
-				"content_html": "<p>Alright, let&rsquo;s see if this gets me off the phone pellet bar for a bit.</p>\n\n<p><img src=\"uploads/2024/img-4485-bw.png\" width=\"276\" height=\"600\" alt=\"A minimal iOS home screen with weather and libby witdgets and 4 icons along the bottom\"></p>\n",
-				"content_text": "Alright, let's see if this gets me off the phone pellet bar for a bit.\n\n<img src=\"uploads/2024/img-4485-bw.png\" width=\"276\" height=\"600\" alt=\"A minimal iOS home screen with weather and libby witdgets and 4 icons along the bottom\">\n",
+				"content_html": "<p>Alright, let&rsquo;s see if this gets me off the phone pellet bar for a bit.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2024/img-4485-bw.png\" width=\"276\" height=\"600\" alt=\"A minimal iOS home screen with weather and libby witdgets and 4 icons along the bottom\"></p>\n",
+				"content_text": "Alright, let's see if this gets me off the phone pellet bar for a bit.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2024/img-4485-bw.png\" width=\"276\" height=\"600\" alt=\"A minimal iOS home screen with weather and libby witdgets and 4 icons along the bottom\">\n",
 				"date_published": "2024-04-28T19:26:29-05:00",
 				"url": "https://micro.bjhess.com/2024/04/28/alright-lets-see.html"
 			},
 			{
 				"id": "http://bjhess.micro.blog/2024/04/27/aviation.html",
 				
-				"content_html": "<p>Aviation</p>\n\n<p><img src=\"uploads/2024/8aaa03d938.jpg\" width=\"450\" height=\"600\" alt=\"Aviation cocktail with cherry garnish\"></p>\n",
-				"content_text": "Aviation\n\n<img src=\"uploads/2024/8aaa03d938.jpg\" width=\"450\" height=\"600\" alt=\"Aviation cocktail with cherry garnish\">\n",
+				"content_html": "<p>Aviation</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2024/8aaa03d938.jpg\" width=\"450\" height=\"600\" alt=\"Aviation cocktail with cherry garnish\"></p>\n",
+				"content_text": "Aviation\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2024/8aaa03d938.jpg\" width=\"450\" height=\"600\" alt=\"Aviation cocktail with cherry garnish\">\n",
 				"date_published": "2024-04-27T19:15:27-05:00",
 				"url": "https://micro.bjhess.com/2024/04/27/aviation.html",
 				"tags": ["Kitchening"]
