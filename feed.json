@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/06/20/that-was-certainly.html",
+				
+				"content_html": "<p>That was certainly interesting.</p>\n\n<p><img src=\"uploads/2024/img-5031.jpeg\" width=\"600\" height=\"450\" alt=\"Joe Jackson performing as Max Champion, with backing band\"></p>\n",
+				"content_text": "That was certainly interesting.\n\n<img src=\"uploads/2024/img-5031.jpeg\" width=\"600\" height=\"450\" alt=\"Joe Jackson performing as Max Champion, with backing band\">\n",
+				"date_published": "2024-06-20T00:07:01-05:00",
+				"url": "https://micro.bjhess.com/2024/06/20/that-was-certainly.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/06/17/im-a-lucky.html",
+				
+				"content_html": "<p>I’m a lucky guy. ❤️</p>\n\n<p><img src=\"uploads/2024/img-7733.jpeg\" width=\"450\" height=\"600\" alt=\"Barry with his kids in front of a lake.\"></p>\n",
+				"content_text": "I’m a lucky guy. ❤️\n\n<img src=\"uploads/2024/img-7733.jpeg\" width=\"450\" height=\"600\" alt=\"Barry with his kids in front of a lake.\">\n",
+				"date_published": "2024-06-17T08:11:37-05:00",
+				"url": "https://micro.bjhess.com/2024/06/17/im-a-lucky.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/06/12/these-are-tasty.html",
 				
 				"content_html": "<p>These are <em>tasty</em>!</p>\n\n<p><img src=\"uploads/2024/img-4954.jpeg\" width=\"600\" height=\"600\" alt=\"Strawberry cheese cake flavor KitKats from Japan\"></p>\n",
@@ -35,8 +52,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2024/06/08/160311.html",
 				
-				"content_html": "<p><img src=\"uploads/2024/img-4889.jpeg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2024/img-4889.jpeg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/25320/2024/img-4889.jpeg\" width=\"600\" height=\"337\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2024/img-4889.jpeg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2024-06-08T15:03:11-05:00",
 				"url": "https://micro.bjhess.com/2024/06/08/160311.html",
 				"tags": ["Watching","Traveling"]
