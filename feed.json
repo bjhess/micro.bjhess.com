@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/08/05/that-was-good.html",
+				
+				"content_html": "<p>That was good!</p>\n\n<p><img src=\"uploads/2024/df0776b10a.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "That was good!\n\n<img src=\"uploads/2024/df0776b10a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-08-05T23:40:06-05:00",
+				"url": "https://micro.bjhess.com/2024/08/05/that-was-good.html",
+				"tags": ["Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/08/03/since-last-year.html",
+				
+				"content_html": "<p>Since last year my (HBO) Max streaming plan has removed one device, removed 4k UHD, and removed Dolby Atmos. Naturally the price has increased to $20/year. 🤔</p>\n",
+				"content_text": "Since last year my (HBO) Max streaming plan has removed one device, removed 4k UHD, and removed Dolby Atmos. Naturally the price has increased to $20/year. 🤔\n",
+				"date_published": "2024-08-03T08:08:02-05:00",
+				"url": "https://micro.bjhess.com/2024/08/03/since-last-year.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/08/01/i-want-to.html",
+				
+				"content_html": "<p>I want to start writing up our Iceland trip, but after a day of work I&rsquo;m ready to…not do that. I&rsquo;m very fortunate to be working on cool stuff with <a href=\"https://goodenough.us/\">Good Enough</a>, but it still takes a lot of energy!</p>\n",
+				"content_text": "I want to start writing up our Iceland trip, but after a day of work I'm ready to…not do that. I'm very fortunate to be working on cool stuff with [Good Enough](https://goodenough.us/), but it still takes a lot of energy!\n",
+				"date_published": "2024-08-01T17:05:46-05:00",
+				"url": "https://micro.bjhess.com/2024/08/01/i-want-to.html",
+				"tags": ["Hacking","Traveling"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/07/31/vampire-weekends-main.html",
+				
+				"content_html": "<p>Vampire Weekend&rsquo;s main set was <em>fantastic</em>. Staging-wise it was great, but especially tight and inventive musically.</p>\n\n<p>The encore of audience-requested cover songs…is not good. The band does okay, but Ezra knows no lyrics. Especially jarring in comparison to the set.</p>\n\n<p>But overall, highly recommended!</p>\n",
+				"content_text": "Vampire Weekend's main set was _fantastic_. Staging-wise it was great, but especially tight and inventive musically.\r\n\r\nThe encore of audience-requested cover songs…is not good. The band does okay, but Ezra knows no lyrics. Especially jarring in comparison to the set.\r\n\r\nBut overall, highly recommended!\n",
+				"date_published": "2024-07-31T12:28:37-05:00",
+				"url": "https://micro.bjhess.com/2024/07/31/vampire-weekends-main.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/07/30/203356.html",
+				
+				"content_html": "<p><img src=\"uploads/2024/9b2acd30b0.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "<img src=\"uploads/2024/9b2acd30b0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-07-30T20:33:56-05:00",
+				"url": "https://micro.bjhess.com/2024/07/30/203356.html",
+				"tags": ["Listening"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/07/27/feel-fortunate-to.html",
 				
 				"content_html": "<p>Feel fortunate to have missed <a href=\"https://icelandmonitor.mbl.is/news/news/2024/07/27/glacial_runoff_has_started_water_flowing_over_the_h/\">this flooding in Iceland</a>. Hope everyone has found a safe spot to pause their travels. (<a href=\"https://www.reddit.com/r/VisitingIceland/comments/1edi440/road_closed_east_of_vik_due_to_flooding/\">Reddit thread</a> with everyone gameplanning.)</p>\n",
