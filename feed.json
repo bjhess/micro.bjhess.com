@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/08/06/do-yourself-a.html",
+				
+				"content_html": "<p>Do yourself a favor and watch the men&rsquo;s 1500m replay if you didn&rsquo;t see it live. (Try not to spoil yourself in the process. Though I see NBC puts Olympic clips on YouTube <em>with the results in the title</em>. 🙄)</p>\n",
+				"content_text": "Do yourself a favor and watch the men's 1500m replay if you didn't see it live. (Try not to spoil yourself in the process. Though I see NBC puts Olympic clips on YouTube _with the results in the title_. 🙄)\n",
+				"date_published": "2024-08-06T17:10:10-05:00",
+				"url": "https://micro.bjhess.com/2024/08/06/do-yourself-a.html",
+				"tags": ["Watching"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/08/05/that-was-good.html",
 				
 				"content_html": "<p>That was good!</p>\n\n<p><img src=\"uploads/2024/df0776b10a.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
@@ -44,8 +53,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2024/07/30/203356.html",
 				
-				"content_html": "<p><img src=\"uploads/2024/9b2acd30b0.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "<img src=\"uploads/2024/9b2acd30b0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/25320/2024/9b2acd30b0.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/25320/2024/9b2acd30b0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-07-30T20:33:56-05:00",
 				"url": "https://micro.bjhess.com/2024/07/30/203356.html",
 				"tags": ["Listening"]
