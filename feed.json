@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/08/16/it-took-me.html",
+				
+				"content_html": "<p>It took me a long while, but I finished reading <em>Shōgun</em>. Now I can finally watch the show!</p>\n",
+				"content_text": "It took me a long while, but I finished reading _Shōgun_. Now I can finally watch the show!\n",
+				"date_published": "2024-08-16T16:42:50-05:00",
+				"url": "https://micro.bjhess.com/2024/08/16/it-took-me.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/08/15/thats-pretty-cool.html",
+				
+				"content_html": "<p><a href=\"https://ytch.xyz/\">That&rsquo;s pretty cool</a>. It&rsquo;s like we&rsquo;re watching TV again!</p>\n",
+				"content_text": "[That's pretty cool](https://ytch.xyz/). It's like we're watching TV again!\n",
+				"date_published": "2024-08-15T16:30:54-05:00",
+				"url": "https://micro.bjhess.com/2024/08/15/thats-pretty-cool.html",
+				"tags": ["Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/08/14/its-that-time.html",
+				
+				"content_html": "<p>It’s that time of the decade again. Time to think about getting new speakers for my home stereo. 🔈🔉🔊</p>\n",
+				"content_text": "It’s that time of the decade again. Time to think about getting new speakers for my home stereo. 🔈🔉🔊\n",
+				"date_published": "2024-08-14T23:19:00-05:00",
+				"url": "https://micro.bjhess.com/2024/08/14/its-that-time.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/08/14/today-was-a.html",
+				
+				"content_html": "<p>Today was a pretty solid deep focus day on some <a href=\"https://letsjelly.com/\">Jelly</a> code. W00T!</p>\n",
+				"content_text": "Today was a pretty solid deep focus day on some [Jelly](https://letsjelly.com/) code. W00T!\n",
+				"date_published": "2024-08-14T17:23:42-05:00",
+				"url": "https://micro.bjhess.com/2024/08/14/today-was-a.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/08/13/that-moment-when.html",
+				
+				"content_html": "<p>That moment when you realize the name-drop in the nonfiction book you’re reading is your daughter’s third-grade teacher’s uncle. 😆</p>\n",
+				"content_text": "That moment when you realize the name-drop in the nonfiction book you’re reading is your daughter’s third-grade teacher’s uncle. 😆\n",
+				"date_published": "2024-08-13T13:16:54-05:00",
+				"url": "https://micro.bjhess.com/2024/08/13/that-moment-when.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/08/06/do-yourself-a.html",
 				
 				"content_html": "<p>Do yourself a favor and watch the men&rsquo;s 1500m replay if you didn&rsquo;t see it live. (Try not to spoil yourself in the process. Though I see NBC puts Olympic clips on YouTube <em>with the results in the title</em>. 🙄)</p>\n",
@@ -18,8 +63,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2024/08/05/that-was-good.html",
 				
-				"content_html": "<p>That was good!</p>\n\n<p><img src=\"uploads/2024/df0776b10a.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "That was good!\n\n<img src=\"uploads/2024/df0776b10a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>That was good!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2024/df0776b10a.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "That was good!\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2024/df0776b10a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-05T23:40:06-05:00",
 				"url": "https://micro.bjhess.com/2024/08/05/that-was-good.html",
 				"tags": ["Watching"]
