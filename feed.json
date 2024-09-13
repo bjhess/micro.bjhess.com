@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/09/09/oh-hai-pika.html",
+				
+				"content_html": "<p>Oh, hai, Pika! <a href=\"http://www.merlinmann.com/roderick/ep-551-knotty-bits.html\">www.merlinmann.com/roderick/&hellip;</a></p>\n",
+				"content_text": "Oh, hai, Pika! [www.merlinmann.com/roderick/...](http://www.merlinmann.com/roderick/ep-551-knotty-bits.html)\n",
+				"date_published": "2024-09-09T18:47:50-05:00",
+				"url": "https://micro.bjhess.com/2024/09/09/oh-hai-pika.html",
+				"tags": ["Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/09/09/the-browser-on.html",
+				
+				"content_html": "<p>The browser on my phone has 498 opened tabs. Does this mean I need a new phone?</p>\n",
+				"content_text": "The browser on my phone has 498 opened tabs. Does this mean I need a new phone?\n",
+				"date_published": "2024-09-09T13:36:40-05:00",
+				"url": "https://micro.bjhess.com/2024/09/09/the-browser-on.html",
+				"tags": ["Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/09/07/it-is-therefore.html",
+				
+				"content_html": "<blockquote>\n<p>It is therefore that the older I grow, the more apt I am to doubt my own judgment, and to pay more respect to the judgment of others.</p>\n</blockquote>\n\n<p>– Benjamin Franklin to the Federal Convention, <a href=\"https://press-pubs.uchicago.edu/founders/documents/a7s3.html\">September 17, 1787</a></p>\n",
+				"content_text": "> It is therefore that the older I grow, the more apt I am to doubt my own judgment, and to pay more respect to the judgment of others.\n\n– Benjamin Franklin to the Federal Convention, [September 17, 1787](https://press-pubs.uchicago.edu/founders/documents/a7s3.html)\n",
+				"date_published": "2024-09-07T22:00:47-05:00",
+				"url": "https://micro.bjhess.com/2024/09/07/it-is-therefore.html",
+				"tags": ["Quoting"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/09/04/a-few-lowlevel.html",
 				
 				"content_html": "<p>A few low-level thought leaders who post on socials frequently write in a way that I just can&rsquo;t understand. Their words sound smart, but they combine them in ways I can&rsquo;t comprehend.</p>\n\n<p>This isn&rsquo;t even a critique. Some people tell me that my writing creates similar word puzzles for them.</p>\n",
