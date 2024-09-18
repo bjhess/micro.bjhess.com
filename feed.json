@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/09/18/til-you-can.html",
+				
+				"content_html": "<p>TIL: You can simulate slower internet in the Chrome/Chromium dev tools network tab.</p>\n\n<p><img src=\"uploads/2024/cleanshot-2024-09-18-at-10.07.062x.png\" width=\"322\" height=\"492\" alt=\"Chrome dev tools option to change internet speed, with 3G selected.\"></p>\n",
+				"content_text": "TIL: You can simulate slower internet in the Chrome/Chromium dev tools network tab.\n\n<img src=\"uploads/2024/cleanshot-2024-09-18-at-10.07.062x.png\" width=\"322\" height=\"492\" alt=\"Chrome dev tools option to change internet speed, with 3G selected.\">\n",
+				"date_published": "2024-09-18T10:10:26-05:00",
+				"url": "https://micro.bjhess.com/2024/09/18/til-you-can.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/09/17/that-smell-of.html",
+				
+				"content_html": "<p>That smell of the popcorn in the hall outside the gymnasium on game night.</p>\n",
+				"content_text": "That smell of the popcorn in the hall outside the gymnasium on game night.\n",
+				"date_published": "2024-09-17T19:51:08-05:00",
+				"url": "https://micro.bjhess.com/2024/09/17/that-smell-of.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/09/13/your-video-streaming.html",
+				
+				"content_html": "<p>&ldquo;Your video streaming service price is increasing.&rdquo; *drink*</p>\n",
+				"content_text": "\"Your video streaming service price is increasing.\" \\*drink\\*\n",
+				"date_published": "2024-09-13T19:26:24-05:00",
+				"url": "https://micro.bjhess.com/2024/09/13/your-video-streaming.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/09/13/i-appreciate-personal.html",
+				
+				"content_html": "<p>I appreciate personal site/blog directories–lots have been cropping up. I try to submit to them all, however…I&rsquo;ve only received 22 hits from such sites this year. Is anyone else seeing notable traffic from these services? I&rsquo;ll be honest that I&rsquo;m not in the habit of browsing said directories.</p>\n",
+				"content_text": "I appreciate personal site/blog directories–lots have been cropping up. I try to submit to them all, however…I've only received 22 hits from such sites this year. Is anyone else seeing notable traffic from these services? I'll be honest that I'm not in the habit of browsing said directories.\n",
+				"date_published": "2024-09-13T18:56:43-05:00",
+				"url": "https://micro.bjhess.com/2024/09/13/i-appreciate-personal.html",
+				"tags": ["Reading","Linking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/09/09/oh-hai-pika.html",
 				
 				"content_html": "<p>Oh, hai, Pika! <a href=\"http://www.merlinmann.com/roderick/ep-551-knotty-bits.html\">www.merlinmann.com/roderick/&hellip;</a></p>\n",
@@ -44,8 +78,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2024/09/02/a-little-walk.html",
 				
-				"content_html": "<p>A little walk this morning for my birthday. Beautiful day out today!</p>\n\n<p><img src=\"uploads/2024/40699e4b7d.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "A little walk this morning for my birthday. Beautiful day out today!\n\n<img src=\"uploads/2024/40699e4b7d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>A little walk this morning for my birthday. Beautiful day out today!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2024/40699e4b7d.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "A little walk this morning for my birthday. Beautiful day out today!\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2024/40699e4b7d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-02T12:49:59-05:00",
 				"url": "https://micro.bjhess.com/2024/09/02/a-little-walk.html"
 			},
