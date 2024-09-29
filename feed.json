@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/09/24/it-feels-a.html",
+				
+				"content_html": "<p>It feels a bit silly to replace my dying watch (battery) with a new one since it&rsquo;s basically an alert/alarm/reminder machine, but also…maybe I will. Which one looks the best? It&rsquo;s hard for me to choose between the chonky ultra 2 (though 💰) and svelte, half-the-weight 10.</p>\n",
+				"content_text": "It feels a bit silly to replace my dying watch (battery) with a new one since it's basically an alert/alarm/reminder machine, but also…maybe I will. Which one looks the best? It's hard for me to choose between the chonky ultra 2 (though 💰) and svelte, half-the-weight 10.\n",
+				"date_published": "2024-09-24T12:12:41-05:00",
+				"url": "https://micro.bjhess.com/2024/09/24/it-feels-a.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/09/23/driving-around-town.html",
+				
+				"content_html": "<p>Driving around town, I generally prefer listening to the radio.</p>\n",
+				"content_text": "Driving around town, I generally prefer listening to the radio.\n",
+				"date_published": "2024-09-23T18:03:42-05:00",
+				"url": "https://micro.bjhess.com/2024/09/23/driving-around-town.html",
+				"tags": ["Listening"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/09/22/hans-zimmer-live.html",
 				
 				"content_html": "<p><a href=\"https://bjhess.com/posts/hans-zimmer\">Hans Zimmer</a> (Live!)</p>\n",
