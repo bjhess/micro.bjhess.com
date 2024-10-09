@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/10/08/great-now-i.html",
+				
+				"content_html": "<p>Great, now I want a Pika blog feed to print at home automatically via dot matrix: <a href=\"https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/\">aschmelyun.com/blog/gett&hellip;</a></p>\n",
+				"content_text": "Great, now I want a Pika blog feed to print at home automatically via dot matrix: [aschmelyun.com/blog/gett...](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)\n",
+				"date_published": "2024-10-08T10:10:25-05:00",
+				"url": "https://micro.bjhess.com/2024/10/08/great-now-i.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/10/07/am-i-the.html",
+				
+				"content_html": "<p>Am I the only one whose macOS 15 (now 15.1) is broken for recurring calendar events? Cannot delete a series or edit a series of Apple Calendar events. The series just…doesn&rsquo;t delete (or edit).</p>\n\n<p>Just add it to the pile of problems I&rsquo;ve had with Apple Calendar over the years! #maturesoftware</p>\n",
+				"content_text": "Am I the only one whose macOS 15 (now 15.1) is broken for recurring calendar events? Cannot delete a series or edit a series of Apple Calendar events. The series just…doesn't delete (or edit).\r\n\r\nJust add it to the pile of problems I've had with Apple Calendar over the years! #maturesoftware\n",
+				"date_published": "2024-10-07T13:19:46-05:00",
+				"url": "https://micro.bjhess.com/2024/10/07/am-i-the.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/09/29/there-needs-to.html",
 				
 				"content_html": "<p>There needs to be a way to deprioritize certain folders in Obsidian search. My folders filled with imports from past apps (Evernote, Bear) always end up at the top of my search results. I still want to see them, just not as the top results.</p>\n\n<p>(Solution is probably 2 days of organizing/pruning.)</p>\n",
@@ -43,8 +60,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2024/09/22/if-you-ever.html",
 				
-				"content_html": "<p>If you ever get a chance to see Hans Zimmer live, 110% do it.</p>\n\n<p><img src=\"uploads/2024/0eea983d69.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "If you ever get a chance to see Hans Zimmer live, 110% do it.\n\n<img src=\"uploads/2024/0eea983d69.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>If you ever get a chance to see Hans Zimmer live, 110% do it.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2024/0eea983d69.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "If you ever get a chance to see Hans Zimmer live, 110% do it.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2024/0eea983d69.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-09-22T01:03:49-05:00",
 				"url": "https://micro.bjhess.com/2024/09/22/if-you-ever.html",
 				"tags": ["Listening"]
