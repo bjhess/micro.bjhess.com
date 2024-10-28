@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/10/27/a-pretty-darn.html",
+				
+				"content_html": "<p>A pretty darn good post about the little bit we can do to help bend the internet more toward something we want, and also get some benefits for ourselves along the way: <a href=\"https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/#read-receipts-are-you-kidding-me-seriously-fuck-that-noise\">You should be using an RSS reader</a>.</p>\n",
+				"content_text": "A pretty darn good post about the little bit we can do to help bend the internet more toward something we want, and also get some benefits for ourselves along the way: [You should be using an RSS reader](https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/#read-receipts-are-you-kidding-me-seriously-fuck-that-noise).\n",
+				"date_published": "2024-10-27T16:10:04-05:00",
+				"url": "https://micro.bjhess.com/2024/10/27/a-pretty-darn.html",
+				"tags": ["Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/10/26/watching-father-of.html",
+				
+				"content_html": "<p>Watching <em>Father of the Bride</em> is sure different having three daughters (20, 17, 13) than it was when I was fourteen. 🥲</p>\n",
+				"content_text": "Watching _Father of the Bride_ is sure different having three daughters (20, 17, 13) than it was when I was fourteen. 🥲\n",
+				"date_published": "2024-10-26T17:18:54-05:00",
+				"url": "https://micro.bjhess.com/2024/10/26/watching-father-of.html",
+				"tags": ["Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/10/25/admit-i-turned.html",
+				
+				"content_html": "<p>Admit I turned on the World Series in the 10th. That was something!</p>\n",
+				"content_text": "Admit I turned on the World Series in the 10th. That was something!\n",
+				"date_published": "2024-10-25T22:50:19-05:00",
+				"url": "https://micro.bjhess.com/2024/10/25/admit-i-turned.html",
+				"tags": ["Watching"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/10/23/very-happy-to.html",
 				
 				"content_html": "<p>Very happy to share that Good Enough&rsquo;s take on a team&rsquo;s shared email, Jelly, is ready to rock &lsquo;n&rsquo; roll. If you have a team that fits, give it a look:</p>\n\n<p><a href=\"https://letsjelly.com\">letsjelly.com</a></p>\n\n<p>One of the coolest things about it? The pricing is not seat based!</p>\n",
@@ -35,8 +62,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2024/10/17/red-cedar-lake.html",
 				
-				"content_html": "<p>Red Cedar Lake</p>\n\n<p><img src=\"uploads/2024/7d3564d752.jpg\" width=\"600\" height=\"600\" alt=\"Lake in the moonlight.\"></p>\n",
-				"content_text": "Red Cedar Lake\n\n<img src=\"uploads/2024/7d3564d752.jpg\" width=\"600\" height=\"600\" alt=\"Lake in the moonlight.\">\n",
+				"content_html": "<p>Red Cedar Lake</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2024/7d3564d752.jpg\" width=\"600\" height=\"600\" alt=\"Lake in the moonlight.\"></p>\n",
+				"content_text": "Red Cedar Lake\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2024/7d3564d752.jpg\" width=\"600\" height=\"600\" alt=\"Lake in the moonlight.\">\n",
 				"date_published": "2024-10-17T20:19:50-05:00",
 				"url": "https://micro.bjhess.com/2024/10/17/red-cedar-lake.html",
 				"tags": ["Traveling"]
@@ -44,8 +71,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2024/10/15/122033.html",
 				
-				"content_html": "<p><img src=\"uploads/2024/338eb9926f.jpg\" width=\"600\" height=\"398\" alt=\"\"></p>\n",
-				"content_text": "<img src=\"uploads/2024/338eb9926f.jpg\" width=\"600\" height=\"398\" alt=\"\">\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/25320/2024/338eb9926f.jpg\" width=\"600\" height=\"398\" alt=\"\"></p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/25320/2024/338eb9926f.jpg\" width=\"600\" height=\"398\" alt=\"\">\n",
 				"date_published": "2024-10-15T12:20:33-05:00",
 				"url": "https://micro.bjhess.com/2024/10/15/122033.html"
 			},
