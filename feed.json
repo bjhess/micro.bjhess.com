@@ -7,6 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/11/02/dont-worry-yall.html",
+				
+				"content_html": "<p>Don&rsquo;t worry, y&rsquo;all, I voted (a few days ago). ✌️</p>\n",
+				"content_text": "Don't worry, y'all, I voted (a few days ago). ✌️\n",
+				"date_published": "2024-11-02T16:40:31-05:00",
+				"url": "https://micro.bjhess.com/2024/11/02/dont-worry-yall.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/11/02/i-saw-a.html",
+				
+				"content_html": "<p>I saw a couple kids today riding bikes with fishing poles sticking out of their backpacks. Felt like I time machined.</p>\n",
+				"content_text": "I saw a couple kids today riding bikes with fishing poles sticking out of their backpacks. Felt like I time machined.\n",
+				"date_published": "2024-11-02T14:20:44-05:00",
+				"url": "https://micro.bjhess.com/2024/11/02/i-saw-a.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/11/01/a-great-idea.html",
+				
+				"content_html": "<p><a href=\"https://json.blog/2024/10/31/ill-answer-any.html\">A great idea</a> from <a href=\"https://micro.blog/jsonbecker\">@jsonbecker</a>, so I steal it. Ask me questions and I&rsquo;ll try to answer them with a blog post. And you can answer them. And other people can answer them. Ask here, there, or <a href=\"https://letterbird.co/bjhess\">anywhere</a>.</p>\n\n<p>Heck, if you have questions for <a href=\"https://goodenough.us/\">Good Enough</a>, that&rsquo;s good, too. We can probably answer in a blog, too!</p>\n",
+				"content_text": "[A great idea](https://json.blog/2024/10/31/ill-answer-any.html) from [@jsonbecker](https://micro.blog/jsonbecker), so I steal it. Ask me questions and I'll try to answer them with a blog post. And you can answer them. And other people can answer them. Ask here, there, or [anywhere](https://letterbird.co/bjhess).\r\n\r\nHeck, if you have questions for [Good Enough](https://goodenough.us/), that's good, too. We can probably answer in a blog, too!\n",
+				"date_published": "2024-11-01T13:37:07-05:00",
+				"url": "https://micro.bjhess.com/2024/11/01/a-great-idea.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/10/30/for-you-safari.html",
+				
+				"content_html": "<p>For you Safari folk, the <a href=\"https://apps.apple.com/ca/app/supercopy-for-safari/id6477720316\">Supercopy</a> extension gives you cmd-shift-c in your browser as intended. h/t <a href=\"https://micro.blog/hrv@social.lol\">@hrv@social.lol</a></p>\n",
+				"content_text": "For you Safari folk, the [Supercopy](https://apps.apple.com/ca/app/supercopy-for-safari/id6477720316) extension gives you cmd-shift-c in your browser as intended. h/t [@hrv@social.lol](https://micro.blog/hrv@social.lol)\r\n",
+				"date_published": "2024-10-30T22:54:30-05:00",
+				"url": "https://micro.bjhess.com/2024/10/30/for-you-safari.html",
+				"tags": ["Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/10/30/were-doing-the.html",
+				
+				"content_html": "<p>We&rsquo;re doing the Product Hunt thing with Jelly, if that&rsquo;s your jam. 🙏 <a href=\"https://www.producthunt.com/posts/jelly-7\">www.producthunt.com/posts/jel&hellip;</a></p>\n",
+				"content_text": "We're doing the Product Hunt thing with Jelly, if that's your jam. 🙏 [www.producthunt.com/posts/jel...](https://www.producthunt.com/posts/jelly-7)\n",
+				"date_published": "2024-10-30T15:06:54-05:00",
+				"url": "https://micro.bjhess.com/2024/10/30/were-doing-the.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/10/29/i-feel-like.html",
+				
+				"content_html": "<p>I feel like I need to consider moving off Arc now that it is potentially abandonware. It would be nice to just move from Omnivore to Safari&rsquo;s Reading List. The things I know I&rsquo;ll miss are cmd-shift-C and Little Arc.</p>\n",
+				"content_text": "I feel like I need to consider moving off Arc now that it is potentially abandonware. It would be nice to just move from Omnivore to Safari's Reading List. The things I know I'll miss are cmd-shift-C and Little Arc.\n",
+				"date_published": "2024-10-29T19:04:15-05:00",
+				"url": "https://micro.bjhess.com/2024/10/29/i-feel-like.html",
+				"tags": ["Reading","Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/10/29/goodlinks-pocket-readwise.html",
+				
+				"content_html": "<p>GoodLinks, Pocket, Readwise ($$$), something else? (Yes, I&rsquo;m an Omnivorer. Not a frequent user, but a user.) Anyone offer import?</p>\n",
+				"content_text": "GoodLinks, Pocket, Readwise ($$$), something else? (Yes, I'm an Omnivorer. Not a frequent user, but a user.) Anyone offer import?\n",
+				"date_published": "2024-10-29T12:02:33-05:00",
+				"url": "https://micro.bjhess.com/2024/10/29/goodlinks-pocket-readwise.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/10/27/a-pretty-darn.html",
 				
 				"content_html": "<p>A pretty darn good post about the little bit we can do to help bend the internet more toward something we want, and also get some benefits for ourselves along the way: <a href=\"https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/#read-receipts-are-you-kidding-me-seriously-fuck-that-noise\">You should be using an RSS reader</a>.</p>\n",
@@ -53,8 +113,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2024/10/18/pretty-nice-out.html",
 				
-				"content_html": "<p>Pretty nice out here.</p>\n\n<p><img src=\"uploads/2024/dff0b83437.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Pretty nice out here.\n\n<img src=\"uploads/2024/dff0b83437.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Pretty nice out here.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2024/dff0b83437.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Pretty nice out here.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2024/dff0b83437.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-10-18T13:56:06-05:00",
 				"url": "https://micro.bjhess.com/2024/10/18/pretty-nice-out.html",
 				"tags": ["Traveling"]
