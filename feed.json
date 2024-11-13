@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/11/12/friends-on-the.html",
+				
+				"content_html": "<p>Friends on the internet, lend me your upvotes (❤️ in advance): <a href=\"https://news.ycombinator.com/item?id=42119042\">news.ycombinator.com/item</a></p>\n",
+				"content_text": "Friends on the internet, lend me your upvotes (❤️ in advance): [news.ycombinator.com/item](https://news.ycombinator.com/item?id=42119042)\n",
+				"date_published": "2024-11-12T15:17:55-06:00",
+				"url": "https://micro.bjhess.com/2024/11/12/friends-on-the.html",
+				"tags": ["Hacking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/11/11/have-homemade-honey.html",
+				
+				"content_html": "<p>Have homemade honey syrup, will try it with any cocktail: honey margaritas.</p>\n\n<p><img src=\"uploads/2024/60bb5ce7ca.jpg\" width=\"600\" height=\"600\" alt=\"Two margaritas with tajin salted rims.\"></p>\n",
+				"content_text": "Have homemade honey syrup, will try it with any cocktail: honey margaritas.\n\n<img src=\"uploads/2024/60bb5ce7ca.jpg\" width=\"600\" height=\"600\" alt=\"Two margaritas with tajin salted rims.\">\n",
+				"date_published": "2024-11-11T16:59:15-06:00",
+				"url": "https://micro.bjhess.com/2024/11/11/have-homemade-honey.html",
+				"tags": ["Kitchening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/11/08/no-matter-how.html",
+				
+				"content_html": "<p>No matter how you&rsquo;re feeling, just remember we still live in a world with Janelle Monáe and that&rsquo;s a pretty great thing.</p>\n",
+				"content_text": "No matter how you're feeling, just remember we still live in a world with Janelle Monáe and that's a pretty great thing.\n",
+				"date_published": "2024-11-08T16:01:00-06:00",
+				"url": "https://micro.bjhess.com/2024/11/08/no-matter-how.html",
+				"tags": ["Listening"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/11/07/maybe-ill-find.html",
 				
 				"content_html": "<p>Maybe I&rsquo;ll find healthier connections if I disconnect? <a href=\"https://bjhess.com/posts/reconnecting-by-disconnecting\">Reconnecting By Disconnecting</a></p>\n",
@@ -35,8 +62,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2024/11/04/well-that-was.html",
 				
-				"content_html": "<p>Well that was a dream come true.</p>\n\n<p><img src=\"uploads/2024/77f6bbba89.jpg\" width=\"450\" height=\"600\" alt=\"David Gilmour with an acoustic guitar on stage at Madison Square Garden.\"></p>\n",
-				"content_text": "Well that was a dream come true.\n\n<img src=\"uploads/2024/77f6bbba89.jpg\" width=\"450\" height=\"600\" alt=\"David Gilmour with an acoustic guitar on stage at Madison Square Garden.\">\n",
+				"content_html": "<p>Well that was a dream come true.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2024/77f6bbba89.jpg\" width=\"450\" height=\"600\" alt=\"David Gilmour with an acoustic guitar on stage at Madison Square Garden.\"></p>\n",
+				"content_text": "Well that was a dream come true.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2024/77f6bbba89.jpg\" width=\"450\" height=\"600\" alt=\"David Gilmour with an acoustic guitar on stage at Madison Square Garden.\">\n",
 				"date_published": "2024-11-04T22:01:59-06:00",
 				"url": "https://micro.bjhess.com/2024/11/04/well-that-was.html",
 				"tags": ["Listening"]
