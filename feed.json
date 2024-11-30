@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/11/29/a-happy-arrival.html",
+				
+				"content_html": "<p>A happy arrival.</p>\n\n<p><img src=\"uploads/2024/bad379e663.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "A happy arrival.\n\n<img src=\"uploads/2024/bad379e663.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-11-29T18:47:25-06:00",
+				"url": "https://micro.bjhess.com/2024/11/29/a-happy-arrival.html",
+				"tags": ["Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/11/26/the-black-friday.html",
+				
+				"content_html": "<p>The Black Friday deals are making me wonder if I should get the daughter’s graduation MacBook Air right now…</p>\n",
+				"content_text": "The Black Friday deals are making me wonder if I should get the daughter’s graduation MacBook Air right now…\n",
+				"date_published": "2024-11-26T17:56:16-06:00",
+				"url": "https://micro.bjhess.com/2024/11/26/the-black-friday.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/11/22/happy-new-michael.html",
 				
 				"content_html": "<p>Happy <a href=\"https://albumwhale.com/albums/24568\">new Michael Kiwanuka day</a> to those who celebrate!</p>\n",
