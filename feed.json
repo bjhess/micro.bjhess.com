@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/12/04/a-day-so.html",
+				
+				"content_html": "<p>A day so windy the toilet water is quaking.</p>\n",
+				"content_text": "A day so windy the toilet water is quaking.\n",
+				"date_published": "2024-12-04T19:04:36-06:00",
+				"url": "https://micro.bjhess.com/2024/12/04/a-day-so.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/12/03/i-finally-clicked.html",
+				
+				"content_html": "<p>I finally clicked the button(s) and logged off of Mastodon, Bluesky, and X on my phone. We&rsquo;ll see how that feels. 🥂 to first steps.</p>\n",
+				"content_text": "I finally clicked the button(s) and logged off of Mastodon, Bluesky, and X on my phone. We'll see how that feels. 🥂 to first steps.\n",
+				"date_published": "2024-12-03T16:30:08-06:00",
+				"url": "https://micro.bjhess.com/2024/12/03/i-finally-clicked.html",
+				"tags": ["Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/12/01/i-thought-of.html",
+				
+				"content_html": "<p>I thought of <a href=\"https://micro.blog/jthingelstad\">@jthingelstad</a> when reading about <a href=\"https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117\">the decline of Honeycrisp apples</a>. I have the benefit of being more likely to get regionally local, Minnesota apples. Will have to keep my eyes open when shopping.</p>\n",
+				"content_text": "I thought of [@jthingelstad](https://micro.blog/jthingelstad) when reading about [the decline of Honeycrisp apples](https://www.seriouseats.com/how-honeycrisp-apples-went-from-marvel-to-mediocre-8753117). I have the benefit of being more likely to get regionally local, Minnesota apples. Will have to keep my eyes open when shopping.\n",
+				"date_published": "2024-12-01T15:49:08-06:00",
+				"url": "https://micro.bjhess.com/2024/12/01/i-thought-of.html",
+				"tags": ["Linking"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/11/29/a-happy-arrival.html",
 				
 				"content_html": "<p>A happy arrival.</p>\n\n<p><img src=\"uploads/2024/bad379e663.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
