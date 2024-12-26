@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2024/12/26/the-holidays-httpsbjhesscompoststheholidays.html",
+				
+				"content_html": "<p>The Holidays <a href=\"https://bjhess.com/posts/the-holidays\">bjhess.com/posts/the&hellip;</a></p>\n",
+				"content_text": "The Holidays [bjhess.com/posts/the...](https://bjhess.com/posts/the-holidays)\n",
+				"date_published": "2024-12-26T10:38:11-06:00",
+				"url": "https://micro.bjhess.com/2024/12/26/the-holidays-httpsbjhesscompoststheholidays.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/12/24/christmas-punch.html",
+				
+				"content_html": "<p>Christmas punch.</p>\n\n<p><img src=\"uploads/2024/a1a3e10a13.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Christmas punch.\n\n<img src=\"uploads/2024/a1a3e10a13.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-24T14:19:45-06:00",
+				"url": "https://micro.bjhess.com/2024/12/24/christmas-punch.html",
+				"tags": ["Kitchening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/12/21/congrats-to-everyone.html",
+				
+				"content_html": "<p>Congrats to everyone receiving their Equifax Data Breach Settlement right before Christmas! $7.44 (x 2) here! 💰</p>\n",
+				"content_text": "Congrats to everyone receiving their Equifax Data Breach Settlement right before Christmas! $7.44 (x 2) here! 💰\n",
+				"date_published": "2024-12-21T08:15:15-06:00",
+				"url": "https://micro.bjhess.com/2024/12/21/congrats-to-everyone.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2024/12/20/christmas-movie-season.html",
+				
+				"content_html": "<p>Christmas movie season.</p>\n\n<p><img src=\"uploads/2024/035fb4f68c.jpg\" width=\"600\" height=\"344\" alt=\"Two characters walking through a Christmas scene with carolers in the background. \"></p>\n",
+				"content_text": "Christmas movie season.\n\n<img src=\"uploads/2024/035fb4f68c.jpg\" width=\"600\" height=\"344\" alt=\"Two characters walking through a Christmas scene with carolers in the background. \">\n",
+				"date_published": "2024-12-20T21:54:52-06:00",
+				"url": "https://micro.bjhess.com/2024/12/20/christmas-movie-season.html",
+				"tags": ["Watching"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2024/12/19/been-trying-cursor.html",
 				
 				"content_html": "<p>Been trying Cursor for a deeper AI coding experiences than RubyMine+Cody seems to offer. This afternoon’s session felt like 🪄. Probably saved me hours / giving up on writing some automated tests.</p>\n",
