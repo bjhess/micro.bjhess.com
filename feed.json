@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2025/05/26/wouldnt-it-be-kind-of.html",
+				
+				"content_html": "<p>Wouldn’t it be kind of cool to have a 20-year-old laptop with a fantastic typing keyboard to use just for writing? Especially if transferring that writing to a modern computer wasn’t a PITA? Is there an old laptop with a killer keyboard?</p>\n",
+				"content_text": "Wouldn’t it be kind of cool to have a 20-year-old laptop with a fantastic typing keyboard to use just for writing? Especially if transferring that writing to a modern computer wasn’t a PITA? Is there an old laptop with a killer keyboard?\n",
+				"date_published": "2025-05-26T07:57:00-05:00",
+				"url": "https://micro.bjhess.com/2025/05/26/wouldnt-it-be-kind-of.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/05/25/if-you-stop-for-a.html",
+				
+				"content_html": "<blockquote>\n<p>If you stop for a drink at every stream, you’ll never get to where you’re going.</p>\n\n<p>– Linnea Axelsson, <em>Ædnan</em></p>\n</blockquote>\n",
+				"content_text": "> If you stop for a drink at every stream, you’ll never get to where you’re going.\n> \n> – Linnea Axelsson, _Ædnan_\n",
+				"date_published": "2025-05-25T08:03:00-05:00",
+				"url": "https://micro.bjhess.com/2025/05/25/if-you-stop-for-a.html",
+				"tags": ["Quoting"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/05/24/will-the-timberwolves-get-a.html",
+				
+				"content_html": "<p>Will the Timberwolves get a win tonight? I&rsquo;d like them not to get swept.</p>\n",
+				"content_text": "Will the Timberwolves get a win tonight? I'd like them not to get swept.\n",
+				"date_published": "2025-05-24T16:12:17-05:00",
+				"url": "https://micro.bjhess.com/2025/05/24/will-the-timberwolves-get-a.html",
+				"tags": ["Watching"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/05/24/id-like-to-try-an.html",
+				
+				"content_html": "<p>I’d like to try an integrated AI coding experience for a month. So far I just chat through Cody in my IDE, which has been useful. But trying something like <a href=\"https://www.anthropic.com/claude-code\">www.anthropic.com/claude-co&hellip;</a> for refactoring and similar tasks sounds interesting. What’s your fave? Have you compared it to others?</p>\n",
+				"content_text": "I’d like to try an integrated AI coding experience for a month. So far I just chat through Cody in my IDE, which has been useful. But trying something like [www.anthropic.com/claude-co...](https://www.anthropic.com/claude-code) for refactoring and similar tasks sounds interesting. What’s your fave? Have you compared it to others?\n",
+				"date_published": "2025-05-24T09:27:55-05:00",
+				"url": "https://micro.bjhess.com/2025/05/24/id-like-to-try-an.html"
+			},
+			{
 				"id": "http://bjhess.micro.blog/2025/05/23/we-just-turned-up-the.html",
 				
 				"content_html": "<p>We just turned up the gas on the Pika stove and something is bubbling up.</p>\n\n<p><img src=\"uploads/2025/df0568e42d.png\" width=\"600\" height=\"85\" alt=\"A screenshot of the Pika blogging software, with menu items that say Posts, Pages, Guestbook, and Newsletter. Newsletter is highlighted.\"></p>\n",
@@ -72,8 +106,8 @@
 			{
 				"id": "http://bjhess.micro.blog/2025/04/04/good-morning.html",
 				
-				"content_html": "<p>Good morning.</p>\n\n<p><img src=\"uploads/2025/524b13c9d9.jpeg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Good morning.\n\n<img src=\"uploads/2025/524b13c9d9.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Good morning.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/25320/2025/524b13c9d9.jpeg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Good morning.\n\n<img src=\"https://cdn.uploads.micro.blog/25320/2025/524b13c9d9.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-04T05:12:32-05:00",
 				"url": "https://micro.bjhess.com/2025/04/04/good-morning.html"
 			},
