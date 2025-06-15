@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2025/06/15/one-of-those-sites-that.html",
+				
+				"content_html": "<p>One of those sites that I went to add to Pinboard and realized I’d already saved it years ago: <a href=\"https://gifcities.org\">gifcities.org</a></p>\n",
+				"content_text": "One of those sites that I went to add to Pinboard and realized I’d already saved it years ago: [gifcities.org](https://gifcities.org)\n",
+				"date_published": "2025-06-15T11:22:06-05:00",
+				"url": "https://micro.bjhess.com/2025/06/15/one-of-those-sites-that.html",
+				"tags": ["Linking"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/06/14/let-the-marching-band-season.html",
+				
+				"content_html": "<p>Let the marching band season begin!</p>\n",
+				"content_text": "Let the marching band season begin!\n",
+				"date_published": "2025-06-14T08:08:03-05:00",
+				"url": "https://micro.bjhess.com/2025/06/14/let-the-marching-band-season.html",
+				"tags": ["Watching","Listening"]
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/06/10/a-night-of-music-that.html",
+				
+				"content_html": "<p>A night of music that reminds me there’s a lot of hope for the future. Mei Semones.</p>\n\n<p><img src=\"uploads/2025/img-2083.jpeg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "A night of music that reminds me there’s a lot of hope for the future. Mei Semones. \n\n<img src=\"uploads/2025/img-2083.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-10T00:27:49-05:00",
+				"url": "https://micro.bjhess.com/2025/06/10/a-night-of-music-that.html",
+				"tags": ["Watching","Listening"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2025/06/09/time-to-watch-some-great.html",
 				
 				"content_html": "<p>Time to watch some great kids perform.</p>\n\n<p><img src=\"uploads/2025/3c0fa3c371.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
