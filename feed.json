@@ -7,6 +7,95 @@
 	"items": [
 		
 			{
+				"id": "http://bjhess.micro.blog/2025/09/08/thankful-to-be-interviewed-for.html",
+				
+				"content_html": "<p>Thankful to be interviewed for Alexandra&rsquo;s latest at New_ Public: <a href=\"https://newpublic.substack.com/p/the-handmade-internet-is-making-a\">newpublic.substack.com/p/the-han&hellip;</a></p>\n",
+				"content_text": "Thankful to be interviewed for Alexandra's latest at New_ Public: [newpublic.substack.com/p/the-han...](https://newpublic.substack.com/p/the-handmade-internet-is-making-a)\n",
+				"date_published": "2025-09-08T11:03:20-05:00",
+				"url": "https://micromicroblog.bjhess.com/2025/09/08/thankful-to-be-interviewed-for.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/09/05/152010.html",
+				"title": "I’m already crying:\n[YouTube Embed]: https://www.youtube.com/embed/hatkPBCcYUI",
+				"content_html": "<div class=\"trix-content\">\n  <p>I’m already crying:</p>\n<div><iframe width=\"640\" height=\"480\" allowfullscreen=\"true\" autoplay=\"false\" disablekbcontrols=\"false\" enableiframeapi=\"false\" endtime=\"0\" ivloadpolicy=\"0\" loop=\"false\" modestbranding=\"false\" origin=\"\" playlist=\"\" src=\"https://www.youtube.com/embed/hatkPBCcYUI?rel=1\"></iframe></div>\n</div>\n",
+				"content_text": "<div class=\"trix-content\">\n  <p>I’m already crying:</p>\n<div><iframe width=\"640\" height=\"480\" allowfullscreen=\"true\" autoplay=\"false\" disablekbcontrols=\"false\" enableiframeapi=\"false\" endtime=\"0\" ivloadpolicy=\"0\" loop=\"false\" modestbranding=\"false\" origin=\"\" playlist=\"\" src=\"https://www.youtube.com/embed/hatkPBCcYUI?rel=1\"></iframe></div>\n</div>\n",
+				"date_published": "2025-09-05T15:20:10-05:00",
+				"url": "https://micromicroblog.bjhess.com/2025/09/05/152010.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/09/05/a-first-for-me-bugs.html",
+				"title": "A first for me: bugs in the rice...",
+				"content_html": "<div class=\"trix-content\">\n  <p>A first for me: bugs in the rice. I’m shook, y’all.</p>\n</div>\n",
+				"content_text": "<div class=\"trix-content\">\n  <p>A first for me: bugs in the rice. I’m shook, y’all.</p>\n</div>\n",
+				"date_published": "2025-09-05T13:01:51-05:00",
+				"url": "https://micromicroblog.bjhess.com/2025/09/05/a-first-for-me-bugs.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/09/04/after-many-past-threats-i.html",
+				"title": "After many past threats, I guess it’s time to finally get off...",
+				"content_html": "<div class=\"trix-content\">\n  <p>After many past threats, I guess it’s time to finally <a href=\"https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian?utm_content=buffer8278e&amp;utm_medium=social&amp;utm_source=bsky.app&amp;utm_campaign=verge_social\">get off Arc</a>.</p>\n</div>\n",
+				"content_text": "<div class=\"trix-content\">\n  <p>After many past threats, I guess it’s time to finally <a href=\"https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian?utm_content=buffer8278e&amp;utm_medium=social&amp;utm_source=bsky.app&amp;utm_campaign=verge_social\">get off Arc</a>.</p>\n</div>\n",
+				"date_published": "2025-09-04T08:42:04-05:00",
+				"url": "https://micromicroblog.bjhess.com/2025/09/04/after-many-past-threats-i.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/09/03/going-to-a-movie-tonight.html",
+				"title": "Going to a movie tonight and I’m not really a horror fan...",
+				"content_html": "<div class=\"trix-content\">\n  <p>Going to a movie tonight and I’m not really a horror fan. Do I force myself to <em>Weapons</em> or go for <em>Caught Stealing</em>?</p>\n</div>\n",
+				"content_text": "<div class=\"trix-content\">\n  <p>Going to a movie tonight and I’m not really a horror fan. Do I force myself to <em>Weapons</em> or go for <em>Caught Stealing</em>?</p>\n</div>\n",
+				"date_published": "2025-09-03T14:10:00-05:00",
+				"url": "https://micromicroblog.bjhess.com/2025/09/03/going-to-a-movie-tonight.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/09/02/my-head-needs-some-clearing.html",
+				"title": "My head needs some clearing, so taking a break from CDN/S3 troubleshooting...",
+				"content_html": "<div class=\"trix-content\">\n  <p>My head needs some clearing, so taking a break from CDN/S3 troubleshooting and primarily working on some smaller Pika things this week.</p>\n</div>\n",
+				"content_text": "<div class=\"trix-content\">\n  <p>My head needs some clearing, so taking a break from CDN/S3 troubleshooting and primarily working on some smaller Pika things this week.</p>\n</div>\n",
+				"date_published": "2025-09-02T15:59:13-05:00",
+				"url": "https://micromicroblog.bjhess.com/2025/09/02/my-head-needs-some-clearing.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/09/01/getting-cloudfronts-to-be-responsive.html",
+				"title": "Getting CloudFront/S3 to be responsive and consistently hitting its cache may be...",
+				"content_html": "<div class=\"trix-content\">\n  <p>Getting CloudFront/S3 to be responsive and consistently hitting its cache may be the death of me. Wishing I could go back in time and start with Cloudflare, but is the grass really greener?</p>\n</div>\n",
+				"content_text": "<div class=\"trix-content\">\n  <p>Getting CloudFront/S3 to be responsive and consistently hitting its cache may be the death of me. Wishing I could go back in time and start with Cloudflare, but is the grass really greener?</p>\n</div>\n",
+				"date_published": "2025-09-01T00:00:54-05:00",
+				"url": "https://micromicroblog.bjhess.com/2025/09/01/getting-cloudfronts-to-be-responsive.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/08/31/id-like-to-try-monarch.html",
+				"title": "I’d like to try Monarch, but I just assume it will be...",
+				"content_html": "<div class=\"trix-content\">\n  <p>I’d like to try <a href=\"https://www.monarchmoney.com/\">Monarch</a>, but I just assume it will be bought and run into the ground at some point. And so I don’t.</p>\n</div>\n",
+				"content_text": "<div class=\"trix-content\">\n  <p>I’d like to try <a href=\"https://www.monarchmoney.com/\">Monarch</a>, but I just assume it will be bought and run into the ground at some point. And so I don’t.</p>\n</div>\n",
+				"date_published": "2025-08-31T16:58:23-05:00",
+				"url": "https://micromicroblog.bjhess.com/2025/08/31/id-like-to-try-monarch.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/08/29/in-the-car-and-heading.html",
+				
+				"content_html": "<div class=\"trix-content\">\n  <p>In the car and heading toward college.</p>\n<div class=\"attachment-gallery\"><figure class=\"attachment attachment--preview attachment--jpeg\">\n\n\n\n    <img height=\"3024\" width=\"3024\" data-zoom-src=\"https://cdn.u.pika.page/AjNTKMRVykboSG4PvOljIbiBv42BDTMyO_-sJXqw3Ws/s:3840:3840/fn:IMG_3522/plain/s3://pika-production/iw3n1apnq9fmqyq07ti4st1r2u2i@jpg\" data-original-src=\"/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODEyODYsInB1ciI6ImJsb2JfaWQifX0=--5bce0f5a12cf9206a89062251398f68f0f9f6eee/IMG_3522.jpeg\" alt=\"\" src=\"https://cdn.uploads.micro.blog/25320/2025/iw3n1apnq9fmqyq07ti4st1r2u2ijpg.jpg\">\n\n</figure></div>\n</div>\n",
+				"content_text": "<div class=\"trix-content\">\n  <p>In the car and heading toward college.</p>\n<div class=\"attachment-gallery\"><figure class=\"attachment attachment--preview attachment--jpeg\">\n\n\n\n    <img height=\"3024\" width=\"3024\" data-zoom-src=\"https://cdn.u.pika.page/AjNTKMRVykboSG4PvOljIbiBv42BDTMyO_-sJXqw3Ws/s:3840:3840/fn:IMG_3522/plain/s3://pika-production/iw3n1apnq9fmqyq07ti4st1r2u2i@jpg\" data-original-src=\"/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODEyODYsInB1ciI6ImJsb2JfaWQifX0=--5bce0f5a12cf9206a89062251398f68f0f9f6eee/IMG_3522.jpeg\" alt=\"\" src=\"https://cdn.uploads.micro.blog/25320/2025/iw3n1apnq9fmqyq07ti4st1r2u2ijpg.jpg\">\n\n</figure></div>\n</div>\n",
+				"date_published": "2025-08-29T07:14:41-05:00",
+				"url": "https://micromicroblog.bjhess.com/2025/08/29/in-the-car-and-heading.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/08/26/real-world-experiences-with-lemon.html",
+				"title": "Real world experiences with Lemon Squeezy vs Paddle...",
+				"content_html": "<div class=\"trix-content\">\n  <p>Real world experiences with Lemon Squeezy vs Paddle? Pika needs to move from Stripe to a merchant of record vendor. If it’s a coin flip, I would assume migrating to Lemon Squeezy will be easier since it’s a Stripe company.</p>\n</div>\n",
+				"content_text": "<div class=\"trix-content\">\n  <p>Real world experiences with Lemon Squeezy vs Paddle? Pika needs to move from Stripe to a merchant of record vendor. If it’s a coin flip, I would assume migrating to Lemon Squeezy will be easier since it’s a Stripe company.</p>\n</div>\n",
+				"date_published": "2025-08-26T10:34:31-05:00",
+				"url": "https://micromicroblog.bjhess.com/2025/08/26/real-world-experiences-with-lemon.html"
+			},
+			{
+				"id": "http://bjhess.micro.blog/2025/08/25/prepping-for-her-college-move.html",
+				"title": "Prepping for her college move, I just loaded up Cora with bookshelf...",
+				"content_html": "<div class=\"trix-content\">\n  <p>Prepping for her college move, I just loaded up Cora with bookshelf speakers I bought my senior year of college. 🔊🎵❤️ (Made in Germany MB Quart QL C 104s.)</p>\n</div>\n",
+				"content_text": "<div class=\"trix-content\">\n  <p>Prepping for her college move, I just loaded up Cora with bookshelf speakers I bought my senior year of college. 🔊🎵❤️ (Made in Germany MB Quart QL C 104s.)</p>\n</div>\n",
+				"date_published": "2025-08-25T18:53:55-05:00",
+				"url": "https://micromicroblog.bjhess.com/2025/08/25/prepping-for-her-college-move.html",
+				"tags": ["Listening"]
+			},
+			{
 				"id": "http://bjhess.micro.blog/2025/08/23/trying-to-understand-how-this.html",
 				"title": "Trying to understand how this Render.com edge cache offering isn’t a server...",
 				"content_html": "<div class=\"trix-content\">\n  <p>Trying to understand how this Render.com edge cache offering isn’t a server bomb waiting to happen. <a href=\"https://render.com/docs/web-service-caching#invalidation-and-expiration\">The entire cache is purged</a> on every deploy. Seems you’d need to be provisioned as if you have no caching at all?</p>\n</div>\n",
